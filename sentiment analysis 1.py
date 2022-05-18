@@ -22,7 +22,7 @@ from sklearn.metrics                 import classification_report
 from sklearn.metrics                 import plot_confusion_matrix
 
 #%%% data preparetion
-dta = pd.read_excel('/Users/jialinshang/Desktop/marketing/final project/Oculus_reviews.xlsx').reset_index()
+dta = pd.read_excel('/Users/jialinshang/Desktop/marketing/final project/BestBuy_US_Oculus_Quest2_reviews256.xlsx').reset_index()
 
 #filter out noise information
 dta1 = dta[['index','scrapping_date','one_review_text','review_date','one_review_stars','Rating']].copy()
@@ -106,7 +106,7 @@ results_list_knn_actual = pd.DataFrame(results_list_knn_actual).transpose()
 dta2=dta1
 dta2['Predicted_star']  = results_list_knn_actual[0]
 #dta2 = dta2.sort_values(by='index')
-#dta2.to_excel('Oculus_reviews.xlsx', index = False)
+#dta2.to_excel('BestBuy_US_Oculus_Quest2_reviews256.xlsx', index = False)
 print(dta2)
 
 #%%% logistic regression

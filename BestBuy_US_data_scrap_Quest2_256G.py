@@ -120,7 +120,7 @@ Oculus_reviews['review_raw'].map(lambda Oculus_reviews: BeautifulSoup(Oculus_rev
 Oculus_reviews['Rating'] = Oculus_reviews.one_review_stars.str.extract("(\d)")[[0]]
 
 #%%% export to excel
-file_name = 'Oculus_reviews.xlsx'
+file_name = 'BestBuy_US_Oculus_Quest2_reviews256.xlsx'
 Oculus_reviews.to_excel(file_name)
 time_end = time.time()
 print('縂耗時', time_end - time_star, 's')
