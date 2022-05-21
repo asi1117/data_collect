@@ -37,7 +37,7 @@ if __name__ == '__main__':
     #https://www.bestbuy.ca/api/reviews/v2/products/15490835/reviews?source=all&lang=en-CA&pageSize=10&page=2&sortBy=relevancy
     #page = get_html(url)
     lables =['scrapping_date','one_reviews_text','review_date','one_review_stars','Rating']
-    with open('BestBuy_Canada_Oculus_Quest2_reviews128G.csv','w',encoding='utf-8_sig',newline='') as f: #注意要這個裏面的屬性 newline是刪除空行
+    with open('BestBuy_Canada_Oculus_Quest2_reviews128G.csv', 'w', encoding='utf-8_sig', newline='') as f: #注意要這個裏面的屬性 newline是刪除空行
         writer = csv.writer(f)
         writer.writerow(lables)
 
