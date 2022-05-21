@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\1BestBuy_Canada_Oculus_Quest2_reviews256G.csv">
+        <entry key="\Amazon_UA_Oculus_rifs_reviews.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -11,6 +11,13 @@
           </value>
         </entry>
         <entry key="\Amazon_UK_Oculus_rifs_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Amazon_US_Oculus_Quest2_reviews.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
