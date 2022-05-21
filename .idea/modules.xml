@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Oculus_review_analysis2.iml" filepath="$PROJECT_DIR$/.idea/Oculus_review_analysis2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VR_review_collect.iml" filepath="$PROJECT_DIR$/.idea/VR_review_collect.iml" />
     </modules>
   </component>
 </project>
