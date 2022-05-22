@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Astria_Reviews\Amazon_Astria_Oculus_Quest2_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\BestBuy_Canada_Oculus_Quest2_reviews128G.csv">
           <value>
             <Attribute>
@@ -53,6 +60,27 @@
           </value>
         </entry>
         <entry key="\Cannda_Reviews\Amazon_Canada_Oculus_Quest2_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UA_Reviews\Amazon_UA_Oculus_Quest2_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UK_Reviews\Amazon_UK_Oculus_Quest2_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UK_Reviews\Amazon_UK_Oculus_Quest_reviews.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
