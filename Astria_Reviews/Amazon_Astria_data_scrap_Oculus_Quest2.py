@@ -30,7 +30,7 @@ from bs4 import BeautifulSoup
 import  traceback
 # %%% relevent website
 
-website = 'https://www.amazon.co.uk/product-reviews/B08HJWPKGW/ref=cm_cr_othr_d_show_all_btm?ie=UTF8&reviewerType=all_reviews'
+website = 'https://www.amazon.com.au/Oculus-Quest-2-Virtual-Reality-Headset/product-reviews/B08V51TP2C/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews'
 
 # %%% initialize chrome
 # open website
@@ -54,11 +54,6 @@ while (condition_to_continue):
     reviews = driver.find_elements(by=By.XPATH, value="//div[@class='a-section review aok-relative']")
 
     r = 0
-
-    try:
-        driver.find_element(by=By.XPATH, value='//*[@id="a-autoid-0"]').click()
-    except:
-        print('沒有cookie了')
     # Finding all the reviews in the website and bringing them to python
     for r in range(len(reviews)):
 
@@ -113,7 +108,7 @@ while (condition_to_continue):
             info = traceback.format_exc()
             print(info)
         try:
-            size = soup.find('a', attrs={'class': 'a-size-mini a-link-normal a-color-secondary'}).text.split(':')[2]
+            size = soup.find('a', attrs={'class': 'a-size-mini a-link-normal a-color-secondary'}).text.split(' ')[2]
             print(size)
         except:
             size = ''
@@ -129,7 +124,7 @@ while (condition_to_continue):
             index=[count]))
         count += 1
         print(count)
-        dataframe.to_csv("Amazon_UK_Oculus_Quest2_reviews.csv", index=False, sep=',', encoding='utf_8_sig')
+        dataframe.to_csv("Amazon_Astria_Oculus_Quest2_reviews.csv", index=False, sep=',', encoding='utf_8_sig')
 
     before = driver.page_source
     driver.find_element(by=By.XPATH, value='//*[@id="cm_cr-pagination_bar"]/ul/li[2]/a').click()
