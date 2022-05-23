@@ -30,7 +30,7 @@ from bs4 import BeautifulSoup
 import  traceback
 # %%% relevent website
 
-website = 'https://www.amazon.com/-/zh/product-reviews/B0876HSX6J/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews'
+website = 'https://www.amazon.co.uk/product-reviews/B0948FKB7H/ref=cm_cr_othr_d_show_all_btm?ie=UTF8&reviewerType=all_reviews'
 
 # %%% initialize chrome
 # open website
@@ -52,7 +52,10 @@ while (condition_to_continue):
     except:
         print("首页有个小问题")
     reviews = driver.find_elements(by=By.XPATH, value="//div[@class='a-section review aok-relative']")
-
+    try:
+        driver.find_element(by=By.XPATH, value='//*[@id="a-autoid-0"]').click()
+    except:
+        print('沒有cookie了')
     r = 0
 
     # Finding all the reviews in the website and bringing them to python
@@ -121,7 +124,7 @@ while (condition_to_continue):
             index=[count]))
         count += 1
         print(count)
-        dataframe.to_csv("Amazon_US_Valve_Index(2)_reviews.csv", index=False, sep=',', encoding='utf_8_sig')
+        dataframe.to_csv("Amazon_Canada_Pimax_8K_reviews.csv", index=False, sep=',', encoding='utf_8_sig')
 
     before = driver.page_source
     driver.find_element(by=By.XPATH, value='//*[@id="cm_cr-pagination_bar"]/ul/li[2]/a').click()

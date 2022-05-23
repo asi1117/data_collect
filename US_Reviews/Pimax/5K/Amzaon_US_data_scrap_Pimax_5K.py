@@ -30,7 +30,7 @@ from bs4 import BeautifulSoup
 import  traceback
 # %%% relevent website
 
-website = 'https://www.amazon.com/-/zh/product-reviews/B0876HSX6J/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews'
+website = 'https://www.amazon.com/-/zh/product-reviews/B07JZL5QK3/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews'
 
 # %%% initialize chrome
 # open website
@@ -121,7 +121,7 @@ while (condition_to_continue):
             index=[count]))
         count += 1
         print(count)
-        dataframe.to_csv("Amazon_US_Valve_Index(2)_reviews.csv", index=False, sep=',', encoding='utf_8_sig')
+        dataframe.to_csv("Amazon_US_Pimax_5k_Plus_reviews.csv", index=False, sep=',', encoding='utf_8_sig')
 
     before = driver.page_source
     driver.find_element(by=By.XPATH, value='//*[@id="cm_cr-pagination_bar"]/ul/li[2]/a').click()
