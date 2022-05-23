@@ -98,7 +98,7 @@ while (condition_to_continue):
             print(review_title)
         except:
             review_title = soup.find('span', attrs={'data-hook': 'review-title'}).text
-            print('提取評論標題出異常')
+            print(review_title)
             info = traceback.format_exc()
             print(info)
         try:
@@ -106,7 +106,7 @@ while (condition_to_continue):
             print(review_rating)
         except:
             review_rating = soup.find('i', attrs={'data-hook': 'cmps-review-star-rating'}).text.split('.')[0]
-            print('提取評分出異常')
+            print(review_rating)
             info = traceback.format_exc()
             print(info)
         try:
@@ -126,7 +126,7 @@ while (condition_to_continue):
             index=[count]))
         count += 1
         print(count)
-        dataframe.to_csv("Amazon_Canada_Oculus_rifs()_reviews.csv", index=False, sep=',', encoding='utf_8_sig')
+        dataframe.to_csv("Amazon_Canada_Oculus_rifs(2)_reviews.csv", index=False, sep=',', encoding='utf_8_sig')
 
     before = driver.page_source
     driver.find_element(by=By.XPATH, value='//*[@id="cm_cr-pagination_bar"]/ul/li[2]/a').click()
