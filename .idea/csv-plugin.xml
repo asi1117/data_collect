@@ -45,6 +45,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Astria_Reviews\HTC\viveCosmos\Amazon_Astria_HTC_Cosmos_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Astria_Reviews\HTC\vivepro\Amazon_Astria_HTC_VivePro_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\BestBuy_Canada_Oculus_Quest2_reviews128G.csv">
           <value>
             <Attribute>
@@ -66,7 +80,84 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Cannda_Reviews\HTC\viveCosmos\Amazon_Canada_HTC_Cosmos_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Cannda_Reviews\HTC\viveCosmos\Amazon_Canada_HTC_Vive系列_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Cannda_Reviews\HTC\vivepro2\Amazon_Canada_HTC_VivePro2Full_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Cannda_Reviews\HTC\vivepro2\Amazon_Canada_HTC_VivePro2_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Cannda_Reviews\HTC\vivepro\Amazon_Canada_HTC_VivePro_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Cannda_Reviews\Oculus\Quest\Amazon_Canada_Oculus_Quest_128G_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Cannda_Reviews\Oculus\Rift S\Amazon_Canada_Oculus_rifs(2)_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\UA_Reviews\Amazon_UA_Oculus_Quest2_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UA_Reviews\HTC\viveCosmos\Amazon_UA_HTC_Cosmos_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UA_Reviews\HTC\vivepro2\Amazon_UA_HTC_VivePro2_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UA_Reviews\HTC\vivepro\Amazon_UA_HTC_VivePro_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UA_Reviews\Oculus\Quest\Amazon_UA_Oculus_Quest_reviews.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -81,6 +172,41 @@
           </value>
         </entry>
         <entry key="\UK_Reviews\Amazon_UK_Oculus_Quest_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UK_Reviews\HTC\Cosmos\Amazon_UK_HTC_Cosmos_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UK_Reviews\HTC\vivepro2\Amazon_UK_HTC_VivePro2_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\UK_Reviews\ValveIndex\Amazon_UK_Valve_Index_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\US_Reviews\HTC\vivepro\Amazon_US_HTC_VivePro_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\US_Reviews\Oculus\Quest\Amazon_US_Oculus_Quest_reviews.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
