@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\2gameMessage.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Astria_Reviews\HTC\viveCosmos\Amazon_Astria_HTC_Cosmos_reviews.csv">
           <value>
             <Attribute>
@@ -130,6 +137,13 @@
           </value>
         </entry>
         <entry key="\US_Reviews\Oculus\Quest\Amazon_US_Oculus_Quest_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\gameMessage.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

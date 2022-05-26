@@ -18,7 +18,6 @@ website = 'https://www.oculus.com/experiences/quest/section/391914765228253'
 # %%% initialize chrome
 # open website
 driver = Chrome()
-driver1 = Chrome()
 driver.get(website)
 driver.maximize_window()
 time_star = time.time()
@@ -33,18 +32,17 @@ for i in range(38):
     driver.execute_script("arguments[0].scrollIntoView()", page)
     time.sleep(1)
     print(i)
+n = 0
 #得到商品的所有共同标签，将标签内容传到soup中
 while(condition_to_continue):
     iteam_list = driver.find_elements(by=By.XPATH, value='//div[@class="section__items-cell"]')
-
     #循环打开游戏的页面，获取上面的信息
-    for n in range(len(iteam_list)+1):
+    while(n<len(iteam_list)+1) :
         soup1 = BeautifulSoup(iteam_list[n].get_attribute('innerHTML'), "html.parser")
-        n = n+1
         id1 = soup1.find('a', attrs={'class': 'store-section-item-tile'}).get('data-testid')
         print(id1)
         # 得到商品id，通过访问url将商品信息输进去
-        url = 'https://www.oculus.com/experiences/quest/' +str(id1)
+        url = 'https://www.oculus.com/experiences/quest/' + str(id1)
         driver.get(url)
         driver.maximize_window()
         windows = driver.window_handles  # 获得多个窗口句柄
@@ -118,17 +116,17 @@ while(condition_to_continue):
             count += 1
             print(count)
             print(id1+'.csv')
-            driver.quit()
             time.sleep(2)
-
-
+            driver.get(website)
+            driver.maximize_window()
+            time.sleep(5)
+            n = n + 1
+            dataframe.to_csv("gameMessage.csv", index=False, sep=',', encoding='utf_8_sig')
+            break
         except:
             print("写文件出错")
-        dataframe.to_csv("gameMessage.csv", index=False, sep=',', encoding='utf_8_sig')
-    driver1.get(website)
-    driver1.maximize_window()
-    time.sleep(4)
-    continue
+
+
     # try:
     #     game_Modes = soup2.find('div',attrs={'class':'app-details-row__right'})
     # except:
