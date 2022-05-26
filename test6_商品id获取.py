@@ -51,10 +51,13 @@ for i in range(38):
     print(i)
 iteam_list = driver.find_elements(by=By.XPATH, value='//div[@class="section__items-cell"]')
 print(len(iteam_list))
-for n in range(len(iteam_list)+1):
+id_list = []
+for n in range(len(iteam_list)):
     soup = BeautifulSoup(iteam_list[n].get_attribute('innerHTML'), "html.parser")
     id1 = soup.find('a',attrs={'class': 'store-section-item-tile'}).get('data-testid')
+    id_list.append(id1)
     print(id1)
+print(id_list)
     # id = driver.find_element(by=By.XPATH, value='//a[@class="store-section-item-tile"]').get_attribute('data-testid')
     # print(id)
 # while (condition_to_continue):
