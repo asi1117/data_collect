@@ -29,6 +29,7 @@ id_list = ['2734683026604050', '1081190428622821', '2031736060288351', '24723749
 print(len(id_list))
 n = 0
 k = 0
+worry_list = []
 #得到商品的所有共同标签，将标签内容传到soup中
 #循环打开游戏的页面，获取上面的信息
 while(n<len(id_list)) :
@@ -75,67 +76,196 @@ while(n<len(id_list)) :
         iteam_price = ''
         print('价格失败')
     try:
-        # print(len(app_details))
-        # print(app_details[0].text)
-        # print(app_details[1].text)
-        # print(app_details[2].text)
-        # print(app_details[3].text)
-        # print(app_details[4].text)
-        # print(app_details[5].text)
-        # print(app_details[6].text)
-        # print(app_details[7].text)
-        # print(app_details[8].text)
-        # print(app_details[9].text)
-        print(app_details[10].text)
-        print(app_details[11].text)
-        print(app_details[12].text)
-        print(app_details[13].text)
-        print(len(app_details))
-        print('到这一步了')
-        dataframe = dataframe.append(pd.DataFrame({
-            'Game_Id': id_list[n-1],
-            'Game_Name': iteam_name,
-            'Game_price': iteam_price,
-            'Game_description': iteam_description,
-            'Game_Modes': app_details[0].text,
-            'Game_PlayerModes': app_details[1].text,
-            'Game_Tracking':app_details[2].text,
-            'Game_Controllers': app_details[3].text,
-            'Game_Platforms': app_details[4].text,
-            'Category': app_details[5].text,
-            'Game_Genres': app_details[6].text,
-            'Game_Languages': app_details[7].text,
-            'Game_Version': app_details[8].text,
-            'Game_Developer': app_details[9].text,
-            'Game_Publisher': app_details[10].text,
-            'Game_Website': app_details[11].text,
-            'Game_ReleaseDate': app_details[12].text,
-            'Game_Policy': app_details[13].text,
-            'Game_RecommrndedCPU':app_details[16].text,
-            'Game_RecommrndedGraphics':app_details[17].text,
-        },
-            index=[count]))
-        count += 1
-        print(count)
-        print(id_list[n-1]+'.csv')
+        if len(app_details) == 13:
+            print(id_list[n-1]+'.csv')
+            dataframe = dataframe.append(pd.DataFrame({
+                'Game_Id': id_list[n - 1],
+                'Game_Name': iteam_name,
+                'Game_price': iteam_price,
+                'Game_description': iteam_description,
+                'Game_Modes': app_details[0].text,
+                'Game_PlayerModes': app_details[1].text,
+                'Game_Tracking': '',
+                'Game_Controllers': app_details[2].text,
+                'Game_Platforms': app_details[3].text,
+                'Category': app_details[4].text,
+                'Game_Genres': '',
+                'Game_Languages': app_details[5].text,
+                'Game_Version': app_details[6].text,
+                'Game_Developer': app_details[7].text,
+                'Game_Publisher': app_details[8].text,
+                'Game_Website': app_details[9].text,
+                'Game_ReleaseDate': app_details[10].text,
+                'Game_Policy': app_details[11].text,
+                'Game_RecommrndedCPU': '',
+                'Game_RecommrndedGraphics': '',
+            },
+                index=[count]))
+            count += 1
+            print(count)
+            dataframe.to_csv("Item_message1.csv", index=False, sep=',', encoding='utf_8_sig')
+            time.sleep(2)
+        if len(app_details) == 14:
+            print(len(app_details))
+            print(id_list[n-1]+'.csv')
+            dataframe = dataframe.append(pd.DataFrame({
+                'Game_Id': id_list[n - 1],
+                'Game_Name': iteam_name,
+                'Game_price': iteam_price,
+                'Game_description': iteam_description,
+                'Game_Modes': app_details[0].text,
+                'Game_PlayerModes': '',
+                'Game_Tracking': '',
+                'Game_Controllers': app_details[1].text,
+                'Game_Platforms': app_details[2].text,
+                'Category': app_details[3].text,
+                'Game_Genres': app_details[4].text,
+                'Game_Languages': app_details[5].text,
+                'Game_Version': app_details[6].text,
+                'Game_Developer': app_details[7].text,
+                'Game_Publisher': app_details[8].text,
+                'Game_Website': app_details[9].text,
+                'Game_ReleaseDate': app_details[10].text,
+                'Game_Policy': app_details[11].text,
+                'Game_RecommrndedCPU': '',
+                'Game_RecommrndedGraphics': '',
+            },
+                index=[count]))
+            count += 1
+            print(count)
+            dataframe.to_csv("Item_message1.csv", index=False, sep=',', encoding='utf_8_sig')
+            time.sleep(2)
+        if len(app_details) == 15:
+            print(len(app_details))
+            print(id_list[n - 1] + '.csv')
+            dataframe = dataframe.append(pd.DataFrame({
+                'Game_Id': id_list[n - 1],
+                'Game_Name': iteam_name,
+                'Game_price': iteam_price,
+                'Game_description': iteam_description,
+                'Game_Modes': app_details[0].text,
+                'Game_PlayerModes': app_details[1].text,
+                'Game_Tracking': app_details[2].text,
+                'Game_Controllers': app_details[3].text,
+                'Game_Platforms': app_details[4].text,
+                'Category': app_details[5].text,
+                'Game_Genres': app_details[6].text,
+                'Game_Languages': app_details[7].text,
+                'Game_Version': app_details[8].text,
+                'Game_Developer': app_details[9].text,
+                'Game_Publisher': app_details[10].text,
+                'Game_Website': app_details[11].text,
+                'Game_ReleaseDate': app_details[12].text,
+                'Game_Policy': app_details[13].text,
+                'Game_RecommrndedCPU': '',
+                'Game_RecommrndedGraphics': '',
+            },
+                index=[count]))
+            count += 1
+            print(count)
+            dataframe.to_csv("Item_message1.csv", index=False, sep=',', encoding='utf_8_sig')
+            time.sleep(2)
+        if len(app_details) == 16:
+            print(len(app_details))
+            print(id_list[n - 1] + '.csv')
+            dataframe = dataframe.append(pd.DataFrame({
+                'Game_Id': id_list[n - 1],
+                'Game_Name': iteam_name,
+                'Game_price': iteam_price,
+                'Game_description': iteam_description,
+                'Game_Modes': app_details[0].text,
+                'Game_PlayerModes': app_details[1].text,
+                'Game_Tracking': app_details[2].text,
+                'Game_Controllers': app_details[3].text,
+                'Game_Platforms': app_details[4].text,
+                'Category': app_details[5].text,
+                'Game_Genres': app_details[6].text,
+                'Game_Languages': app_details[7].text,
+                'Game_Version': app_details[8].text,
+                'Game_Developer': app_details[9].text,
+                'Game_Publisher': app_details[10].text,
+                'Game_Website': app_details[11].text,
+                'Game_ReleaseDate': app_details[12].text,
+                'Game_Policy': app_details[13].text,
+                'Game_RecommrndedCPU': '',
+                'Game_RecommrndedGraphics': '',
+            },
+                index=[count]))
+            count += 1
+            print(count)
 
-        dataframe.to_csv("Item_message4.csv", index=False, sep=',', encoding='utf_8_sig')
-        time.sleep(2)
+            dataframe.to_csv("Item_message1.csv", index=False, sep=',', encoding='utf_8_sig')
+            time.sleep(2)
+        if len(app_details) == 17:
+            print(id_list[n-1]+'.csv')
+            print(len(app_details))
+            print('到这一步了')
+            dataframe = dataframe.append(pd.DataFrame({
+                'Game_Id': id_list[n - 1],
+                'Game_Name': iteam_name,
+                'Game_price': iteam_price,
+                'Game_description': iteam_description,
+                'Game_Modes': app_details[0].text,
+                'Game_PlayerModes': app_details[1].text,
+                'Game_Tracking': '',
+                'Game_Controllers': app_details[2].text,
+                'Game_Platforms': app_details[3].text,
+                'Category': app_details[4].text,
+                'Game_Genres': app_details[5].text,
+                'Game_Languages': app_details[6].text,
+                'Game_Version': app_details[7].text,
+                'Game_Developer': app_details[8].text,
+                'Game_Publisher': app_details[9].text,
+                'Game_Website': app_details[10].text,
+                'Game_ReleaseDate': app_details[11].text,
+                'Game_Policy': app_details[12].text,
+                'Game_RecommrndedCPU': '',
+                'Game_RecommrndedGraphics': '',
+            },
+                index=[count]))
+            count += 1
+            print(count)
+            dataframe.to_csv("Item_message1.csv", index=False, sep=',', encoding='utf_8_sig')
+            time.sleep(2)
+        else:
+            print(len(app_details))
+            print(id_list[n-1]+'.csv')
+            print('到这一步了')
+            dataframe = dataframe.append(pd.DataFrame({
+                'Game_Id': id_list[n-1],
+                'Game_Name': iteam_name,
+                'Game_price': iteam_price,
+                'Game_description': iteam_description,
+                'Game_Modes': app_details[0].text,
+                'Game_PlayerModes': app_details[1].text,
+                'Game_Tracking':app_details[2].text,
+                'Game_Controllers': app_details[3].text,
+                'Game_Platforms': app_details[4].text,
+                'Category': app_details[5].text,
+                'Game_Genres': app_details[6].text,
+                'Game_Languages': app_details[7].text,
+                'Game_Version': app_details[8].text,
+                'Game_Developer': app_details[9].text,
+                'Game_Publisher': app_details[10].text,
+                'Game_Website': app_details[11].text,
+                'Game_ReleaseDate': app_details[12].text,
+                'Game_Policy': app_details[13].text,
+                'Game_RecommrndedCPU':app_details[16].text,
+                'Game_RecommrndedGraphics':app_details[17].text,
+            },
+                index=[count]))
+            count += 1
+            print(count)
+            dataframe.to_csv("Item_message1.csv", index=False, sep=',', encoding='utf_8_sig')
+            time.sleep(2)
 
     except:
         print(id_list[n-1] ,"写文件出错")
+        worry_list.append(id_list[n-1])
+        print('worry_list',worry_list)
         n = k
         continue
 
-
-
-
-    # try:
-    #     game_Modes = soup2.find('div',attrs={'class':'app-details-row__right'})
-    # except:
-    #     game_playWays = soup2.find('')
-    #
-    #
 
 
 
