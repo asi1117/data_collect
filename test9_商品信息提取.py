@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 import traceback
 # %%% relevent website
 
-website = 'https://www.oculus.com/experiences/quest/section/391914765228253/'
+website = 'https://www.oculus.com/experiences/rift/section/1736210353282450/'
 
 # %%% initialize chrome
 # open website
@@ -131,7 +131,7 @@ while(n<len(iteam_list)) :
         print(count)
         print(id_list[n]+'.csv')
         k = 0
-
+        driver.find_element(by=By.CLASS_NAME,value=',')
         dataframe.to_csv("3gameMessage.csv", index=False, sep=',', encoding='utf_8_sig')
         time.sleep(2)
     except:
