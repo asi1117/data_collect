@@ -30,7 +30,7 @@ from bs4 import BeautifulSoup
 import  traceback
 # %%% relevent website
 
-website = 'https://www.oculus.com/experiences/rift/section/1736210353282450/'
+website = 'https://www.oculus.com/experiences/quest/section/391914765228253/'
 
 # %%% initialize chrome
 # open website
