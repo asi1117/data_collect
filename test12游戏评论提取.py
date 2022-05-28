@@ -143,8 +143,19 @@ while (id<len(id2_list)):#第一次循环进行传递id
                     time.sleep(2)
                 except:
                     print(id2_list[id],'评论有问题')
-            reviews_count =reviews_count+1
+           #因为一直导致在最后一页卡住所以改进下页数的对比
+            try:
+                page_count = driver.find_element(by=By.CLASS_NAME,value='app-review-pager__number app-review-pager__number--current').text
+                print('页数提取',page_count)
+                if int(page_count) != reviews_count:
+                    print(page_count ,'游戏评论页数')
+                    print(reviews_count,'评论页数')
+                    break
+            except:
+
+                print('页面提取有问题')
             print('评论页数', reviews_count)
+            reviews_count = reviews_count + 1
             try:
                 driver.find_element(by=By.XPATH, value='//*[@id="mount"]/div/div[2]/div/div/div[2]/div[2]/div/div[1]/div[8]/div/div[4]/div[7]/button[2]').click()
                 time.sleep(2)
@@ -161,8 +172,8 @@ while (id<len(id2_list)):#第一次循环进行传递id
         #     time.sleep(10)
     except:
         print('这个游戏有问题',id)
-        id=id+1
-        break
+        id = id+1
+        continue
     id = id + 1
 # %%% data cleaning
 

@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\1368187813209608.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\2gameMessage.csv">
           <value>
             <Attribute>
@@ -24,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\4020038261419508.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\4220006248051477.csv">
           <value>
             <Attribute>
@@ -32,20 +32,6 @@
           </value>
         </entry>
         <entry key="\4988470131168299.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\872183756232656.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\909129545868758.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
