@@ -1,0 +1,54 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 19:35:29.446831,Bob-Rolha,Fantastic demoscene in just 64kb.,"Fantastic, demoscenes are perfect in VR. I like floating around in places with background music where I don't have to worry about controls. My suggestion would be to improve the graphics resolution and also optimize the graphics engine as it looks a bit heavy.
+Congratulations for the demo in so few Kbytes. Hope to see more like this.",Feb 17 at 1:09 AM,5, 0,
+2022-05-28 19:35:29.461792,LakesGeek,Wow this takes me back,I used to love these demos on the Amiga!  This is one of those times when I wish I could pull myself from the past and show myself life in 2020 (I wouldn't say anything about viruses).  I would be absolutely floored.,"Jul 4, 2020 at 5:02 AM",5, 1,
+2022-05-28 19:35:29.476259,HarbingerThrace,Like a music video,It is like a cool futuristic music video.  Pretty graphics and good music.  Short but fun and relaxing.  And free!,"Feb 2, 2020 at 9:27 AM",5, 0,
+2022-05-28 19:35:29.491219,srmo,Exceptional,"This is just fantastatic. I'm following Revision Demo Party online, as a pure fanboy. The 8kByte and 64kByte Compos are among my favorites.
+Now we have here the great Offscreen Colonies, which has everything packed to 64kBytes! This is around 16 empty Word files! And the exe includes everything, the graphics, the music, the voice generation, the animation. THe magic lies in the layout of the code and how they are able to pack it to such a small size, which includes algorithms that generate textures and sound on boot time.
+
+This version here is an extended Version with Oculus VR support, released in 2017. It has been increased to 127kByte (people, just look in the Oculus software folder, it's true!).
+
+A must see!","May 30, 2019 at 7:21 PM",5, 3,
+2022-05-28 19:35:29.506180,mdrejhon,"Ignore ""2.00 GB Required"", this is tiny!","Clicking ""Download"" and this demo was ready to run in less than 1 second.  
+
+Oculus simply asks you have 2GB disk space free.  But the actual download is really fast and tiny -- this will download in just 1 second on most systems.
+
+You can be instantly viewing this little piece of 5-minute art demo (it only tiny 64 kilobytes - under 0.0001 gigabyte for those not familiar).  It's even good enough to show to other people about ""funky graphics in VR"" as a quick demo that doesn't require teaching people to use controllers.","Feb 26, 2019 at 10:56 AM",5, 2,
+2022-05-28 19:35:32.631402,intosia,,Hmmm retro synth wave goodness!,"Aug 29, 2018 at 1:01 AM",4, 0,
+2022-05-28 19:35:32.646362,Pezito,Keep it coming!,"I've been following the demoscene for years and Conspiracy's demos are among the best. Offscreen Colonies was an amazing piece of code, audio and visuals, magically packed in no more than 64KB. I'm very excited to experience it in VR now! :) A few technical glitches might need some polishing (aliasing in the distance, some lens flares missing transparency) but overall it's a very nice port of the original demo. I hope there will be more in the future!","Jan 5, 2018 at 6:47 PM",4, 5,
+2022-05-28 19:35:32.661322,mijac,Demoscene on VR!!,"As an Amiga demoscene coder, I have been really surprised with this 64kb demo in VR. Brilliant.","Jan 31, 2018 at 8:27 AM",5, 6,
+2022-05-28 19:35:32.675284,sirpresage,,I'm only impressed by the fact it was so light for what it is,"Mar 3, 2018 at 7:40 AM",4, 0,
+2022-05-28 19:35:32.690756,k8bit,Fantastic - check the filesize!,"The demoscene arrives on VR at last - I hope for more.  For those of you who dont know, the demoscene is art through coding, visuals, music and sound, usually in absurdly small filesizes, and usually entered in competition with other works to compete in various categories.  But moreover, they're just fantastic demonstrations of creativity.. and they were made to be experienced in VR :)","Dec 19, 2017 at 5:52 AM",5, 3,
+2022-05-28 19:35:35.801544,mindcola,Would love to see more!,"I've always been a fan of the demoscene and it's great to see one of the premier groups port a recent demo to VR.
+
+Sure, it's short.  But, it's 64kb of masterful programming (including music and graphics) that entertains you and anyone you want to impress with your new Oculus.
+
+I'd love to see more from other scene groups.  This stuff is awesome.","Jan 1, 2018 at 8:27 AM",5, 5,
+2022-05-28 19:35:35.817502,YellowJacked,dangerous,"Executable loaded with a trojan, don't download this crap","Feb 12, 2018 at 1:03 PM",1, 6,"The report of malware is a false positive, due to the executable compression technology used."
+2022-05-28 19:35:35.832461,Overand,Nice example of demoscene fun. 64k demo!,"I enjoyed this! It works nicely with the positional tracking; I'd never realized how badly I wanted to move around inside a demo! Performance was perfect on ""high"" with my GTX 1060 (6GB) and an i5-4670k, both running at stock clock speeds.
+
+There are some shortcomings: the supersampling is either too low, or the lines it's rendering for some stuff are too thin; it ends up with some moire patterns / aliasing. Also, some of the reflections behave a bit oddly in VR, and there are a few issues with what looks like textures overlapping each other about 2/3rds of the wya through (I think maybe on Mercury? Possibly earlier; a skyscraper-esque scene regardless).
+
+Still WELL worth a view-through! I hope the devs are able to tweak some of these things.","Dec 18, 2017 at 12:37 AM",4, 1,
+2022-05-28 19:35:35.846425,Dusty_Wizard,"Great music, and interesting","Really like the music and it's interesting, however it's not that origional. There's plenty of stuff like this out there (eg Fractazia, Irrational Exuberance, the Groove etc) and this isn't that original. Still it's pleasent and worth the time watching it, and it's free so that's nice. Interested to see what the developer does next, this is a nice first start.","Dec 13, 2017 at 6:46 PM",4, 0,
+2022-05-28 19:35:35.861384,Proxum,Incredible,Felt like I was entering the matrix.,"Feb 3, 2018 at 3:25 PM",5, 1,
+2022-05-28 19:35:38.982205,varsee,Amazing,Finally this started working for me and it is a great experience just like I always thought a demo/intro would be in VR. I hope to see more Conspiracy releases for VR in the future!,"Jan 27, 2018 at 11:30 PM",5, 0,
+2022-05-28 19:35:38.997165,rh_galaxy,Its free,"But it needs some optimization (for 1060 3GB), since there were some stuttering in the frame rate, and also antialias could be better in the first few minutes... Overall it still was ok.
+
+Update: Now crashes on launch (Error OVR25027186).","Dec 5, 2018 at 5:53 AM",3, 0,
+2022-05-28 19:35:39.013122,PixelTrips,,This was a pleasant surprise to see a demoscene group take the time to convert a flatscreen demo to VR.   This was a great demo and I can't wait to see what is coming in the future.,"Dec 20, 2017 at 8:53 AM",5, 1,
+2022-05-28 19:35:39.027086,callard01,Alert Threat Found,"My weekly AV ran this morning and the executable file OffscreenColonies.exe triggered as ""Application.Crack.PEJ""","Dec 23, 2017 at 10:13 PM",1, 0,
+2022-05-28 19:35:39.042045,OP-Maroon,,MOAR please. The demo scene and VR are made for each other.,"Dec 19, 2017 at 7:41 AM",5, 2,
+2022-05-28 19:35:42.127407,ManuelResolution,Demoscene in VR!,It's super exciting to be able to be this immersed in one of the best 64k demos.,"Dec 11, 2017 at 5:24 PM",5, 3,
+2022-05-28 19:35:42.141370,Vantage42,Meh,Not much compared to Fantasynth and Surge,"Dec 25, 2017 at 4:43 AM",3, 0,
+2022-05-28 19:35:42.156330,solenoid67,free demoscene,"Its free, its from the demoscene .. 5 stars up for moving into VR space!","Dec 10, 2017 at 10:35 PM",5, 2,
+2022-05-28 19:35:42.171289,FriendCalledFive,Very good,"Really nice demo scene app, well done.","Dec 17, 2017 at 7:41 PM",5, 1,
+2022-05-28 19:35:42.186249,MaxDec10,Great art direction,Really good VR experience,"Dec 13, 2017 at 10:52 PM",4, 0,
+2022-05-28 19:35:45.255161,Fluke,"Finally, something from the demoscene!","In all fairness, this should get 3 stars, but it can have an extra one simply for them porting something from the scene to VR.
+
+Hope it's the first of many.","Dec 18, 2017 at 1:14 AM",4, 3,
+2022-05-28 19:35:45.270121,FastLawyer,"meh, it's okay","So I got excited when I saw all the 5 star reviews for this demo.  I thought it would be mind-blowing.  Instead, it's pretty much stuff we've seen from other music video apps in the years past.  It's free, so I do recommend this app for any VR enthusiast.  But it's not anything I would show off to friends or family.  It's just an ordinary demo in VR that's well made for a demo.  Pretty average overall.","Dec 13, 2017 at 10:58 AM",3, 0,
+2022-05-28 19:35:45.285081,UnluckyProfessional,Very impressive for 120KB,Tech demo showing what youc an do with vr with insane coding skills,"Jan 27, 2018 at 3:21 AM",4, 1,
+2022-05-28 19:35:45.301038,MrTee_,Demoscene,Wow. Really cool. Hopefully we will see more demoscene stuff in VR. This was really nice.,"Dec 12, 2017 at 6:00 PM",5, 0,
+2022-05-28 19:35:45.315998,gbrznk,,Good demo.,"Jan 6, 2018 at 7:46 PM",4, 0,
+2022-05-28 19:35:48.414855,AndroVisuals,128k demoscene in VR,Absolutley loved it ! One of my favorite demos in VR. Mind blowing <3,"Dec 12, 2017 at 4:59 AM",5, 1,

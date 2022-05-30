@@ -1,0 +1,14 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 19:48:17.349052,RuneSR2,Fun shooter - no left handed controls,"This is quite a fun game and works nicely with Touch. I guess you could call this game for an advanced clone of Asteroids :-) 
+With this game I barely get 90 fps using super sampling 2.0, which means that the hardware requirements for this simple 2D-like game is about 50% of Lone Echo with all settings maxed out. This implies that limited optimizations were done for this game, still it works OK on my heavily oc'ed GTX 1080 video card, but just barely.
+I'd recommend that users are given options to disable seeing the high-polygon Touch controllers and maybe to be able to use a clear/black background to increase performance.  This game should be able to run at solid 90 fps using a GTX 970 and super sampling 1.5, right now I don't think it does :-)
+Also the devs didn't make it possible to change controls for left handed persons, quite annoying - I'm left handed, and so are my two sons ages 7 and 11. 
+Increase the performance, fix controls for left handed persons, and I'll add another star. Still it's a fun game and of course it's worth 4 bucks - and more. This game is a 75MB download (200MB installed), strange that it says more than 2GB for space requirement on the harddrive.
+
+Response to devs: Yes, I'd greatly appreciate just to be able to reverse controls for left-handed persons - like pointing the laser line with the left Touch and turning the ship with the right thumb stick, thanks! 
+The game is running 90 fps on my systems, but just barely (0 % headroom) - in other games like Xion, Blaze Rush with ss 2.0 I get solid 90 fps with 50-60% headroom. When I look at the Touch controllers in-game they don't move smoothly, but stutter heavily - maybe showing high-poly Touch in-game takes up too much performance?","Apr 14, 2019 at 3:44 PM",4, 3,"I am interested in what you'd like to see for Left hand controls? All the controls reverse? So point and shoot left and steer etc with right?
+
+The entire game is 3D, no 2D except the fact that it runs on a plane. The ships tilt and rotate etc. I am surprised you had issues since we tested it on a GTX 970. The minimum configuration. I will give it a shot with the 1080 and crank the SS. 
+
+Thanks!"
+2022-05-28 19:48:17.364012,shuimu168,nice to play,good exprrience to shooting,"Mar 5, 2019 at 1:10 AM",5, 0,

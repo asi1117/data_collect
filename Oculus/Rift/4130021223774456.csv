@@ -1,0 +1,20 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 20:06:34.746343,simonebove.maverik,Nice archviz demo,"I am developing a similar project using the unreal engine (you can see it here: https://www.youtube.com/watch?v=fBDSkHcK-oU) and I can confirm that this is the level of realism that can currently be achieved.
+New technologies like the UE5 Lumen lighting system, is not currently supported by VR visors, we will have to wait :(
+
+3 personal tips on the project:
+- replace free locomotion with teleportation
+- replace laser pointers that can be annoying if they are always visible
+- add an exit button :D
+
+Runs well with an i7 and an rtx 2070.
+Good job guys",Jan 25 at 2:23 AM,5, 10,
+2022-05-28 20:06:34.761303,byteframe,Just an asset flip.,"I've seen this unity asset store apartment (the white one wih the audrey hepburn portrais) countless times in VR, and this is the slowest performing, poorest quality portion of that (just the living room). You can change the color of the walls. Wee.",Dec 21 at 4:19 AM,2, 54,"This is an example of what can be done in VR. The asset you are talking about is only optimized for PC. This sample is optimized for Rift and can be further optimized for the Quest.
+
+You say its slowest performing, then please give us your specs so we can take a look. During our test it was working with 72FPS on PC."
+2022-05-28 20:06:34.781755,Worak_0,Horrible,"I thought this would be a cool game where you can create replicas of the rooms in your house in a way so that it could help you renovate, etc. , but actually all you do in this game is change the colors of some sofas and walls. Wowzers, so entertaining.",Jan 24 at 9:53 PM,1, 7,
+2022-05-28 20:06:34.796715,halvorsenb,not great.,2 seconds of entertainment. super boring. good try though.,Jan 7 at 11:55 PM,1, 15,"This is an example of what can be done in VR. This is only to showcase the possibilities of a digital twin in VR, that can help clients reduce cost by getting the feel of an interior before constructing it.
+
+Maybe it wasnt clearly stated, but this is not a game, its just a sample.
+
+Reconsider your review"

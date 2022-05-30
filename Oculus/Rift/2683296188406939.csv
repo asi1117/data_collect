@@ -1,0 +1,24 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 20:43:48.725309,cigaremoods,,"hello
+
+the game is still just as nice although there are still several small bugs.
+
+On the menus, the words in the button areas quite randomly either appear correctly or there is only a single letter or 3/4 letters which are visible. You have to go back and forth so that the words all appear correctly in the zones.
+When we come back to the options, the choices made beforehand are all canceled and everything is checked again, we have to redo the choices!
+
+For the choice of music distribution, there are several options, I see absolutely no difference between these choices. The music is always as weak when listening, even if I push the sound to the bottom in the Oculus settings on the Dash the music remains very weak when listening.
+
+On the playground.
+
+I always regret that the card game is too much on the bottom of the screen, and always impossible to change the position to bring the card game in front of the eyes. Cause neck pain.
+
+The only options are to move the game away or closer in view of the screen but impossible to raise the deck of cards at eye level to avoid breaking your neck!
+
+During the part the diffusion of a piece of music can stop before the end and start a new piece while I am sure of not having touched the plot.
+
+On a long session, the counting of points becomes painful, it is necessary to wait until it is finished counting points before restarting a game. At first it may be fun but at the end of the fifteenth part it becomes painful. Having an option that would allow you to choose direct score display or scroll display would be welcome.
+
+cordially","Apr 2, 2020 at 8:40 PM",3, 0,
+2022-05-28 20:43:48.739272,ktaylor2,Music does not work,"First of all, there is no ""Tripeaks"" folder. The folder this creates is called ""dannydan-tripeaksdreamland-vr"".  There is no music folder created during the installation. I created a music folder and copied it to the installation folder. No music. I  copied the music folder to every folder the installer created. Still no music. The joysticks do nothing for playing music. Pushing the joysticks and moving them up/down, left/right do nothing. The main thing that made me decide to purchase this was the fact that I would be able to play my .mp3 files, and this does not work. I feel ripped off. If the developer would like to respond with a solution, I would like to hear it, but I'm not holding my breath. Don't buy this game if you're planning on hearing your .mp3 files while playing.","May 17, 2020 at 7:44 AM",1, 0,"Hi there. Sorry for the late answer. You need to copy your own Music files into the Music folder of your Windows System and create a directory called ""tripeaks"" in there. So for example if your Windows Username is ""Daniel"" then this is the correct directory to put your MP3 files: ""c:\Users\Daniel\Music\tripeaks\""
+
+When no music is found in the directory, the controls for the music are disabled."

@@ -1,0 +1,45 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 15:52:34.215796,MajorAlpha,Online Access Broken for a long time,"Cannot access any online sharing stages in game since July. Ask the dev team But never get the reply when it will be fixed.
+
+Really disappointed.",Dec 23 at 7:37 AM,1, 1,
+2022-05-28 15:52:34.230756,Darcangel777,Has great promise but some frustrations,"Hi... just bought the game based on reviews and its pretty awesome so far. However, I do find it a bit cumbersome to have to move blocks with the tool as it is far more intuative to simply use my hands! May i suggest that you allow normal hand pick up and moving wherever possilble and limit the use of tools. ie to delete simply throw away etc. IMO we REAALY to be able to use TWO hands to manipulate stuff. Allow the tool pallet to be positioned and float in the air to free up a hand. Items should be able to be taken out and place back into the tool pallet. Otherwise great game :)","Jun 2, 2020 at 8:05 PM",3, 12,"Those are great suggestions! Thanks for taking the time to write a review. I think two-handed operation is something we'll need to implement sometime in the future. As for hands vs tools, that was a design choice to better communicate the various features the user has to manipulate gadgets. It'd be more difficult for the user to understand that they've equipped the ""Clone"" feature for example with hands. The tool pallet in the air is a good suggestion too. We had it in our alpha build but took it out to simplify the design. Glad you had fun :)"
+2022-05-28 15:52:34.247711,PursuedMetal325,This game is amazing,"Well worth the price. If you’re thinking about buying the game, I would say buy it.
+Creating contraptions is fun and relaxing; and, finishing each of the levels in the campaign is satisfying.
+The sandbox is fun as you can create any contraption you like or just mess around in it.
+The game looks amazing and the design is intuitive.
+If the game cost more I would still buy it because the game is enjoyable and something you want to keep playing.","Nov 13, 2019 at 2:09 AM",5, 5,
+2022-05-28 15:52:34.262670,Giga_Moose,No cross-buy,"When almost every application supports cross-buy the few greedy developers stand out. There are many more quest owners than ripped owners and sales on the quest generally tremendously outperform rift sales. To this point, you really only hurting people who supported your application before while not hurting overall sales. Asking someone to buy a game multiple times is some Bethesda crap.","Oct 25, 2019 at 12:34 AM",1, 17,Cross-buy is now supported!
+2022-05-28 15:52:34.277630,GauntRickley,We Need More Games Like This,"I love it, the graphics are pleasant, the game runs smooth, the music is calming. This is an enjoyable and relaxing experience you can play at your pace. The Puzzle mode is nicely laid out to slowly introduce you to different types of pieces and to explore the possibilities of the environment. The controls are clever. The movement and tool switching are some of the best of any VR title. As said in another review I did find it a little difficult precisely placing pieces with only one hand (especially the right considering I'm a lefty) but later found the option in settings to switch to left mode. I think one thing which could make this game even better would be to have both hands switch out tool heads (like the right one does by default) and add a 4th tool which is the ""inventory"" piece (the default for the left hand) that way you can freely switch between what hand holds the catalog and what hands move things around (and can even use the grabber tool in both hands for when you need to place something precisely) without having to got to settings and switch hand dominance. Would love to see the developers of this partner up with the developers of Short Circuit VR, mash them together and make the ultimate ""Home alone on your day off"" simulator. Great work.","Oct 10, 2019 at 1:58 AM",5, 5,"Hi GauntRickley,
+
+Thanks so much for the kind words. We'll definitely keep that in mind as we make our way to the Quest!"
+2022-05-28 15:52:37.413244,FiteMeNowM8,Love the Game!,Such a great and relaxing game to spend hours messing around on!,"Dec 24, 2019 at 2:13 PM",5, 1,Thanks! Glad you enjoyed it.
+2022-05-28 15:52:37.429202,demotricus,"Unplayable, Broken.","Exactly the same issue as gcncheung (see his review). Can`t get past the (mandatory) Tutorial. The only way to manipulate anything seems to be to touch the object with the R/H touch controller, then pull the L/H trigger and hold it as you move the object, then release the object by releasing the L/H trigger again. This doesn`t seem right at all, (and VERY UNintuitive), as the clipboard also pops up when you pull the L/H trigger.  The Grips/Pliers open and shut but just clip through everything, they don`t seem to do anything.
+The lack of ANY coherent instructions just exacerbates matters.
+So like gcncheung, I`m now stuck and cannot grab the domino`s from the clipboard/inventory at all, and consequently can`t see any other part of the game.
+Sorry but I`ll be requesting a refund. The games totally unplayable in this state & seeing no reply to gcncheung after a full month doesn`t give me any hope that the game is going to be fixed.
+
+https://www.youtube.com/watch?v=7k_R08Lzh4M","Sep 2, 2019 at 10:41 AM",1, 3,"Hi demotricus, sorry for the inconvenience and missed opportunity to enjoy our game! We've investigated the issue and can reproduce the problem observed in your recording.
+
+
+A patch will be submitted to address this so yourself and other players won't have this trouble in the future, but in the interim this can be corrected if you remove any additional controllers while playing. In our testing, a connected Xbox One controller would cause the VR controllers to have this issue.
+
+
+We hope this helps you get back in the game!"
+2022-05-28 15:52:37.444161,CuisineTournante,Fun game buy why 3 stars ?,"Hi !
+The game is fun, the way to move around is smart and easy to do.
+
+My main issue is the use of the hands, sometimes I would like to use my left hand to pick object. And sometimes I would like to use both hands, like for putting two blocs to make things balance.
+
+I hope the devs will see this and take it in concideration !","Jun 7, 2019 at 4:08 PM",3, 24,
+2022-05-28 15:52:37.458124,gcncheung,,"I like this game (if it work for me). I m using rift s, I was stuck at the very beginning of the tutorial, the right hand tool unable to grab those pieces on the table. Hardly figure out a trick to successfully grab it, I need to trigger left hand tool, so that the right hand tool stick (not grab) the piece and then I place them on correct place to completed the first tutorial. Then, I stuck on second tutorial and never get pass through. We trigger open left hand menu and used right hand to crab a piece out of the menu. But the right hand tool can not grab it. Stuck there, give up now. Hope you fix it by the next update. Thx","Aug 2, 2019 at 9:32 PM",1, 1,"Sorry for the inconvenience gcncheung, we wrote this for another reviewer who wrote about the same problem as you did. Here's what we wrote to them:  We've investigated the issue and can reproduce the problem observed in your recording. A patch will be submitted to address this so yourself and other players won't have this trouble in the future, but in the interim this can be corrected if you remove any additional controllers while playing. In our testing, a connected Xbox One controller would cause the VR controllers to have this issue. We hope this helps you get back in the game!"
+2022-05-28 15:52:37.473084,Fletcher C. Kattington,i love this game (not a bot revew),"This game is fun and a good place to calm down and relax.
+the puzzles made me think! and theres so much to do in sandbox mode!","Jun 11, 2019 at 11:58 AM",5, 5,
+2022-05-28 15:52:40.568804,zeejayveejay,Pretty cool,Fun and easy to play in sitting mode. Super easy for wheelchair users.,"Jun 16, 2019 at 11:26 AM",5, 6,
+2022-05-28 15:52:40.584761,dnode0,Very nice,I loved this game from the very first minutes of play.,"Jul 1, 2019 at 10:47 AM",5, 2,
+2022-05-28 15:52:40.598724,ParadiseDecay,Puzzle game with endless hours of fun!,"My Quick Thoughts:
+An original puzzle game that is going to give you endless hours of fun, probably. Great physics and a great concept well executed.
+
+1st Impressions Video with Commentary:
+https://www.youtube.com/watch?v=CRIsBrGgcAc
+
+(Please Note: Links might not work from Oculus so please search YouTube for 'Paradise Decay VR Gadgeteer')","Jun 7, 2019 at 8:20 PM",4, 6,

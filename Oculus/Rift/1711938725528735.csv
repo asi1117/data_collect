@@ -1,0 +1,825 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 14:46:32.390048,FutureShock_,Excellent game neglected by devs,"So this should be one of the most solidly five-star games in my library. It's a worthy successor to LE1 and builds on the former game's strong foundation to push the story and gameplay forward.
+
+The experience itself, including the thick atmosphere, the voice acting, character design, and art direction are simply phenomenal. It's easily in the same category as something like Alyx despite having a tiny fraction of the playerbase.
+
+The mechanics from the first game are expanded upon here not so much to add more depth but to give you more to do. This can sometimes feel like padding but the greater reliance on voice acting, set pieces, and visual diversity does a great job at glossing over the issue of repetitiveness.
+
+Graphically and in terms of physics, this game has a lot more going on than its predecessor which leads me into why I removed a star and why I waited this long to review a game I was so hyped for prior to release:
+
+This was the last PCVR title funded by Oculus Studios before their shift to mobile. Upon release, the game wasn't advertised much and there was almost zero support in the form of patches or updates. It made me a bit sad to see how many man-hours and love went into this only for it to be dropped like a cold potato onto the deprecated Oculus Store for PC. 
+
+If there weren't any major bugs this wouldn't be a problem but the game has issues with memory / VRAM usage as it relates to texture streaming. This means that even on beastly rigs like mine, you have to play around with the settings a lot to hit playable framerates. 
+
+
+In my case, using Virtual Desktop at Medium with the game settings at Medium did the trick. Air Link used too much VRAM on top of what the game was using. Link is probably fine but who wants to play a game in zero gravity with a tether? 
+
+Now that I've got the game running well, the issues with texture streaming can still be distracting. High quality textures tend to load in way too late. 
+
+Hopefully Ready at Dawn has some plans to update and fix this title. It really deserves better. It's an Alyx competitor hidden on the Oculus PC platform behind some bugs that should've been fixed in a day one patch.",Apr 14 at 9:41 PM,4, 61,
+2022-05-28 14:46:32.405009,oscar_pojkarna,"Peformance is terrible, story is amazing","After about 2h the game started to have constant stuttering - even though neither graphics card, memory or CPU are fully utilized (rtx3070, ryzen 3600, 32gb ram, SSD, Rift S).
+
+Several other seems to have this problem - this helped for me:
+* Go to in-game settings and change the screen to ""windowed"", and minimize the screen mirroring on your computer screen.
+
+This solved it completely for me, must be some bug. Please look in to this devs.
+Still, the performance is far from optimal, textures are constantly popping in.
+
+Wold be 5 star if the game would run better.",Apr 19 at 2:35 AM,3, 20,
+2022-05-28 14:46:32.420966,Dantheman825,Do not buy this in its current state,"I'll say off the bat that this a good game, if you liked the first one, you'll like this one as well. But it's plagued with bugs and awful performance on hardware that should on paper fit the bill. 
+
+I have a Ryzen 5 1600 and a GTX 1660 Super, it's below recommended specs, but should at least be playable at low settings. I had to turn everything down to the absolute minimum with resolution scale down to 50%, and even then, performance wasn't always perfect. Add that to some annoying texture pop-in that comes well after you've gotten close to said object, and it holds me back from really enjoying this game to its fullest.
+
+from talking to others, I can gather that mileage varies tremendously per system, people with 3090s were only able to run this at Medium settings, while another with a 1060 could comfortably play at low, with a higher resolution scale than me. At best, this game is playable though unideal, at worst, it's pretty much unplayable. Devs say that overclocking causes issues, so turn that off if you can, but even without that, I think the issue goes deeper than that.
+
+I want to love this game, but the bugs and performance make it hard for me. And after nearly half a year, this game only got one bug fix update, while EchoVR has gotten like 3 seasons worth of content, so it's pretty clear what the dev's current priorities are.",Apr 25 at 5:56 AM,2, 9,
+2022-05-28 14:46:32.436923,dxawn,"Beautiful game, horrible support.","Lone Echo 2 for its beautifully written story is up with top games like BONEWORKS or HL: Alyx. Oculus released this with little to none spreadout of advertising making it a low playerbase game. The new controls and game mechanics are good, but you have to tweak the settings for it to be playable. There are bugs that should've been fixed like in a day one patch. No patches as its the last pcvr game, as Oculus switched to mobile on quest 2. Im dissapointed and this could've been a better game.",2 days ago,3, 0,
+2022-05-28 14:46:32.451883,scoobynut,Immersive and moving,"I played Lone Echo and couldn’t wait for the sequel. I wasn’t disappointed.  The production values and quality of the game is fantastic- graphics, physics and story are a cut above. It’s more of of mini movie that you are a character in.
+
+I didn’t notice any bugs that the reviewer mentioned, but I didn’t realise my graphics settings were on auto low until I finished. Even so I thought the graphics were superb.  Start up level loading could take maybe 30 seconds (it’s on an SSD) but there are rarely pauses to load when exploring unless you go a long way.
+
+There is a main story where you need to save mankind, but there are also side missions which can be dipped in and out of in pretty much any order. You can also choose not to finish them all - however if you enjoy exploring I would recommend to do them (to get maximum value).  You will get to a point in the storyline where you cannot go into the side missions, and you are told that a few times by the characters.
+
+The story unfolds and feels epic in scale in terms of surroundings (you are in space after all!).
+
+There was only one place where I got stuck and could figure out how to get past the ticks - so I moved on as it wasn’t critical.
+
+The plot is very clever, and at times Lone Echo is quite powerful emotionally. No spoilers.
+
+I would recommend to anyone as Lone Echo and Lone Echo 2 are fine examples of how to make the most from VR.
+
+Kudos to the developer team 👍",Mar 16 at 11:18 PM,5, 16,
+2022-05-28 14:46:35.576103,luke.anker,"Currently 1 star, potentially 5 stars","Lone Echo 1 is one of my all-time favorite games. I wanted to give part 2 it a try, despite the warnings. What a cheek, especially given the price tag. I am sure that the content itself (story, voice acting etc.) is as beautiful as in part 1. However, one gets the feeling that the engine has been rewritten in Amiga BASIC. I’ve tried many things based on discussions on the net and in their discord channel, to get it running. To no avail. This release and the support around it is unacceptable. Asked for refund.",Apr 8 at 6:48 AM,1, 3,
+2022-05-28 14:46:35.591062,Mur_Miau,Game from 5 stars category,"At first sorry for my english.
+Game itself is fantastic, i like everything in it. But seems devs was under pressure to release it fast as can, so there is bugs from graphical to some mechanics and its for 40 euro? common. I personaly purchased it with discount and really glat of that. So for game 5 stars, for bugs -1 star. If you thinkig of playing it i recomend to play Lone Echo 1 part at first.",Feb 5 at 4:36 AM,4, 45,
+2022-05-28 14:46:35.606022,Plantanoid,Couldn't Even Get Past The Main Menu,"Every single time I try to play this game, it asks me for the main settings, color blindness/subtitles, and then when I get to the ""turning"" menu and I hold start, all the music cuts and then doesn't start up the actual game. I've waited for like 15 minutes for the game to load and yet nothing.",Apr 1 at 3:10 AM,1, 3,
+2022-05-28 14:46:35.620982,Moonkilz,Think I fixed the crashes.,"I added the game to the NVIDEA control panel and changed the power setting to preformance. I went on to the OCULUS app and changed the refresh to 80HZ. Once in the game I set the graphic settings to whatever the game wanted (default). I have an Intel I9700K and a RTX2080 as well as 32gigs of ram. I have played the game for over 2 hours straight without a single crash where I was getting crashes every 5 or 10 minutes before. Hope this helps someone else. The game is amazing!!! Oh I was also playing via the link cable, I have not tried airlink yet but hoping I get the same results when I do.",Jan 15 at 5:24 AM,5, 50,
+2022-05-28 14:46:35.636940,Jos_VG,Almost ready...,"It could be one of the best virtual reality experiences. If it weren't for the serious performance and texture loading issues. In addition to not being dubbed into languages ​​that it was in the ""trailer experience"" years before.",Apr 23 at 4:22 AM,3, 0,
+2022-05-28 14:46:38.752725,JoMoris,Not perfect but still perfect,"In Lone Echo II, I experienced 1 crash. Furthermore, if you join another zone too quickly, the game will show a loading screen which may take up to half a minute. However, this really doesn't bring the game down for me. After the first part, the beautiful story continues and it felt like coming home. Part 2 is at least as good as part 1 and at the end I really stood with tears in my eyes. This game REALLY deserves a 5 star rating. It really is my number 1 favorite game and I secretly hope that there will be another one in the future. Thank you for making this beautiful game @Ready At Dawn.",Mar 23 at 9:09 PM,5, 2,
+2022-05-28 14:46:38.768683,andrew13427,black screen bug,right after the intro when the screen goes black my game crashes i feel like commiting suicide because of this I can't even play I SPENT $42 ON THIS GAME LIKE FOR WHAT A SCAM THE DEVS HAVE JUST GONE COMPLETELY SILENT IF THEY CARED THEY WOULD BE HELPING!!!,Apr 16 at 11:08 AM,1, 1,
+2022-05-28 14:46:38.782645,your_echo,I love lone echo,I'm probably a bit to in to the game but I think it is an amazing game because of the view of the planet's and I'm in love with space and the universe the first game was amazing to (my username is from this game),Apr 19 at 9:00 AM,5, 1,
+2022-05-28 14:46:38.797605,wowwphoenix,HOW DOES THIS GAME HAVE 4 STARS,bro this is one of the best vr game series i have ever played and i dont understand how this game has 4 stars. Lone Echo is a great game and i recomend getting it if you like space and combat of some what,Apr 5 at 8:06 AM,5, 2,
+2022-05-28 14:46:38.813563,subsider34,"Exceptional, Aside From Optimization","Lone Echo II has an exceptionally interesting story and wonderfully engaging environment.  The dialog is well written, the characters, well animated, the visuals vivid.
+
+However it does suffer from optimization issues.  No matter what setting you choose you'll have studders and occasionally be interupted by loading screens. 
+ Oddly, I had a much better experience with my settings on Medium than on Low.  Perhaps they had more time to optimize the higher settings.",Mar 7 at 9:18 AM,5, 3,
+2022-05-28 14:46:41.904916,MIKEY45230,"Constant Crashing, even worse than LE1","This game crashes so often it is unplayable after a certain point. I'm using a 2080ti, I9-9900, Rift S. Lone Echo 1 would also crash a lot, but at least I could usually get to the next checkpoint and reload. For comparison purposes, Half-Life Alyx runs perfectly well and never crashes. Actually no other VR game has ever crashed like this before. It's really annoying to me that the crashing issues from the first game have not been addressed.",Mar 13 at 7:42 AM,1, 2,
+2022-05-28 14:46:41.919876,aurelag,"Good story, but...","it feels like they didn't have time to really spend time on optimization. Even with a pretty good computer, expect to have every parameter in ""low"". 
+However, the story and VR interactions were pretty good. The voice actors are doing a great job at immersing us in the game. It's a shame it's the last pcvr game from oculus...",Dec 23 at 5:28 AM,4, 87,
+2022-05-28 14:46:41.935833,StormChronicles,A must buy,"It's the best game there is on the Meta Quest in my opinion. Also for the first part Lone Echo..
+Great storytelling, beautiful graphics.
+The controls are magnificent, it feels very natural.",Mar 21 at 8:36 PM,5, 3,
+2022-05-28 14:46:41.951791,E-rice,I love this game,"This has to be one of the best games i've ever played. It's got some jokes, its really fun, and i find myself really getting into the story because it is so good and detailed. It's like everything that happens makes sense. And at the same time, unpredectable. The first game was also fantastic. I cannot express enough how happy i was at the end of the game, when all was made right. I do hope they make another.",Feb 27 at 12:38 PM,5, 3,
+2022-05-28 14:46:41.966751,Jagererk,Finnaly playable and awesome,"Finnaly after copule of mounths its playable and it works best at highest graphic quality (dont know why tho)
+Its just freaking best game at oculus, no doubt, very immersive and the vievs of cosmos is really something! 
+Story is interesting and i was very involved in ""relationship"" with captain and really cared. 
+Meaby im very hyped after finishing the game but i recommend this and also e-sport echo game.
+
+(old comment)
+""In current state it is unplayable for me, crashes, glitches, fps drops, and i have RTX 3070 so... I will try when the game will be fixed""",Jan 28 at 7:11 AM,5, 11,
+2022-05-28 14:46:45.068604,Orbifold,"Epic, fun, a bit glitchy","Crashes sometimes. Occasionally starts lightly hitching. Could use some more work.
+
+It's mostly a continuation of the previous game. There are some new mechanics added, which is nice. But it doesn't feel particularly fresh overall. Same slow pacing, driven by exploration, story, and simple challenges in a zero-G environment. Slightly improved graphics, I think.
+
+The interactions with the arm controls could also use some improvement.
+
+Truly epic storyline.",Jan 28 at 3:45 PM,4, 12,
+2022-05-28 14:46:45.084562,tt-,awesome,"this game is incredible and ive only played it for only 10 minutes and it feels like one of the best experiences ive played, Also i like how it gives you a exclusive “Vega X-3” chassis wich i thinck is great for arena and combat",Apr 1 at 9:40 AM,5, 1,
+2022-05-28 14:46:45.099522,jerome_the_wise,Bad optimization,I am not an expert in computers but I'm sure this game is not well optimized. I really like the story and I love these characters. But this technical performance is unnaceptable. My computer can handle most modern games in high to ultra settings at 60 fps plus 2k display. I hope someone makes a mod to fix it or something,Mar 11 at 8:59 PM,1, 1,
+2022-05-28 14:46:45.114481,TaunHawk,Absolutely love this series,"This is by far one of the best VR games available. Part two does not disappoint. Feels good to be back in Echo One's chassis again. The atmosphere and the go-at-your-own pace playstyle is wonderful. I have had no issues so far with any crashes or glitches. I simply installed the game and started playing. I am playing with Quest2 connecting wirelessly with Virtual Desktop. My PC specs are:
+i7-6700K CPU @ 4.0 GHz (8 cpus), 16gb ram
+Nvidia GeForce RTX 2070 8gb vram
+Windows Pro 64 bit, DirectX 12",Feb 14 at 3:46 AM,5, 2,
+2022-05-28 14:46:45.129441,raphael.bucher.549,"Great Story, atmosphere, feelings","Enjoyed lone echo 1, and 2 i like even a bit more. Had no technical problems apart from some few textures which didnt load in high resolution. Graphics overall were really impressive imo. The atmosphere is awesome, and the story really touched me even more than part 1. This game is in my top 3 list of the about 20 VR-titles I played!",Feb 6 at 9:34 PM,5, 3,
+2022-05-28 14:46:48.229284,anthony101244,only english,only english,Apr 13 at 4:05 AM,1, 6,
+2022-05-28 14:46:48.245241,GraemeMcD,Among the premium single-player VR Games,"The original game is still perhaps the only game that stands up to Half-Life in terms of graphics, voice acting, production & polish.
+This sequal offers a slight graphical upgrade, perhaps because the original is still so accomplished in this area & has aged very well, in my opinion.
+In gameplay, it offers an expanded range of tools & enemies which introduce new gameplay permutations. 
+In story, it has an expanded cast of characters & voice acting that gives us a bigger picture of the events around the 1st game.
+It remains atmospheric, single player & mostly slow paced. Again, in my opinion, this isn't a fault; it's simply the game it's meant to be.",Jan 23 at 6:15 AM,5, 4,
+2022-05-28 14:46:48.270174,TENCUHTLI,Stunning game!,"11/10 Such a beautiful story with amazing characters, gameplay is full of puzzles and challenges, graphics are stunning even on my 980ti at low settings! 
+
+Definitely a GEM on the Oculus library, do yourself a favor and buy it!",Jan 31 at 2:10 PM,5, 3,
+2022-05-28 14:46:48.286131,Daefa,A great game for those who enjoy stories,"I read these reviews going in thinking, maybe it wont be as good as I was hoping. I was WRONG, and I can tell you for those who are just bored from the dialogue don't understand a cool story when its sitting right in front of their face (literally). Now I know everyone has their own opinions so I won't harp on them anymore, I for one think the story is AMAZING. I am only like an hour in and gotta say, I absolutely love sitting there and listening to the dialogue. It is like im reading a book but I am living in its visual concept. Gameplay mechanics amazing, stunning graphics, amazing story. 5 stars from me.",Dec 25 at 9:18 PM,5, 7,
+2022-05-28 14:46:48.301091,zackspider1204,Devs please Read this,"It ends on such a cliffhanger you better not take years to make lone echo three if it’s coming out And now.
+ 1 day after for some reason it is not starting for me and one day I hope in action figure comes out of Jack",Feb 22 at 12:54 AM,5, 1,
+2022-05-28 14:46:51.432333,SilentWraith174,"Completely unstable, constant crashing,","This game has become unplayable.
+I have reset any overclocks, shut down any other monitoring programs, 
+stopped geforce,
+no oculus debug overclock, etc .....
+updated to the latest update.
+Having played Lone echo without crashes and Medal of honor, there is a significant problem with this game.
+Playing on a RIFT S with a evga ftw 3080, i9-900k, 16gb ram, 
+more than enough for this game.
+UPDATE uninstalled and reinstalled. LOST ALL PROGRESS.....
+Im done buying VR",Dec 31 at 2:59 AM,1, 8,
+2022-05-28 14:46:51.448290,JamesDWestoby,Nice but TOO hard in nplaces,"This coming out forced me to finish Lone Echo, but... I don't mind idle wandering but some assistance please. 25 Second timeout for the relays is a killer - haven't got the speed ups and so many other things but now I just seem to be >only< wandering. Pleased I bought it but because of the 'stuckness' somewhat tempered. Great game with reservations. Oh well, back to random poking in corners (and getting killed) ....",Dec 30 at 9:36 PM,4, 5,
+2022-05-28 14:46:51.463251,cam2557,issues with storyline progression,"Lone echo 2 is a great game and i would not change it in any way, though i do have one issue. the game somtimes breaks at spots and leaves me with no way to progress the story (i have watched videos on what i have to do) and the option of doing what i need is not there so i try and go to the lone echo menu to load my save and when i press the button / hold it it never pops up, on top of that when i restart the app it leaves me with a blank black screen that i cant fix unless i uninstall and reinstall the app which would then delete my save file and i would need to restart. other than that issue the game is quite enjoyable and the graphics are on another level",Dec 12 at 6:36 AM,4, 10,
+2022-05-28 14:46:51.479208,RomRomOwO,A Story You'll Never Forget,"Game review: I recently purchased a Meta Quest 2, and Lone Echo was the first game I purchased. As it came highly recommended in my friend group. Two days later, I bought the second installment, Lone Echo 2. Cont.
+
+Lone Echo 2 is by far the best VR game I have ever played. Hell, it might even be the best game I have ever played in general! The story was captivating, it had me on edge and wanting more and more at so many parts. And the ending, dear god the ending! This here, this extraordinary title. This is the only game that I have ever played that made me cry. I applaud you Ready at Dawn, I really do. <3
+
+Peformance: Overall peformance was great. No stuttering or anything of the sort. I only crashed once, which was probably due to the fact that I have modified graphical settings on my headset. 11/10!!!
+
+Note: I played this with oculus link. My GPU is a base GTX 1080. I had virtually no issues the entire playthrough. Enjoy!",Dec 5 at 10:29 AM,5, 17,
+2022-05-28 14:46:51.494167,HorizonVR-,What could use improvement,"Great game! Though, the recovery recap from the first game was kinda... TOO obvious. Like, specific details dont have to be specified. I am not saying these voicelines should change, but I am just giving my opinion..",Jan 24 at 9:28 AM,5, 3,
+2022-05-28 14:46:54.589515,dieterdisko,"Crashed and no other languages, but...","The game crashed after 30 minutes. The GPU is not supported according to the display in the menu as soon as I set just one setting higher than LOW ... that can only be a joke (RTX2080Ti; i7 11700K;Z590; 32Gb 4000 Ram, all drivers and Win10 are up to date). And sadly there is no synchronization in other languages (that was to be expected very differently after the LoneEcho2 trailer experience !!!)
+
+I sincerely hope for a subsequent (atlas) patch with a German voiceover ... as it happened in part 1. (This was almost perfect) Otherwise a large part of the story is lost if you don't speak English as your mother tongue.
+
+EDIT: Despite my initial disappointment with the missing translation, I played it to the end. Now I can say it's great! Despite the bugs with the textures and some crashes (4 or 5 times in the entire game time). I changed my rating to 5 stars. Should it really be the last great VR game from the Oculus Studios on the PC, that would be more than regrettable!",Dec 12 at 5:21 PM,5, 9,
+2022-05-28 14:46:54.605472,ParadiseDecay,GOTY for me!,"4K Impressions Video, 1st hour of the game + Walkthrough Part 1:
+https://www.youtube.com/watch?v=orOs04VfxvU
+
+My Initial Impressions:
+This title is GOTY for me, its bigger, better and more fleshed out.
+The levels are bigger, there's more to explore and the puzzles have been quite challenging.
+Also expect a few surprises here and there and a few NEW COOL tools to play with.
+Giving this a 4 out of 5 only becuase I had some texture issues popping into focus.
+But my only REAL NEGATIVE is.... Im REALLY dissapointed this could be the last big VR game for Rift S and PC. It's a sad, sad day.........",Oct 13 at 6:38 AM,4, 400,
+2022-05-28 14:46:54.620936,BlackGlove,BUY IT NOW!,"This game is a masterpiece - right up there with Half life Alex in my opinion. 
+I just wish ther was more games of this quality out there for VR, but they will come in the near future. Also is great the we have a sequal for for a previous title I hope to see many more for this also, oh and by the way if you have not played Lone Echo 1 then you must do so before you get into this title.
+Well done to the Dev Team keep up the good work.",Dec 12 at 8:13 AM,5, 8,
+2022-05-28 14:46:54.636894,Lv426HuDz,"Crash fest, unplayable","For me this game is just a massive crash fest. When it runs (which is rarely for > 10m) it is superb. I have a 10900k and a RTX 3090 and it runs amazing on highest details, but it just crashes so often it completely ruins it. This is the ONLY vr game I have issues with, HL Alyx no problem, DCS no problem etc etc. Please fix!",Dec 30 at 6:46 PM,1, 5,
+2022-05-28 14:46:54.651854,Charlyplayman,Low graphics? Not spanish?,"The game is fantastic but i have a RTX 2080 and the menu recommend Low graphics settings???
+If i set any setting higher than Low it shows me the GPU is not supported. I tried to forced it and the game crashed after 15 minutes (i don't know if this was the cause).
+Played on Oculus Quest 2 with Air Link.
+
+I also would like to have spanish translation",Oct 13 at 5:46 AM,3, 138,
+2022-05-28 14:46:57.739177,quizheader,VR game of the year,"Outstanding game and vr experience.
+I was expecting to see the second chapter after finished the first one last year.
+The only cons would be a long loading time when starting the game and sometimes when loading other sections of the game.
+This not a standalone game as the first chapter needs to be played in order to understand the story and the character but it's worth it.
+Overall, a must have game for any VR gamer.",Dec 29 at 6:01 AM,5, 3,
+2022-05-28 14:46:57.754137,dan.m.griffiths,Tense and wonderful experience.,"A great game with solid performances from the main cast.  Good mystery and some truly stand out moments with some awesome set pieces.  Lone Echo is a stunning game in its own right, and deserves to be played by everyone.",Feb 4 at 8:38 AM,5, 1,
+2022-05-28 14:46:57.770094,cudenu,Good Part 2 ... but with bugs,"I enjoyed playing this game until the Research Factory ... the is a door called ""Test Wing"". In all the videos on YouTube this door will open, more or less remote from the team in behind. In my case, I tried to open it in any possible way. It stays closed  :(((   so I cannot get a ""laser"" to open web doors later. Disappointing
+Update 02.2022
+Meanwhile my problem is solved :)
+As expected, the game is even better than the first part. Despite my school English, the game was easy to understand. So folks, go for it",Feb 19 at 9:33 PM,5, 1,
+2022-05-28 14:46:57.786052,Dremy,One of the best VR titles out there,"Lone echo has always been known as one of the most stunningly beautiful games you can experience in VR and it's sequel is no different. Lone Echo II has carried over everything that made the first game so great, while moving away a bit from the things that didn't work quite as well, all while adding in some brand new game play elements and even a little combat. This game is faster paced and more exciting than the first game, with a story that evolves much faster. Overall I think this game is better than the first and is easily in my top 3 VR single player games of all time (with Half Life Alyx and Resident Evil 4). I highly recommend both Lone Echo I and II. Definitely don't play this if you haven't played the first game, as this is a very story driven game and the sequel picks up right where the first game left off, which was a cliffhanger. So if you don't play the first game, you aren't going to understand what is going on.
+
+I didn't have any trouble with stuttering or crashes while playing at high settings, but I was running it on a Quest 2 via airlink on a system with a Ryzen 9 5900X and RTX 3080. I did get weirdly long loading screens whenever loading a saved game, but that was it. They've since issued an update to the game that fixed quite a few bugs, so hopefully that will help with some of the issues people have been having. This is a game that likes having a good cpu though, much like the first game.",Dec 10 at 12:58 AM,5, 6,
+2022-05-28 14:46:57.801012,shugghead,Lone Echo 1.5 ?,"Being a made for PCVR title with a big production budget not to mention a sequel to a game held by many as one of the best VR games ever made, to say   expectations were high, seems needless to say. And yes you can tell Lone Echo 2 had a lot of money and time put behind it…but I think it could have used a little more time as the game crashes and performance issues tell the story of a game that might have benefitted from a little more optimization. Regardless though Lone Echo 2 is more of what you loved from the first title and in fact narratively picks up right where the first title ended. In fact with how similar this game looks and feels to the first it to me almost feels like Lone Echo 1.5, rather than a full blown sequel. Though that’s not necessarily a bad thing if you loved the first.",Oct 13 at 1:01 AM,4, 120,
+2022-05-28 14:47:00.885363,labpedro,"Great story, disappointing optimisation","Having played the first Lone Echo and loved it, I bought LE2 thinking it's the same engine so will run exactly the same. I have to admit, I was wrong. So very wrong. LE2 runs appallingly on my system (i7 10750, RTX 2060, 16gb ram), unlike the first which ran fantastically and looked beautiful. LE2 has to be low everything and even then it crashes with regularity.
+I really wanted to love this game, but with everything set to low it looks like something the dog has dragged in.
+If there is an optimisation patch that impetus this, I will review my score here but until then it has to be a low score from me. So disappointed :(",Jan 13 at 7:08 PM,2, 3,
+2022-05-28 14:47:00.901320,canyonero80,Game is not worth buying,"ok lets start with my PC specs as they will be relevant later in the review.
+CPU - Core i7 9700K
+Ram - 32GB DDR4 3200
+Video - RTX 3070
+Game running from an NVME disk
+OS - Windows 11 and 10
+
+Good parts about the game.
+ if you love the original then you will love this as it's more of the same. Graphically the game is great albeit texures pop in and out all the time. 
+
+Bad parts about the game.
+the game repeatedly goes from 120 FPS to 2 SPF and makes you want to be sick. changing graphical setting does not fix this issue, however minimising the 2D video on the desktop does fix the issue somewhat. so i can live with this workaround if it wasn't for the bigger issue.
+in the part of the game when you get given a new shell and get told to shutdown to get your conciousness transferred. you shutdown and the screen goes blank, then never comes back again. I can still hear sounds, i can feel vibrations, and apparently i can die too. but i never see anything ever again. I have tried reloading from previous saves, and ever restarting the game again. But nothing works, so this makes the game useless. as you cannot pass this point.
+
+The game has been out for a number of weeks now and there are so many problems with it. (Almost all graphical) reported by what seems thousands of people, and the devs have never responded or released an update to the game. 
+
+
+UPDATE:
+I have looked through the developers discord chanel and whenever someone has a complaint about the game and they say they run windows 11 the devs always say the problem is windows 11. Which sounds so much like a cop out to me, as no other game has an issue. So i completely formatted, and reinstalled windows 10 from scratch and guess what. Exactly the same problems are there, no difference at all. 
+Tried running this game from 2nd completely different PC, and this time the screen goes blank right at the beginning of the game.
+DO NOT BUY THIS GAME UNLESS THE DEVS FIX THESE PROBLEMS",Nov 1 at 7:38 PM,1, 44,
+2022-05-28 14:47:00.917278,Benderal,Great game poor performance,Inmersion is basic to enjoy this game and is not possible when it sttuters very frequently no matter how low are the graphical settings. I have a very powerfull PC but I can not play it this way. Lone Echo I was amazingly done. It would have been better to not change anything and just build the new story,Jan 14 at 2:50 AM,3, 1,
+2022-05-28 14:47:00.933235,M4rsH,Optimization was terrible.,"I bought this game a few days after Christmas, expecting to have a good time playing the sequel to a game I really liked, however, I could scarcely leave the first room without regretting my purchase. Upon starting the game and seeing Olivia's blurred, pixelated face 5 feet away from me, there was immediately something wrong. Even on a decent pc like mine (I can run games like the first Lone Echo and Half Life Alyx with better graphics settings than this), all of the graphics settings default to Low, and the game freaks out if you turn them up. Loading screens take forever, and the graphics obviously look terrible with the required settings. You'd think a game made by Oculus themselves would have more effort put into optimizing it.",Jan 17 at 6:49 AM,1, 1,
+2022-05-28 14:47:00.949193,XtremeHardcoreGamer,great game marred by crashes,"Update: Updated the review from 3 stars to 1 stars! I was hoping for updates but it has been months now and all we got is one mediocre update. How could they spend this much time with TLC on a project and just up and abandon it? They are sooooooo done with PC players. If I knew it was going to be like this I would've saved my $40. It's sad.
+
+I will update if they fix the crashes. I got an 8700k@4.9 stable for everything else, 3080, 16gb, the game runs great besides some very poor texture load/streaming. But the crashes every 5-15 mins is brutal. I got almost all the big VR games, so many it is embarassing. They don't crash like this. On their discord they recommend turning off all overclocks including xmp ram profiles. I am not doing that everytime I want to play. I write this to encourage an update since I know that LEII is the last Oculus PC game. It might not be a priority. edit: they released a patch which has improved stability some. changed rating from 2 to 3 stars.",Jan 30 at 2:39 PM,1, 6,
+2022-05-28 14:47:04.038549,yukuaki,"Good game, poorly optimized","Desktop rtx3070 and I can't even run on Low settings without stuttering, while lone echo 1 runs perfectly fine on High even with extra supersampling.
+----------------------------------------------------------------------------
+yep, still finished it.",Feb 15 at 9:13 PM,3, 8,
+2022-05-28 14:47:04.054506,Joaquinus2018,"No translation , only english ??","It seems incredible to me. after all the delays uy they haven't been able to translate it into Spanish, not even the subtitles. Totally disappointed in this aspect, lone echo 1 was translated and I really enjoyed it, I don't understand why this one, 2, has no translation. Very bad ... I have played little, graphically an improvement and the setting, very good as in the previous one, but the translation, for someone who does not speak English, is basic, especially with games of this type ..",Oct 13 at 4:50 AM,1, 131,
+2022-05-28 14:47:04.070975,Ultimeas,Exactly What I Wanted,"When Lone Echo 2 first released, I believe I left a 1 star review (that I can not find now) and refunded, due to crashing less than 10 seconds into gameplay no matter what I did.  Well I repurchased it last weekend, and I'm not sure what was changed/patched, but I was finally able to fully play through and complete the game.   I am SO GLAD that I was finally able to play it.
+
+I had been looking forward to the game for a long time, I played the original as one of my first games back when the Rift S first came out, and was ABSOLUTELY BLOWN AWAY by it.  To me, even to this day (and this includes Alyx), nothing comes close to Lone Echos immersion.  The movement system feels so natural and technical, while selecting your gadget on your arm, checking objectives and selecting text all feels so in place I forget that I'm playing a game.  
+
+I still find the story amazing, and although the second Lone Echo does not have as much mystery as the first, its scope and ambition are wildly beyond the first.  There was indeed some performance hiccups along the way, but they didn't really detract from my enjoyment since I was able to enjoy the game :).",Dec 2 at 10:13 AM,5, 6,
+2022-05-28 14:47:04.086926,DapperDan85,FINALLY,"A few bugs at beginning. Especially when Jack is initially coming back on line. Had to force quit game and restart it then i had no issues. Game is beautiful. So glad its here!
+
+Update:(SPOILER ALERT) OH. MY. GOD. Job well done.  2080 ti. graphics maxed and tweaked settings on oculus debug and using oculus quest 2 and link.  you nailed it.  game is gorgeous. please. please PLEASE. I WANT LONE ECHO III. IT CANNOT END LIKE THIS. it was worth the wait. Job Well Done.",Dec 10 at 12:35 PM,5, 4,
+2022-05-28 14:47:04.102884,specek,Beautiful Nightmare,"Well, what to say.... Such a beautiful story destroyed by bad graphics with lot of bugs. Where to start? My rig is I9-10850K, 64GB RAM, fast nvme for os, another nvme for data, RTX 3070, Quest 2 with link cable (or airlink, doesn't matter). You put all settings to high - game is not playable, glitch after glitch, crash randomly several times. Memory usage on 3070 is almost full (7.9 from 8GB) and this is first problem- you would need 24GB on card maybe to get textures loaded in full i presume. GPU utilization over 90%. 
+On opposite side you switch all to low- game crashes less BUT graphics is just very bad. It's much worst than Echo 1, textures not loading,  you are  not able to read text etc. Don't know what had been done to original game engine but something went wrong, why reinvent wheel? When all settings are on LOW - GPU utilization is around 70% and 7.1GB memory usage on card. Funny enough CPU utilization in both settings is less than 20%... I bought this game for story and hoped for better graphics (long develop time). Story line feels strong for now but technically this game is broken. Devs knows that... looks like they had either tight timelines from oculus, something is broken inside their team or they focused or other more important(money, money)  projects.  Do not recommended in this state,  unfortunately :(",Nov 8 at 12:56 AM,2, 21,
+2022-05-28 14:47:07.203175,Youx72,TERRIBLE PERFORMANCE ISSUES,"The game has been out for a month, and so far nothing has been done or even acknowledged by the developpers, so I'll be slash through the review note.
+
+The game runs TERRIBLY even on high end computers (I have an RTX 3080, a very fast NVME SSD and processor, lots of RAM). This includes :
+- very slow launch loading times when the app launches
+- grey load screens now and then, when floating in space (at first I thought it was a display bug, because grey screen, but when I turned around there was a sign saying ""loading"", so even that they couldn't do well :/ )
+- HUGE texture/model popping (basically, each time you turn your head 180° outside, asteroids will look like grey boxes for at least 5-10 seconds)
+- some stutters
+
+And all this is on a very high end computer.
+
+Now, related to the game itself, it has some repetitive actions (deploying charing stations, and reactivating transports), but that unlock improvements, so it's a tradeoff... I would have preferred if the improvements were unlocked by secondary quests, and not repetitive action but hey...
+
+What I found VERY FRUSTRATING, was the ""syncing the radio stations"" task. It involves activating a station, flying very fast (you only have 25 seconds, which is VERY short) to the next one, and repeat that maybe 6 times in a row... if you fail just one (and the timing leaves absolutely no room for error), you have to re-do it all... I completed 2 so far, and hated all of it.
+
+Otherwise, it's the sequel of Lone Echo 1, there's everything that made it good... so... yaay...",Nov 20 at 6:22 PM,1, 10,
+2022-05-28 14:47:07.221128,adnank77,A Must-Have Sequal to a Must-Have Game,"Time 7 Hours
+Rating 9/10 
+
+Pros:
+- Continues same amazing story of LE1. More details and very immersive 
+- Same lovely zero gravity VR mechanics of part 1
+- More tools in VR depending on situations makes better game play compared to LE1 .. Best addition 
+
+
+Cons:
+- Graphics is great but same as part 1. No improvements 
+- Short. Want more.",Dec 8 at 10:12 PM,5, 4,
+2022-05-28 14:47:07.245063,agentplaza,"Amazing, difficult at times, emotional",This game took me quite a while to complete because I took my time trying to solve the puzzles and without spoilers emotional and beautiful.,Jan 15 at 8:49 AM,5, 3,
+2022-05-28 14:47:07.261020,SirKyoso,Perfect in any way..,But you need a strong pc to play ...RTX 2070 and above!!,Feb 11 at 8:05 AM,5, 2,
+2022-05-28 14:47:07.276977,Palieus,Great title!,Works wonderfully on the Oculus Quest 2. Graphics are beautiful and emersion factor is spot on. Ready at Dawn did it again!,Jan 24 at 6:35 AM,5, 2,
+2022-05-28 14:47:10.361363,TimeZup,AMAZING GAME PLAY IT AND SO SO WORTH IT!,This game has so much to it like you could explore a room for hours and it's has amazing graphics the people look so so real.,Jan 21 at 7:45 PM,5, 2,
+2022-05-28 14:47:10.378317,WayOfInfinity,Better than Alyx,"Lone Echo 1 was a great game, fantastic story, setting, mechanics, but Alyx lay it all to waste.
+
+Now with the release of Lone Echo II, I think the combo of the two is better than Alyx. Yes there are a few graphical issues here and there, but in the end, the two games put together are a VR masterpiece.",Nov 27 at 8:46 PM,5, 5,
+2022-05-28 14:47:10.394274,IgnoreNormal,would be great if devs fixed textures,"story was great graphics were great..... until i got hours into game and all the textures are now streaming in and out and i dont even want to play any more. quick search on google you will see same issue with many 
+
+I have a 3070 and ryzen 7 5800x....",Jan 9 at 10:53 AM,1, 1,
+2022-05-28 14:47:10.411229,expilu,Unoptimized,"Powerful GPUs have very poor performance in this game. It's either poorly optimized or built for the graphics cards of the future.
+
+A pity, because it looks like it can be a great game. But simply unplayable in VR in this state. Hope they fix it.
+
+Returning the game meanwhile.",Nov 17 at 1:24 AM,1, 9,
+2022-05-28 14:47:10.426189,arossner,"best space game, very good graphics",better than lone echo 1,Feb 20 at 8:29 PM,5, 1,
+2022-05-28 14:47:13.516553,Crazy_Sane,The epic conclusion I'd hoped for,"One of the best games available for VR. Everything that was great about the first Lone Echo game was expanded upon. It has a fantastic story, believable characters, immersive gameplay, and a massive scale. There's good replayability, although I wish you could save separate save games. And it's also worth noting that you'll need a super fast pc if you want to play this on high graphics settings with a decent framerate.",Dec 11 at 10:01 PM,5, 2,
+2022-05-28 14:47:13.532511,jhirai20,Great Sci-Fi Movie Game,"This is the future, the closest thing to being in a sci-fi movie. If yall were to actually crowd fund, many of us would invest hands down. Honestly you guys have really made an exceptional title. We all look forward to the next project. Good Luck!",Dec 13 at 3:59 AM,5, 3,
+2022-05-28 14:47:13.549465,OxideFX,What a ride...,"I absolutely adore this game. The characters are well-written and interesting, the world is intruiging and the story is captivating. Genuinely one of very few games that have left me utterly speechless and emotionally invested by the end. The overall experience is so immersive that it really draws you into the world and the story. There's not a huge amount of innovation from the first game, but it takes everything the first game did well and doubles down on it. Easily my favourite VR game of all time and truly unforgettable experience. I truly hope that this is not the last we'll see of Jack and Liv.
+
+Downsides are texture popping, some loading screens if you fly about too quickly and the odd game-crash, but it wasn't enough to ruin the experience for me.",Dec 2 at 1:43 AM,5, 3,
+2022-05-28 14:47:13.565422,Kamitora,Needs a big update/patch,"I played the game 7 hours and it was wonderful. Then I upgraded from Windows 10 to Windows 11 and it started to crash every 5 minutes at best (CPU : Intel I9-9900KF 3,6Ghz / RAM : 64 Go / GPU : RTX 3080 10GO VRAM / NVMe SSD drive) and fluidity was noticeably not as good as with W10. Moreover, by transfering the game install from one SSD to another by using the Oculus app, I lost all my 7hrs progression (where's my savegame ?)... WTF ?!!!
+Last but not least, I'm french and Lone Echo 1 had a french dubbing. Why does Lone Echo 2 not have one (subtitles at least) ??? I'm sure a lot of people around the world would love to play the game with dubbing/subtitles in their language.
+So I hope Ready at Dawn is working hard on a W11 optimisation and on adding other languages to ensure this game is as close as possible to perfection...",Nov 2 at 6:17 AM,3, 12,
+2022-05-28 14:47:13.581380,Magnum666,Just VR must have! Amazing,"Great Job, we wating for Echo Lone 3, I hope you are already working on it?",Jan 23 at 10:04 PM,5, 2,
+2022-05-28 14:47:16.649289,willy.traub,Perfect Sequel,"Immersive story, engaging characters, beautiful and haunting environments, and puzzles that hit the sweet spot in difficulty.  This game is worth every penny!",Jan 7 at 12:21 PM,5, 2,
+2022-05-28 14:47:16.666244,ChrisSFoot,"Amazing Game, terrible performance",I absolutely loved Lone Echo and I really want to love Lone Echo 2 but it's so poorly optimised it's barely playable. I have relatively decent specs and even on the lowest graphics it stutters so often that I feel sick. There are often textures that take 10 seconds or more to load in. If you're flying around in space you'll get 30 seconds of loading screen annoyingly often too. The small amount I have been able to stomach so far has been awesome though. Please please please fix the game!,Nov 30 at 9:43 PM,2, 3,
+2022-05-28 14:47:16.683199,lemmingby,"Spectacular, self-paced, story-driven...","The first Lone Echo game was (and still is) a definitive VR experience. So the expectation for the sequel was to take the whole thing to a new level. Well, this did not happen...
+
+Lone Echo 2 picks up right where the original left off - both in terms of the story and gameplay. However, it's a much bigger game with more areas to explore, more sights to behold, more twists to the story and more optional objectives to complete. Much as an original game, it's a spectacular self-paced story-driven adventure/exploration in an open space. 
+
+However, being a much bigger game as a whole, Lone Echo 2 offers only a few new gameplay mechanics. As a result it feels like you have more to explore, but less to do, compared with the original. Sometimes to the point of utter repetitiveness. 
+
+The other downside is a bunch of performance and visual issues even on a powerful hardware. Hopefully, these will get solved after a few updates.
+
+So it's not revolutionary and not ideal. At the same time I have spent almost 20 hours in this game and thoroughly enjoyed it. With that said, my score is 5/5. Being totally fair with myself, it's a 4/5 game with an extra emotional point added. Well, the games are all about emotions and Lone Echo 2 definitely delivers on that front.",Nov 24 at 8:29 AM,5, 4,
+2022-05-28 14:47:16.700154,BravoBrave,Great sequel!,"My short verdict:
+Great fun game with few performance hiccups. E.g., loading textures, and micro pause/loading memory spots here and there when playing, but it never ruin my game play enjoyment.
+
+Side missions. There's one called signal relays that I couldn't do/finish because there's a countdown time before resetting (it's difficult). The other mission quests I enjoyed.
+
+P.S. Post credits jubilation.",Nov 27 at 6:41 AM,5, 3,
+2022-05-28 14:47:16.716111,user_322813080688671,A Blast!,"Running this game maxed out, looks amazing!",Jan 26 at 1:54 AM,5, 2,
+2022-05-28 14:47:19.805939,ItsAPuddin,"Its good, ignore all other comments :/","I dont know why in the heck ppl are having crashing issues and bad frames but i think i have a hypothesis. theyh are trying to run a vr game on a toaster of a computer and are too stupid to realize it. This game is amazing, just the right mix of terrifying, fun, and story driven for it to be amazing. It is only bad if you havent played the first game i suppose but i love it and completed the whole game in 2 days within 8 hours each day.",Nov 20 at 6:59 AM,5, 4,
+2022-05-28 14:47:19.821896,ATP-Flo,Massive texture bugs (see video),"I've made a video to show what I mean:
+https://youtu.be/AOtx7AkER6c
+
+-
+
+I think Lone Echo 1 is one, if not the best, VR game I played since 2018 and I played it several times, always with goosebumps. I loved it's immersion and how it just pulled you into the experience deeper and deeper and technically it was the absolute top-notch.
+
+I was really hyped when they announced Lone Echo 2, as many others were. But after playing now for ~2 hours I have some mixed feelings. Actually I am thinking about waiting some weeks before I continue because there are some massive bugs that really kill the immersion for me.
+
+Story was fine until here but HECK.... WHY?
+
+-
+My rig:
+RTX3090FE
+R9 5900X
+64GB
+very fast NVME SSD
+-
+
+The main bug:
+Textures take ages to load. You grab something and you just can't read what it says and have to wait like 10 seconds until it goes from 32x32 pixels to 4K or so. I mean... I've got the hardware. There are 24gigs of VRAM. Just put it in there! WTF. This happened to me in almost every scene. Posters you can't read. Details you can't see. When I boarded from the station to the other ship there were massive textures of VERY BIG objects just not loading up (not like unimportant things). It was looking like a game from 2000. That's when I decided to just exit and write the review. FIX THIS NOW!
+
+A bit disappointing:
+- english only, the german voice acting was epic, really gave more immersion
+- game crashed several times when I cranked up settings in the graphics menu (worked in the end but the game crashed 3 times before story)
+- When I first started the game it all looked like super sampled down / unsharp hands, wanted to crank settings up but it wouldn't let me at first. I mean wtf. I hate games that just start with the story and won't let you select settings first. WHY.
+
+All in all I think, they should have just taken more time to polish it, clear all the bugs and they should have implemented foreign voices because the first title had them all.",Oct 20 at 10:56 PM,2, 21,
+2022-05-28 14:47:19.838850,theexpir,One of VR’s Greatest Adventures to Date,"This is, without a doubt, the continuation of one of the best virtual reality games. 
+In 3 hours I was convinced that it was worth it.. Several times I was delighted with what I saw or heard... It's a pity that this is the last Oculus game for PC. We probably won't see anything new for a very long time until PCVR grows to the right scale for Oculus to return.  
+
+At the moment, the game has technical problems that will most likely be fixed with the first patches. 
+It may be worth refraining from purchasing for 1-2 weeks.  
+
+I am insanely excited to see the continuation of the story of these characters again...",Oct 15 at 3:20 PM,4, 20,
+2022-05-28 14:47:19.854808,Valver,Anyone else just want to hug Liv?,"Just over an hour and a half into the story at the time of writing this - and its shaping up to be everything I hoped for.  It drops right back into the story from Lone Echo 1, with all the same mechanics and tools as before. The voice acting by Liv just got me right in the feels immediately.  The graphics and art direction so far have been first class.  Performance is great.  I hope the story proves as much of a ride as the first one...  so far I'm very pleased with my day 1 purchase!",Oct 13 at 6:19 AM,5, 21,
+2022-05-28 14:47:19.871762,VRC,Currently the best VR game for me,"Currently the best VR game for me.The atmosphere is great, the graphics are really good and the NPC is just fantastic. Everything seems authentic and comprehensible. There is a lot to discover everywhere and hovering is great fun. Normally, I get sick quickly with VR games like this. But here I had no problems at all. Technically, the game also ran absolutely smoothly for me.",Dec 3 at 12:05 AM,5, 2,
+2022-05-28 14:47:22.962605,Dagas,Awesome.  No words.,Looking forward to what's next.,Jan 23 at 3:09 PM,5, 2,
+2022-05-28 14:47:22.978562,perfectcolors,Crashes / Unable to refund,"I was enjoying the game until about 2 hours in when I encountered a section that repeatedly crashes the game which prevented me from progressing further.
+
+I attempted to refund the game but was denied because I was over 2 hours of playtime.
+
+I joined Echo Games discord for support and followed all currently recommended steps (lowering graphics settings, disabling XMP, making sure components aren't overclocked, ect). Nothing helps, the game still crashes on the same section.
+
+I would not recommend this game in its current state.
+
+HMD: Rift CV1
+CPU: i7-9700K
+GPU: GTX 1060 6GB
+RAM: 16GB DDR4
+OS: Windows 10",Oct 13 at 10:09 PM,1, 21,
+2022-05-28 14:47:22.994519,Vittorrio,AWFUL!!!,"Bad frame drops, loading screen interupting game play. 4 years in the making, 2 of which were delays and now I can understand why. I spent 2 hours trying to play and fix what I thought was my PC, only find its the game. And I was refused a refund! because of the time I spent in game trying to understand and fix the problem. The first game runs perfectly as do all others I've tried. The developers need to sort this mess out!",Oct 27 at 5:06 AM,1, 9,
+2022-05-28 14:47:23.012471,Tales_O_Arise,"After render option tests, it works fine","Oculus Quest 2 via Air Link. RTX3090 worked HIGH with 4x super sampling @90Hz. It looks gorgeous! i9 9900K, 32GB.
+
+When I installed it for my 120Hz Oculus Quest 2 with air link, it crashed more than 4 times in 2 hours. I checked and tested all the possible options. It was found to be the frame rate issues. I reduced the OQ2 frame rate to 90Hz. It worked BUT crashed again with less chance. 80Hz works flawless with no crash!
+
+There should be some graphics options chart for various GPU's. 
+
+For more stable render, it should support nVidia's DLSS like no man's sky. 
+
+Good luck!",Oct 14 at 9:53 AM,1, 17,
+2022-05-28 14:47:23.029426,jakop1,As the first part - top,A wonderful game - now with an end of the story started in the first part. Very good VR experience with the same immersive effect as in the first part - indeed no big changes here compared to the first part. Took a little long to wait for the game. Hope there will be more like that in the furture!,Nov 27 at 8:44 PM,5, 2,
+2022-05-28 14:47:26.130224,Zuorro,Lone Crash 2,"This game is severely damaged and unplayable for some people. Seriously, do not buy it, just yet. It crashes constantly every few minutes no matter what I do. I also checked regular oculus software and beta version, I set my cpu/gpu to default settings because OCed hardware according to the devs is ""bad"", btw - why is that if it's rock solid with literally everything else but not LE2?). Checked with different link/airlink settings - low/high constant/dynamic bitrate. Lowest possible graphics settings, etc. 
+Nothing helps - I got hard crash (with black screen) or BSOD: WHEA errors and I want to underline this - WITHOUT any cpu/gpu overclocking as recommended!
+I've seen better working games which were in early access. I highly do not recommend this game. Their Discord server is starting to have more and more complaints but there is no solution except ""do not overclock"" which doesn't solve the crash issue at all.",Oct 20 at 6:10 AM,1, 12,
+2022-05-28 14:47:26.147178,glukasil,,"textures popping up...ugly.....but it is not a major  problem.....but constant crashes....i waited a long time  for a patch but there is no one....now i cant even refund it....
+
+really disappointed in 2 latest games for pc vr from oculus? facebook?meta?  first MOH and now this.",Nov 6 at 5:39 AM,1, 8,
+2022-05-28 14:47:26.163135,Dexter_Doh,"subtitle, please..","voice acting?
+ in-game UI localization? 
+no.. just subtitle for non-english player.",Jan 1 at 2:49 AM,2, 3,
+2022-05-28 14:47:26.180090,Magnator,Best space-VR game so far,"Thank you for this masterpiece.
+It runs very well on my i7, 16GB, GTX 1080 System and is installed just on an mechanical HDD. I use the Ovulus Rift version and it looks fantastic - also higher grafic settings are possible for most parts of this game.
+
+I love the immersion and the love of the developers to this game.
+
+I hope there will be come more games like this both pasrts or the Half Life Alyx as well.
+
+From what I find out it seems to be very important to run a rockstable system, if you have issues with stability try to stabilize your system. Just my 5 cents.",Nov 16 at 4:11 PM,5, 3,
+2022-05-28 14:47:26.197044,daryl1983,Crashes every 10 mins.,"I loved the first Lone echo and was loving the second. The game crashes after about ten mins of play time. It's not my specs as I have a 2080 and I7 9700K with 32GB of ram. I have been waiting for this to drop for the last 3 years. I sure hope they send a patch soon to fix this becuse I would love to play this start to finish but as of now it's unplayable.
+
+ If fixed it will deff be a 5 star
+
+I was able to fix the crashes by disabling the XMP in my bios . not ideal by it works now!",Oct 15 at 1:02 AM,5, 17,"Hello, we're sorry to hear you keep crashing every 10 minutes. There could be a couple of things causing crashes, and if you join the Lone Echo Support Channel of the community Discord our Devs would be happy to troubleshoot with you: https://discord.com/invite/vXbazs5"
+2022-05-28 14:47:29.305859,SidewaysAnimate,Great Game!,"The game is great, have played a quarter of it so far. The graphics are a step up from the original, and the story is even more epic. The only thing is it could've benefited from a little more optimization. Sometimes it can have lag spikes. I have an RTX 3060 Ti and it ran the original game great on high. This one runs it great most of the time on high however it can have its lag spikes. Besides that, the game is great and I feel the devs put a lot of attention to detail on this game. Totally worth the 40 bucks!",Nov 23 at 9:55 AM,5, 2,
+2022-05-28 14:47:29.323811,yyg_diz,Simply the best Oculus franchise.,"I've loved LE1 as much as I loved Arktika.1 - the two best Oculus games, imho. And this.... This is what a good sequel is.
+The only minor downside is the performance. 
+I've got i7-10870, 16 Gb RAM, 8 Gb GeForce 3070. 
+The game drops the frame rate to a near-vertigo extent at the maximal (ultimarte) settings, but admittedly works fine at the penultimate ones.
+All in all - a VR masterpiece. Albeit quite pricey.",Nov 23 at 3:46 AM,5, 2,
+2022-05-28 14:47:29.340766,2Becu,Main menu not showing up,"After the beginning 2 options (Accessibility and turning options) main menu is not showing up, all i see is gray space and i can hear the menus when movinf controller around but the GUI is not showing up. Shame becasue i waited so long for this to come out.",Nov 30 at 7:40 PM,1, 2,"Hey there, sorry to hear you ran into a bug like this. If you join the Lone Echo II Support Channel of the community Discord our Devs would be happy to help you troubleshoot. Discord link: https://discord.com/invite/vXbazs5"
+2022-05-28 14:47:29.356723,jonesee02,BEST GAME I EVER PLAYED IN VR BEFORE,I like the story it tells and the feeling with weapon is cool because this game never had that before.,Dec 29 at 11:43 AM,5, 2,
+2022-05-28 14:47:29.373677,andrew.moore.169405,Its a whole other level of VR,"The first game was so good i gasped at the graphic quality and the gameplay was just superb ive done an hour of this and so far it doesnt dissapoint, its great and shows off whats possible with a decent PC and a quest 2. a must buy but play the first one as its an extension of that. I noticed some comments about crashes and issues with graphics, i can only recommend you upgrade your routers if your playing with wireless link. I had no issues at all runs superb on a my basic 1660 super!",Oct 13 at 8:21 AM,5, 11,
+2022-05-28 14:47:32.458997,BadBoys_Kirbinster,Not impressed so far,"One hour into the game and i'm rather annoyed about it. First of all the graphics can't be set to higher than low with  a Radeon RX5700XT/AMD Ryzen9. No matter what i configure, the settings always stay at low quality. Besides that, the game crashed two times so far. Also there still are no cloud-savegames. After moving the game to a faster SSD, the savegame was gone and i need to play it all over again - including the extremely annoying, non-skippable tutorial section.",Oct 13 at 4:12 AM,2, 11,
+2022-05-28 14:47:32.474955,David Wagner ITTR,Even on the lowest settings …,"this game looks great. I’ve turned off all the anti aliasing in order to avoid stutter, but graphically it looks incredible. Those who have great rigs will benefit most, obviously, but I’m very impressed and happy with it. I’m hoping to give 5 stars after a few of the kinks are worked out. The game has crashed on me a number of times but mostly at the very beginning. This is my second play through and the story is perfect.",Oct 26 at 4:55 PM,4, 10,
+2022-05-28 14:47:32.491909,FaraDie,The best VR game ever made.,"This is THE best VR game on a market. And its such a shame that this is THE LAST ONE!!!!! Because ""We are no longer supporting PCVR, we will develop cheap and ugly trash for quest 2 only"". Ok, it seams that its also the last time i buy something from oculus (or meta, how are they even called now?).",Jan 6 at 7:02 AM,5, 2,
+2022-05-28 14:47:32.508864,VRPhantom,A Fantastic Sci-FI Adventure,"The original Lone Echo was one of my first VR experiences and remains one of my favorites. Lone Echo 2 however somehow manages to improve upon it. Picking up shortly after the events of the first game, you once again inhabit the body of Jack, a very sophisticated robot who has developed a close relationship with his friend, captain Olivia Rhodes. Together, you embark on a grand adventure.
+
+Graphically, the game is a technical showcase that creates a breathtaking world for you to explore. Taking place in and around the rings of Saturn, just flying around the various habitats and structures is a lot of fun.
+
+The game is also an outstanding tactile experience that allows you to interact with your environments in lots of new and interesting ways.
+
+Where the game really excels for me though is in the realization of the characters you interact with. The conversations and exchanges you engage in feel really authentic and the ending packs quite the emotional wallop.
+
+Technically the game does have some hiccups. Random textures can take an inordinate time to load and the framerate can be inconsistent at times when a lot is happening on screen. None of it breaks the game but it could definitely use another round of optimization. Best to be on the conservative side with the graphical settings as it still looks great even with the lower settings.
+
+For me Lone Echo is easily the best game of the year, VR or otherwise and probably the best VR game I've ever played (and I've played a ton of them). It shows how a properly made VR game can pull you into its world in ways a traditional flat game never could and the characters and voice acting are all top notch, making me really vested in what happens to these people and AI's I'm interacting with. Part of me hopes we'll get a Lone Echo 3 some day, but part of me also hopes we don't as this game has one of the most beautiful, emotional endings I've experienced (TIP: don't skip the credits).",Oct 20 at 4:16 AM,5, 9,
+2022-05-28 14:47:32.525818,b-twice,I feel like I am at home again!,"I played thru Lone Echo (predessor to this game) several times and loved it every time. I have about 4 hours into Lone Echo 2 so far and still am just astounded by the movement, the physics interactions, Liv's personality, the environments, all of it is top notch. The story has some similar problem solving and the scary bio goo is back and creepy as ever.
+
+As for the graphics presets - I have an RTX2080S and when I tried to change it from ""Low"" I got a big red check mark indicating my GPU was overloaded, SO, I have been changing individual settings like shadows, texture resolution, volumetrics and bloom and am getting the look and results I am after. Try tweaking individual settings for those having any GPU issues.
+
+Great game like the original and of course Echo VR is a blast as well.
+
+Well done RAD!",Oct 13 at 8:24 AM,5, 12,
+2022-05-28 14:47:35.635127,Patuber,Worth the money ;),"Been in the game for a few minutes, loving it already! Its a great deal playing this, its awesome! So great to experience going back to the rings of saturn! Keep it up and everyone have a great time with this! Its worth it.",Oct 14 at 4:26 PM,5, 22,
+2022-05-28 14:47:35.653079,LonArt,Subtitles!!,"The devs have included CC with this game, and that alone earns a 5 star rating from me.
+
+*** UPDATE ***
+
+11/13/21
+
+After upgrading to Win11 and the latest software update on my Quest 2, the performance issues below are gone.
+
+****
+I've played for around 3 hours and have run into performance issues.    Screen smearing, often hanging for several seconds and severe drops in framerate.   I'm using a Quest 2 via Air Link and am running an RTX 3070 with 32G of ram, so I don't thinks its been for the lack of horsepower.  
+
+I've played with the Quest 2's refresh rate in the Oculus app and turned it to the recommended rate of 72hz.  This cleaned up most of the performance issues, though slight stutter did happen when loading large amounts of assets but it wasn't bad.
+
+Though playing at 72hz does make me feel a bit queasy, I've still enjoyed the game.  I don't think this is an acceptable work around but it does work.  I do hope Ready at Dawn address these performance issues in a patch.
+
+As for the game itself, despite the above performance issues it is a truly first rate VR game and one of my favorite.  Olivia is such a believable and likeable character that you just want to spend time talking and finding out more about her.  
+
+The character banter is interesting, inteligent and heart warmingly humorous.  The voice cast is superb and downright flawless.   Puzzles are well thought out, challenging but not more so than they should be.
+
+The developers and cast have done a remarkable job of breathing life into these characters.  When Olivia is, at times in danger, you absolutely want to protect her as your pulse quickens and you race to help her.  Because of VR's sense of presence, Olivia to me feels like the most believable and ""real"" characters I've ever met in a video game. (And I've been playing them since the late 70s!)
+
+This title is by far the best game (VR or other) I've played since Halflife Alyx, and it may top that one once these performance issues are ironed out. 5/5!",Nov 14 at 1:28 AM,5, 2,
+2022-05-28 14:47:35.669036,Lruce,SUPERB VR EXPERIENCE,"This is probably as good as it gets, as far as a high quality VR experience is concerned. The attention to detail and the world building is absolutely best in class. Very high quality production and an unbelievably convincing sci-fi environment puts Lone Echo 2 at the top of the pile. Even on the low settings, it still delivers the same awesome experience I enjoyed on Lone Echo 1. You really do need a top end PC though and a high end graphics card to match to get the most out of the visuals but even so, this is an absolutely killer VR game. Nothing compares.",Oct 24 at 10:22 PM,5, 5,
+2022-05-28 14:47:35.685991,RevSchwarzy,Wow.,"I've never been so moved by a VR experience like this. The way I was immersed in this video game, made me feel how Halo's Campaign made me feel as a kid. I was so moved, it actually made my cry at the end of the story. and the Prologue scene afterwards, was incredible. Please do not allow this story to discontinue. As I am awaiting for the Return of Jack and Olivia, to what they call Home.",Nov 4 at 6:05 PM,5, 3,
+2022-05-28 14:47:35.702946,John Millimetron,Immersive journey in the sci-fi world,"Playing this game is like being part of interesting book. You are going through the story plot in beautiful sci-fi world of space and space stations. There is no challenging puzzles or stressful running out of time moments, yet the game flow is full of different missions, tasks and intriguing moments that keep you busy all the time. Great graphics, very detailed and logical design of all staff your interacting with contribute to full immersion. This game is worth every minute spent on it, one of the best I've played so far.",Nov 4 at 4:35 PM,5, 3,
+2022-05-28 14:47:38.800794,arby80,Game crashes constantly,The game crashed about 30 consecutive times when Liv was describing her room.  After setting all of the graphics to minimum it let me get past that point and set the settings back to high.  Crashed again about 45 minutes after that point.  The game should not be crashing with my RTX-3080.,Nov 15 at 2:09 AM,2, 2,
+2022-05-28 14:47:38.817748,CaptainBackfat,"Absolutely stunning, RAD did it again!","Worth the wait!  Ready at Dawn are truly the master craftspeople of VR.  LE was the first VR game I played on the PC I built and still one of the best today.  LE 2 raises the bar with better puzzles, larger maps and longer levels.  Truly amazing!
+
+I’m running an RTX2080ti, i7-9700K, 32Gb Ram with all settings on high on a Rift S and this thing gets HOT running LE2.  Every once in a while there’s a texture pop-in, and a gray “memory loading” screen moving between different mission areas in the asteroid field, but otherwise, no performance issues.
+
+I really hope RAD offers their incredible workmanship on Steam after our Rift S platform winds down!",Nov 11 at 12:59 AM,5, 8,
+2022-05-28 14:47:38.834704,Powney1991,Makes you feel lucky to be alive!,"I was a huge fan of the original game and was aching to play the sequel as soon as I learned about it. Low and behold it’s arrived! I’ve spent several days playing it and just finished the game tonight! Absolutely mindblowing from start to finish! 🤯 For anyone who’s played the original this is exactly like it but even better! 
+
+They did a tremendous job of encapsulating and immersing you into the story just like in the original! You have the same awestriking views to admire however the area has a lot more size and chance for exploration and there’s side objectives and secret areas  too which is a fantastic touch! You also have more tools at your disposal which you acquire as you progress through the story and are also upgradable while you’re out exploring! 
+
+Graphics are superb! Voice acting is awesome and the story itself.. there are no words to describe how creative and futuristic it is! It absolutely sucks you in! For anyone who has played the original and enjoyed it you’ll be mind blown by this sequel! For anyone who hasn’t played the first one, I definitely recommend playing the original first as it’s very story focussed and the story continues after the first game and into this one. Rest assured though both games are out of this world! (Quite literally)😂
+
+Fantastic job ready at dawn! The hard work on this beautiful VR masterpiece over the years has paid off! 🙂",Oct 28 at 8:21 AM,5, 4,
+2022-05-28 14:47:38.851659,Tseu,"No translation, no star.","Please translate the subtitles, shame on you.",Nov 23 at 7:53 AM,1, 13,
+2022-05-28 14:47:38.867615,Octan82,GOTY! (Performance issuse fix),"It's the best game I've ever played on Oculus Q2, there are many reviews already so I'll not waste your time. As for performance issues that made some people give less than deserved 5 stars. Go to your task manager in windows, find ""OVRServer_x64.exe"", right click and set HIGH priority.  It works, my PC setup with RTX2060 Super is enough to enjoy this game on max settings (only slight frame drops from time to time).",Oct 19 at 7:30 PM,5, 6,
+2022-05-28 14:47:41.956971,Dovahkiin74,Awful.,"Very Buggy, crashes all the time, sooo many glitches. Needs to be redone IMO. Game is obviously not finished. The first game was flawless for me but this one is just terribly buggy and feels unfinished. I may try to finish this game IF I CAN.",Nov 9 at 11:01 AM,1, 4,
+2022-05-28 14:47:41.973925,xxSILVxx,PCVR is dead !!!!! Like F@&k it is😁,"An absolute treat from start to finish,I got quite emotional at the end and I’m a true Yorkshire man. The story was a fantastic continuation of lone echo 1 which you MUST play before this. Graphics were sublime and the feeling of immersion was second to none. Sound was excellent straight out of the traps. The pace of the game was just right adding new tools for you to play with as the story evolved.
+The downside is that there may never be another which I just don’t understand. This will be up there with Alyx sales which surpassed 2 million and that was end 2020. The audience is there for AAA games , so make some bloody more Meta or whatever your name is this week.",Nov 3 at 12:25 AM,5, 3,
+2022-05-28 14:47:41.990880,ShockKiri,Surpisingly gpu/cpu intensive,"I loved this instalment of the game, great continuation of the game, the story was also quite hefty, going at my pace with a decent bit of exploration it took me 7 hours to complete the game. My only issue was that my i7-7700k and gtx 1070 could only run the game on the lowest settings minus the shadow details at minimum. I also had to close out all my other applications. Praying the game just has a performance issue that will be resolved cause my pc usually can run most games with little issue.",Oct 17 at 5:21 AM,5, 6,
+2022-05-28 14:47:42.007835,MrDoubleG,Back in Beautiful Space,"Its so great to continue this opulent space adventure - i just put away my Quest 2 after draining the once charged battery. The visuals of the first part already were the peak of VR (including HL:A), and are now even more impressive, the details are mind blowing. At release day there are some minor glitches: when holding onto a surface and looking around, the image starts to jump around, and i had a crash when changing graphical settings from high to low. Besides a patch adressing those issues i'm hoping for language patches in the future (german would be great for a consistent future playthrough of both parts).",Oct 13 at 4:40 AM,5, 7,
+2022-05-28 14:47:42.024789,Marirari89,Breath taking and mindblowing experience,"Saturn has never been as beautiful in VR. The tools and interactions are more fleshed out than in the previous game as well. Weird seeing the score at 4.1, but that is probably because the first game was so ground breaking. Sadly there are some bugs like pop in textures holding it back though, but nothing game breaking for me. If you enjoy sci fi and liked the first game I think you will love and adore this game. To me it was an instant favourite and really expanded the consept of the previous game, and realised the potential of the first title in many ways.",Oct 13 at 4:42 PM,5, 7,
+2022-05-28 14:47:45.109663,BunglingVr,Amazing... Just absolutely astonishing!,"NOTICE: For this campaign to even make sense, you MUST play Lone Echo 1 first otherwise nothing will make sense in this ((both games cost $80 USD unfortunately))
+
+How can I even begin to describe it... For starters, its an extension of Lone Echo 1, which I've been personally waiting for for a long time.
+
+First off, I have had little issue with performance (AMD RX 580) even at high graphics, which the game said that I will likely experience many crashes and lag. I have only had to experience one crash near the very end of the campaign and it was a very demanding scene (its was f'ing beautiful, very amazing) I have had to experience little/decent lag but I was able to easily ignore it as I was always busy doing something, which is a very major +. One minor negative is that some textures don't pop into focus and enhance which is decently immersion breaking but you learn to ignore it eventually.
+
+The campaign itself, (including LE1) is rather long but very enjoyable and satisfying when finished. ((partial spoilers)) You feel attached to the main characters ""Liv"" (in the thumbnail) and you feel as if you are actually ""Jack"" (robot in thumbnail)
+
+((partial spoiler end))
+I don't have much to say except that the game is a little performance heavy (RX 580) ((not sure if thats even a good gfx card)), very good campaign, an ABSOLUTE MUST if you played LE1, and just... an amazing experience ((played with rift S btw))
+
+This absolutely HAS to be GOTY (Game Of The Year) to me, it is on the level of Titanfall 2's campaign, which no other game has been able to reach (also check out that game too!)",Oct 31 at 3:51 AM,5, 3,
+2022-05-28 14:47:45.126618,Double-oh-Jerry,Amazing world and story,"Ran a little rough, but the world and story over came the issues. Such a great follow up to lone echo. It's like being in a really long movie. I'll be replaying both in order as the experience is so amazing.",Nov 27 at 11:15 PM,4, 2,
+2022-05-28 14:47:45.143573,sammular,"Great game so far, but poor performance","This game seems just as good as the first, but the performance is super bad in comparison. On a 2080ti, quality has to be set really low, with textures extremely blurry otherwise I get frame drops and reprojection. Shuddering effect on text occuring both over Air Link and the regular link cable.
+
+First game had zero issues with performance, and performed way better at higher settings.  Would be 5 stars for sure but the graphical quality is really suffering here. If there's a patch, I'll revise.",Oct 25 at 7:13 PM,2, 4,
+2022-05-28 14:47:45.164517,Semtex-Yoyo,Probably Great,"I’m getting terrible graphics performance, running a GTX2080 super, Ryzen 3700 and quest 2. It recommends low settings which just look pixelated and spoil the game. If I bump it up it struggles to run. The game seems great, just badly optimised. Lone echo 1 looks amazing on my setup.  I tried to get a refund but it went over 14 days. So I guess I have to wait and see if it gets optimised better in an update. I've tried on Link, Air Link and virtual desktop. This is the only game I have issues with on my system.",Oct 31 at 1:13 AM,2, 3,
+2022-05-28 14:47:45.185461,systemnik,The best VR-adventure so far,"Suffers from performance problems at the moment, but I hope the situation will improve in the future.
+
+Story, music, gameplay, atmosphere — the best VR can offer at the moment.",Nov 23 at 6:04 AM,5, 3,
+2022-05-28 14:47:48.280310,Skyppai,The Pinnacle of VR Game Design,"Lone Echo is the pinnacle of VR game design. It is such a joy to move about in zero gravity and it feels real, all the time, no immersion breaking locomotion or gamey shortcuts at all. Event scenes are always interactive enough to keep players involved. And the environments are nicely detailed both visually and in terms of interaction.
+
+Of course, all of this was already true of the first game, and while Lone Echo 2 is an evolution, not a revolution, it is bigger and better than the prequel in every sense. More characters, a higher stake story, and more gameplay variety.
+
+I played on a 1660 Super, 32GB RAM, it defaulted to low graphic settings and I had smooth and consistent performance throughout my playthrough. Wireless on a Quest 2 with Air Play. Guess it pays off to have a modest rig, because the game was majestically breathtaking and a sight to behold. You don't need to spend thousands on a rig for better graphics but worse performance. It looks great on a budget already and runs smoothly.",Oct 22 at 8:51 PM,5, 4,
+2022-05-28 14:47:48.298262,Kermitdaninja,Breath taking! Airlink issues read below,"This game is nothing short of breath taking.
+However using airlink it looked hideous, I'm using  an i7 gen 8, 16Gb ram & a GTX1070 (lower than recommended GPU) with a dedicated router. However using VD with upscaling turned off and set to 60 fps (my setup was only spiking above 60 causing frame drops) and the game set to LOW with the textures set to medium and all that changed, smooth beautiful Lone Echo 2 was unlocked 😁",Nov 7 at 3:33 AM,5, 2,
+2022-05-28 14:47:48.315216,JcTrickY,Recommandation...,"I have both quest 2 and rift s, i have a 9900k and a 3080 msi trio x...
+My verdict do not play this game with a quest 2 : it feel blurry...
+On the other hand the game looks pretty fine on a rifts s...
+Hello developper do you have any recommandation with a quest to have good picture with no lag ?
+Hello the lag is windows 11 
+I suppose the oculus app is not w11 ready !!",Oct 19 at 6:05 PM,5, 6,"Hello, if you join the Lone Echo II Support Channel of the community Discord our Devs can talk with you about recommended settings/set-up. Link: https://discord.com/invite/vXbazs5"
+2022-05-28 14:47:48.332681,Evil_Live,"This is not just a game, it's more...","Let me explain... I'm more than forty. I used to play NES and Master System games. Back in the day, many action games were merely moving in a hostile environment, and everything and everyone you met inevitably wanted to kill you. There was never much explanation given on what the backstory was, you have to destroy (bluh bluh bluh) and overcome the super mega dangerous (bluh bluh bluh). I love stories. I love movies, sci fi movies especially because it's such an adventure when the whole world is different. So when I was playing games back then, I was always imagining the back story for these games, who my character was, why was everything wanting to blast me to smithereen, etc. It was enough to make it more engaging. Then games evolved, the stories became more fleshed out, but they often remained childish, more childish than my imagination anyway, and since their stories were more complete, it was harder to replace complete stories with my own imagination. So I kept looking for games whose stories would get to me. There were a few, but as I was getting older, it was less and less a ""blast"", less exciting. Fun, but I was getting old so yeah, just... fun. Then VR happened. I dreamed of VR for a decade before Oculus and the like happened. And lucky for me, Lone Echo, a great story created in a medium that was so much more impressive, so much more engaging. VR allows for emotions if used correctly, because there's no distance between you and what's happening. And greatest of all, Lone Echo was perfectly done while my love for VR hadn't yet faded. I played that game with the awe I felt when I was 8 or 9 years old. I was able to forget I was playing a game. I felt connected to Liv. What happened in that world mattered to me. This is something that pretty much doesn't happen anymore. When I finished the first Echo, I was burning to see what would happen next. Lone Echo two was what I wanted and more. It's not a game, it's basically an adventure. Thank you for it.",Oct 29 at 11:55 AM,5, 3,
+2022-05-28 14:47:48.349630,scottishkid17,Stunning graphics,I’ve only played it for an hour and it’s amazing,Dec 26 at 8:02 AM,5, 2,
+2022-05-28 14:47:51.450942,pacxx03,Performance via Oculus Link a bad joke,"As far as I can tell so far, the actual game seems to be good in most parts.  The atmosphere is also very good.  BUT the performance in terms of the graphics is very disappointing.  I have a relatively good gaming PC with an RTX 2080 Super.  I play the game with my Oculus Quest 2 via Link (cable), and the performance of the graphics is only bearable in the lowest graphics setting and reduction to 80hz.  
+
+Amazingly, the colleagues who play it with the Valve Index or HP Reverb G2 via Revive have significantly fewer performance problems.  And that's like a bad joke for an Oculus exclusive title, especially since Facebook has discontinued the Rift S and just pushed the Oculus Link solution as the only PC-VR alternative.  
+
+Furthermore, the individual points in the Settings menu can hardly be clicked.  It is a pain and a matter of luck to get something changed.  Because the game is only in English, the (English) subtitles are particularly valuable.  But they disrupt the entire gameplay.  They are much too big, sometimes disappear in the game graphics or appear twice.  
+
+You had 3-4 years to develop the game and have postponed the game's release several times.  Considering that Facebook only offers Quest 2 and they only officially operate PC-VR via Link, sorry but this extremely poor performance is not acceptable! 
+
+I hope there will be a patch that fixes the problem soon, until then I will only leave it at 2 stars and can only advise all Oculus Quest 2-Link players with less than one RTX graphics card not to buy the game in this state.",Oct 13 at 10:11 PM,2, 6,
+2022-05-28 14:47:51.466900,AmericaLivesOn,Phenominal,THE BEST GAME I HAVE PLAYED in a while I felt connected and overall amazed at 7 hours in two sessions i have completed the game only thing im left wandering how do you get in the lab facility with the web block the power? I’m glad they didn’t make it cross compatible because that usually kill graphics great work!,Oct 15 at 6:14 AM,5, 7,
+2022-05-28 14:47:51.484851,pyroth309,Amazing experience,"GOTY to me. 
+
+I'll preface by saying I have a 3090 with a I9 10900K and 32 gigs of ram with an NVME drive.. I didn't have any issues with this game playing it with my Index at 200% supersampling. No crashes but I did encounter some minor bugs and glitches as well as texture pop/slow texture load in the outdoor area. 
+
+This is a worthy sequel to Lone Echo to me and takes you on an awesome ride. I have loved space games since I was a kid so for me this is like a continuation of those old adventure games from back in the day. IE Space Quest or The Dig. It reminds me of those a lot but you're actually carrying out the actions in first person...in VR instead of just typing some command lines. So that has a huge nostalgic pull to me. 
+
+Overall this game is a masterpiece to me despite its flaws. Yes it can be tedious, yes it has some issues with texture pop in, yes its performance is not great, but overall it's an incredible experience imo. Really love the voice acting, and there's some great dialogue, especially on the main quest. (Yes there's some that tends to drone on). Really love the Apollo parts and the ending sequence is an epic ride.  Quite the bang to end the rift games on.",Oct 21 at 10:39 PM,5, 4,
+2022-05-28 14:47:51.501806,Saise,A beautiful game... But unplayable,"I loved the first chapter, and I'm loving this one more! The world is bigger, the characters are deeper and more detailed, the story is truly beautiful... But it's plagued with constant bugs, crashes (Game crashes when I'm lucky and whole BSODs when I'm not), constant texture loading issues and sudden FPS drops that needs a restart to fix. This has made the game unplayable for me, especially since I can't load my saves because all the times I do the game crashes or deletes them. Please fix it, because otherwise it would have been a truly amazing experience!",Oct 17 at 4:57 PM,2, 5,
+2022-05-28 14:47:51.518761,tbones123,Such a shame..,"The game is beautiful, awsome writing, really immersive, almost an experience like a memory instead of a game BUT the game crashes all the time, it might happen in 5 minutes, or an hour. The point is you cannot enjoy it, you have to stop every x minutes and restart. Such a shame for such a golden game. Developers don't seem to care or they 've been let go to work on other projects?",Nov 3 at 9:23 AM,3, 2,
+2022-05-28 14:47:54.602643,ElSpannio,Runs like crap,"I cannot believe after all the delays the game is a unoptimised piece of garbage.  Game stutters like crazy started the game 4 times and each time it ran differently one time it would be ok another it would run at like 30FPS, loads of screen tearing and i mean loads.  If you try and change any graphics settings it says your GPU cant handle it.  Cannot be bothered with this crap I have little enough time to play as it is without spending 20 mins just getting it to run.  Sorry Ready At Dawn but this is a no from me until you sort it out.",Oct 14 at 7:04 AM,2, 5,"Hey there, sorry to hear you're experiencing performance issues. If you'd like, our Devs would be happy to troubleshoot or discuss this more in the Lone Echo II Support Channel of the community Discord: https://discord.com/invite/vXbazs5"
+2022-05-28 14:47:54.620594,GoFlyUTR,Lone Echo II: Game of the Century,"I just finished Lone Echo II and I'm completely blown away!!
+
+If the first installment was VR Game of the Year, this is VR Game of the Century.  Simply put, you are the main character in an absolutely EPIC sci-fi film.  Honestly, I didn't think Lone Echo could be outdone - but this was longer and the environments were the most detailed and massive I've ever seen in any PC experience.  It would be an insult to the hundreds of artists who worked years on this project to call it a ""game.""  At no time did I feel like I was playing a game or even in a simulation.  The graphics, plot, cinematography, muscial score, sound effects, character development, set design, script, and voice acting were as good as any Hollywood film.  There were so many ""wow"" moments where you say, ""I can't believe that just happened.""  In particular, the interaction between Jack and Liv (and others) is incredibly realistic and natural.  Anyone who is a fan of science fiction films will fall in love with every second of Lone Echo II.
+
+The bottom line ... this title belongs in every VR collection.  When it was finished, I felt just like I do when I walk out of an awesome summer movie - except the adrenaline was amped up to eleven, because I experienced it all first-hand.  It was an emotional, immersive roller coaster ride along the rings of Saturn.  There is no doubt that Lone Echo II was worth the long wait.  A heartfelt thanks to everyone at Ready at Dawn.  They all deserve a lifetime achievement award.
+
+And goodness gracious ... watch the credits all the way through or - just like the Marvel series - you'll miss the Easter egg finish at the end!",Nov 2 at 8:16 AM,5, 2,
+2022-05-28 14:47:54.637549,thomasg86,A Worthy Follow Up!,"If you liked the original, this is a must play. A great narrative story that continues the Jack and Liv story. This sequel is a bit meatier than the original, clocking in at about 9 hours for me. If you are more of a completionist, you will get an additional hour or two.
+
+Graphics are gorgeous but could use a little work on the optimization. Don't be afraid to dial things back a bit, it still looks amazing. The mechanics are much the same as the first game but you are given new tools and new ways to interact with the environment. The locations are largely familiar but this time around you'll be completing many different tasks. There is also a bit of an open world element which is a nice switch up from the original.
+
+Overall, one of the better titles in PCVR, right up there with the original. Two big robotic thumbs up!",Nov 2 at 11:01 AM,5, 2,
+2022-05-28 14:47:54.655501,bigmakbm1,Very Buggy,"I can't help but feel the game was rushed. After no more than one hour of playtime, the game hard crashes going to a crash dump and restart of the computer.
+
+Silly me tried to work through it and now can't get a refund. My specs:
+
+I7-9700k
+16GB
+6800XT
+Windows 11",Oct 20 at 8:11 PM,1, 5,
+2022-05-28 14:47:54.672456,moopet,Unplayable,"Where in LE1 I got reasonable graphics, this quickly descends into a 1 or 2 FPS slideshow.
+If I hurry, I can get through some of the calibration, but after the ""learn to talk"" interaction I'm left in total darkness with no way of proceeding. I can hear my thrusters if I hold them next to my head, but the game's basically crashed at this point.",Oct 14 at 8:32 PM,1, 6,"Hello, we're sorry to you're stuck in this crash. There could be a couple of things causing it, and if you join the Lone Echo II Support Channel of the community Discord our Devs would be happy to troubleshoot with you: https://discord.com/invite/vXbazs5"
+2022-05-28 14:47:57.764794,Znybar,Amazing game but very poorly optimised,"I have only a few hours into this game. It provides a lot of the amazing experiences that the first game had (incredible graphics, great atmosphere, setting etc.). However, it's currently let down by very very poor optimisation. I never had any issue running the previous Lone Echo on an older rig, but now with a GTX 3070 and 32GB of RAM, textures take forever to load and the game starts to glitch or lag after a few minutes of gameplay until it is unplayable. Until this gets patched for optimisation, I cannot recommend this game as it becomes a very unpleasant experience. Shame because the actual game content is fantastic, and once loaded and working the graphics are par for the best in VR. This is apparently a fairly common issue.",Nov 1 at 4:32 PM,2, 2,
+2022-05-28 14:47:57.781748,Mirality,Progress locked,"Initially, went well (nothing too groundbreaking, but solid continuation in the same style).  But the game script appears to be completely broken at the part where you get transferred into a new shell and the game just goes to a solid black screen with no possibility to continue playing.  (It doesn't actually crash, but it refuses to load the next scene and just logs errors about missing objects.)",Oct 23 at 12:29 PM,1, 3,
+2022-05-28 14:47:57.799700,barzattacks,Absolutely fantastic game,"I highly recommend playing Lone Echo 1 first then continue right into Lone Echo 2. I'm about 50% through the game and enjoying every moment of it. Because the fact that I have to work it really limits my play time but any opportunity I can on the weekend I jump in. The visuals in this game are just absolutely amazing, not to mention the characters in the game are modeled exceptionally. Honestly I have more fun playing this game than I did half-life Alyx.",Oct 31 at 2:22 PM,5, 2,
+2022-05-28 14:47:57.816655,Tidyscoop,Needs a major update!,"As of now I can't get past the intro before it stalls in a neverending tansitional black screen. I restarted my pc several times to make sure it wasn't a fluke and now it won't start at all. No options thus far to drop the graphics settings to see if that wouldn't help, altho I shouldn't need to do that as my computer is a custom build with a good GPU.
+
+Updated Rating:
+After a complete uninstall/reinstall (which was pretty inconvenient since evidentally uninstalling programs in the oculus app just deletes them so I had to redownload the 20gig file) I was able to start the game normally and it has been running fine for about an hour. Everything I'm seeing in-game is spectacular and worth the initial headache. The game looks and feels great and I'm excited to finally get going!",Oct 31 at 3:28 PM,5, 1,
+2022-05-28 14:47:57.834607,grey_p,Worth the crashes,"I don't have a very powerful PC, in fact I didn't build it myself and have no clue what my specs are. Therefore, I expected my game to crash at least a few times, and man it did. It either crashed or lagged at least twice every session, and a few times I had to restart my entire computer to get it running. But even with all these problems, Lone Echo 2 was an amazing experience, a worthwhile sequel, and a wonderful ending that got a few tears (my first for a VR game's story!). Despite this game being such a GB hog and making my PC hum like a vaccum, I would absolutely recommend this game to anyone considering it. Great story, sometimes great graphics, and characters to fall in love with (looking at you Popcorn).",Nov 15 at 1:01 PM,4, 0,
+2022-05-28 14:48:00.926467,tinkersquirrel,This game is amazing!,"Same as its predecessor, the story, the game design and the feeling of being really there is outstanding. The level of detail to make this Sci-Fi world look like real is exceptional. It is a game for curious explorers which will have about 16 hours of fun if you don't rush. We definitely need more story driven games in the Echo universe. Maybe about the “Pytheas initiative”?",Oct 30 at 1:04 AM,5, 2,
+2022-05-28 14:48:00.943421,GavDoG.88,Save game lost forever,"I was loving the game, but then used the move feature in the Oculus desktop app to shift the game to a faster drive (I had major texture pop-in issues). This deleted my savegame. I now can't get it back. Support is unresponsive. The only solution seems to be playing the game again from the beginning. Not ideal.",Oct 28 at 11:54 PM,1, 3,
+2022-05-28 14:48:00.960375,r4ul96,Language support,"The game wont support any other language, for a narrative game this is very important.",Oct 16 at 5:31 PM,1, 27,
+2022-05-28 14:48:00.978327,FoonTheLoon,A gold standard for VR.,"Absolutly stuning and fun. Had issues with crashing (Which I fixed by setting the  in game Resolution and my Q2 resolution down to 1.0X), but it was still amazing. Just shame on facebook (Or I guess ""Meta"" Now (Horrible name)) for keeping this gem of a game on their store front only. People can still play the game with revive, but this is still horrible practice.",Oct 29 at 7:32 PM,5, 2,
+2022-05-28 14:48:00.995282,Hoshi82,Terrible Performance Issues,"First things first: This is a 4/5 star game... BUT
+
+The performance of this game is a total mess. The recommended specs are:
+
+Intel i7-6000 equivalent or greater
+NVIDIA GTX 1080 equivalent or greater
+16.00 GB
+
+my specs are:
+Ryzen 9 3900x
+RTX 2080ti
+32gb DDR4
+
+So it's more than enough to get this baby running and still this game stutters and give reprojection like hell. It doesn't matter if I play with my Quest 2 + Link, or with my Valve Index + Revive. Same results, same poor performance.
+
+The first odd thing that I noticed ingame was that video settings were all on LOW. So as you do you start ramping up these settings and the first thing I changed to HIGH, which was Texture Details, the ingame icon for the GPU got instantly a red cross to tell me, my GPU isn't good enough.
+Remember, recommended 1080, me using a 2080 ti and this was the FIRST option, everything else was still on low. Setting all to MEDIUM gives a yellow indicator on my GPU. CPU, RAM, ect. all fine, but no no no no your tiny GPU isn't good enough.
+
+Setting all to HIGH makes it playable but far from enjoyable. All on LOW makes the game look ugly. But even on setting on High makes the FPS drop, so there is some serious problem with the optimization.
+
+As soon as the game gets patched and fixed, this review will definitly change, but for now... just wait until this game is optimized. Even LE1 runs silk smooth but not LE2.",Oct 13 at 11:07 PM,2, 23,
+2022-05-28 14:48:04.104091,deronkel82,"Awesome so far, pls add german language",The game is awesome so far. A worthy successor to the first game. But please add more languages. My dad loved the first game and he isn´t a gamer by any means. But he has problems with english. So please add german soon..,Oct 13 at 9:00 PM,5, 7,
+2022-05-28 14:48:04.122043,Ravenger,An incredible experience,"I loved Lone Echo, and Lone Echo 2 builds on the foundations in that game, adding much more to do with more varied tools and puzzles. The same excellent zero-g movement mechanics return, and the sense of immersion is second to none. The graphics and audio are truly AAA in quality - a major step up from most other VR titles.
+
+The game has a 'metroidvania' element where you will encounter areas that you can't access immediately, and which you need to unlock abilities to access. This along with various 'collectables' that help you gain abilities really encourages exploration, and adds a lot to the game over the first one.
+
+However the best bit about the game (as in the first) is the excellent writing and performances coupled with the facial and mocap animation which leads you to form a real emotional bond with the characters. This may be a story set in space but it's ultimately a story about friendship, and is an incredible emotional ride.
+
+Highly recommended!",Oct 25 at 6:42 PM,5, 2,
+2022-05-28 14:48:04.139995,magnadude,Amazing VR game,"This is the game by which many future VR games will be measured.
+I can understand why it would take so long to release.  The sheer amount of detail and the combined labor hours involved must have been immense, because this is the kind of game that makes it impossible to fill in the gaps with procedurally generated content like what seems to have been done with games like No Man's Sky, (also a pretty good perpetual work in progress, although in many ways the comparison is like apples and oranges). Unfortunately, due to the complexity, Lone Echo 2 still has a few wrinkles to iron out, but it's nothing game breaking, and definitely not deal breaking.   Even with the little issues though, it's still likely to be a trend setter in VR gaming.  I can kind of see it also being one of those perpetual works in progress, which I don't really mind.  It does require fairly hefty hardware to run though.  I'm using a gaming laptop with a Ryzen 9, 40GB system memory, and the new Nvidia RTX3080 with 8GB GDDR graphics memory, and I can still only run it on medium settings without it being all jittery. Anyway, before I end up turning this revirew into a giant wall of text,  good job.  You have definitely made a name for yourselves.  I look forward to your next project, 
+  ...perhaps in another five to six years.  😉",Oct 20 at 9:38 PM,5, 2,
+2022-05-28 14:48:04.157947,lake100,Excellent again !,We want more good VR games as this one or HL Alyx !,Dec 29 at 2:49 AM,4, 1,
+2022-05-28 14:48:04.174902,pestylucas,Sorry can’t let this game sit at a four,"Yeah nope sorry other dude, this game is in no way a four. It’s better than most games I have played vr or not. This game feels like it’s wrestling with half life alyx for top spot!",Oct 13 at 2:23 PM,5, 11,
+2022-05-28 14:48:07.268759,Madssnaker,Must buy,"I loved the first game and i just love this game as much. Lone echo is just such a good ""franchise"". These both games are just my favourite VR games. 10 out of 10. Must buy for every VR user.",Nov 5 at 4:58 AM,5, 3,
+2022-05-28 14:48:07.286711,Jnk28,Awesome,"One of the best Vr games ever made, right up with half life Alyx. To bad it’s the last true aaa game from oculus for some time know with their focus being mobile hardware. Don’t get me wrong I own a quest as well but with airlink being a thing I am much rather playing my games with the power of the pc ;)",Oct 23 at 5:44 AM,5, 2,
+2022-05-28 14:48:07.304664,HeroRyker,Amazing but one HUGE issue,"I have loved this game so far, but when I got to ""A New Chassis"" chapter the stopped being playable. I can still hear audio, such as boosters, but the whole screen is black. I have looked all over the internet but nobody has this problem. I am on the low graphics setting. Please help me fix this",Oct 15 at 5:42 AM,3, 3,"Hey there, sorry to hear you're stuck on that chapter. If you'd like our Devs can help you with this in the Lone Echo II Support Channel of the community Discord here: https://discord.com/invite/vXbazs5"
+2022-05-28 14:48:07.323612,ccdeltabeta,My Alpha and My Omega,"Played on a i7-8700, 16GB RAM, GTX1070Ti with a Rift S. Observations are as follows:
+- The game can be played on my rig on up to Medium Graphical Settings with no noticeable frame skips.  The graphics are more than serviceable, given my aging graphics card.  
+- Game controls are adequate, and mostly do a solid job. The main complaint is the pitch control which moves at only one speed: fast. The roll capability is an absolute blast to use, and literally puts a new perspective on any level I am on.
+- The game was stable from start to finish with no with no crashes, but did experience a few 'loading screen' pauses during gameplay.
+- My first experience with PCVR was Lone Echo on a Rift, and what an experience it was. It literally introduced me into a new universe, and hooked myself to VR ever since.
+- Nearly 4 years later, I am re-introduced to this universe, with feelings of joy and bittersweet sadness.  Joy because no one fleshes out a space opera like this developer; bittersweet because no other developer has done a space opera like this since Lone Echo I.
+The game is quite enjoyable, is highly immersive, and begs further exploration to discover everything that has been created.  One down side is that the general gameplay mechanics did not evolve much beyond the original game, aside from a a few, new, neat tools.  It was unfortunate the majority of the game was doing 'fetch quests' in a absolutely gorgeous environment, but the immersion and scope alleviated this annoyance.
+- When I mentioned 'space opera', scenes where I am playing Jack while literally between Liv and the Doctor, and seeing the emotions and expressions on their faces made me feel connected to this game in a manner few games have done. I started to feel like I have a personal stake in the game, and that a successful outcome is important to myself.
+In terms of scope and majestic presentation, Lone Echo II delivers in spades. A magnificant finish to a wonderful series. Thank you, Ready at Dawn.",Nov 7 at 9:18 AM,4, 1,
+2022-05-28 14:48:07.341565,Conr0n,2nd Best VR Game Ever,"I love this game, I really do. I love this studio. The first game is still the BEST vr game I've ever played. This game is an amazing continuation of the original and really expands on the lore of the lone echo universe (or I guess echo universe as a whole). It's neat seeing the echo combat units be involved as well as our favorite ship AI ;). Where I feel this game falls short though is it's gameplay pacing as well as the conflict. I constantly found myself waiting around for characters and dialogue to catch up. And it's not even that I was going fast it just felt like how much I could explore was defined and slowed by the characters. Also, the conflict in the story felt.. nonexistent; artificial. While it does expand on the time travel aspect a bit more I would have loved to have part of the game show the reality of life after the infection, rather than just hinting at it from time to time. I would have also loved more time with the combat units. That likely would have been an interesting side plot and I wish we could have seen more of that. I was never worried about any of the characters since bad things only ever happened when they WEREN't around. The ending (which I refuse to spoil) was a rather interesting twist that left a bad taste in my mouth; that waaas until after the credits which while it did cheer me up.. definitely had a few plot holes. Otherwise this game is amazing I hope to god that we can get some true closure on this series from RAD since the way this game ended is going to leave many unsatisfied",Nov 7 at 9:41 AM,4, 1,
+2022-05-28 14:48:10.452848,Al_Poe,Wireless - even better than Part 1,"Part 1 was very impressing - one of the best VR games aside HL Alyx. Part 1 I played with Rift and cable, which already was a great experience, but Part 2 is stunning - I play with Quest 2 wireless and the graphics are gorgeous, no lags (RTX 2070 Super). There are are very few VR games that have such great collision detection and immersion.
+.",Oct 22 at 5:50 PM,5, 2,
+2022-05-28 14:48:10.471305,Punitive,The Best Money can Buy,"I have been waiting for this game to release for years since Lone Echo 1 first came out. After every delay I was dishartened and feared for the worst but that waiting has payed off in one of the best games I have played period beating any pc or console games. 
+
+It has been a long time since I have gotten chills down my spine and squealed like a little kid which I did multiple times playing. You can tell how much heart was put into every aspect of the games and it pays off. The Art, Environment, Character models, writing, and everything is top notch and looks and feels amazing. This game was one of the first vr games that had new innovative movement and interaction mechanics with this sequel it only expands and builds on them. While Many old players will be familiar and comfortable with the game new enconters and puzzels will provide some new intensity and fun! (If you are looking for more narritive story it definatlly takes more of a forfront in this game)
+
+This game is not without flaws which I can summarize is why it was delayed to the extent it was. THIS GAME IS GRAPHICS INTENSIVE my computer is pretty good and I play on my quest 2 with a link cable. Rendering times are a issue as well as sudden pop up loading screens (generally short). Also distant locations and objects are a little deformed. But other then that the game is absolutlly stunning espesially faces. (I have also heard about some trouble for language support)
+
+This is a definate recommend for anyone that wants the best AAA vr experiance that can be purchased today.",Oct 13 at 4:47 PM,5, 3,
+2022-05-28 14:48:10.489257,Mach13-13,Played on Quest 2 Air Link:  A-M-A-Zing!,"Loved Lone Echo 1.  This new version is just inspired...Its similar and yet feels very very new.  quality is exceptional, game play visuals are stunning as is the sound. Storyline picks up from LE1 yet it twists toward a new experience in an amazing way.
+This has to be an award winning game.",Oct 22 at 8:51 PM,5, 2,
+2022-05-28 14:48:10.507209,Tabbarn,10/10,"Not only is it the best VR game I've played but one of the best games I've played, period.",Dec 2 at 3:55 AM,5, 2,
+2022-05-28 14:48:10.524163,Zachzul,Maybe the best VR experience of all time,"For me, Lone Echo 2 is one of the best VR experiences and also one of the best gaming experiences of all time - and I am playing video games since around 1980. This is a ""must buy"" for every VR gamer.
+Yes, there are some technical issues, but nothing that's really game breaking.
+
+To all players with performance and technical issues: Try to disable ""Adaptive Resolution"" in the settings. At least for me, this did the trick (3060Ti). It doesn't solve the problem with textures loading too late or not at all, but aside from that, everything ran smoothly for me after having deactivated this setting. Before, it was borderline unplayable.
+
+It's really sad, if not tragic, that this is supposed to be the last RAD game for PCVR. Such an experience, unfortunately, isn't possible on the standalone Quest 2, and I doubt that it will even be possible on the next generation of standalone headsets...",Oct 21 at 5:00 PM,5, 2,
+2022-05-28 14:48:13.603032,Tummie555,A W E S O M E,"Yes it needs a little patch for performance, but the scale and detail, the freedom to explore everything as long as you want, the thrilling story and believable characters, I actually feel like I have been to space because of LE and LE2. It's a masterpiece in (VR) gaming history.",Oct 18 at 8:01 PM,5, 3,
+2022-05-28 14:48:13.620984,Final_,Amazing,This and Lone Echo 1 are probably the 2 most beautiful games I have ever played by far,Nov 23 at 12:41 AM,5, 3,
+2022-05-28 14:48:13.637938,Can0123,Must buy for any new vr user,"I'm a very vr defendent person and when I played the first Lone Echo I was hooked, then this while later I see a youtube video labled ""Lone Echo 2 (Part 1)"" and I instantly got on and played. Once i was done with the first hour I could not stop. The game is about a 10 hour story not including the side missions, Personally I would like a lot more story as a lone echo 1 player but overall even if you didn't play/see the first game you can still play this no brainer.",Oct 20 at 7:07 AM,5, 2,
+2022-05-28 14:48:13.655891,steveclarke2003,Have a 3 for crappy tutorial start,"Its been so long since Lone Echo 1 we apparently have to go through the whole tutorial of how to play Lone Echo again. God i hate long boring tutorials. We are obviously morons.  Glad it has no Spanish though! I think comandos was the last Spanish game worth anything and that was like yonks ago, Quit siesta and start tapping out a game if you are so concerned",Oct 16 at 11:57 PM,3, 3,
+2022-05-28 14:48:13.675837,CasualCheetah,It's certainly more Lone Echo...,"It's certainly more Lone Echo, but the sequel doesn't change much of what we've already seen.
+
+There's a truly excessive amount of dialogue throughout Lone Echo 2. Most of it is delivered via planning, directions, or affirmation instead of expressing emotions for a real story. Furthermore, it gets hard to stay engaged when every progressing event is preceded by a complication that's both horribly tragic and easy for the player to circumvent. 
+
+The value of gameplay pales in comparison to the emphasis Lone Echo 2 places on its presentation. It was exciting to receive new tools, but even the sparse applications of these mechanics can begin to feel repetitive. The appealing idea of “space maintenance” doesn’t extend beyond following directions or looking around for objects. I would go as far as to say that there are no multi-step ‘puzzles’ in Lone Echo 2.
+
+Despite all those complaints, the primary draw of Lone Echo 2 has to be its scenery and, pun intended, atmosphere. Being adrift in various complex sci-fi settings is a uniquely VR feeling. At a higher resolution on more powerful hardware, I imagine this sensation would be even grander. (The game also runs reasonably well on the original Rift with older hardware.)
+
+Ultimately, the game is mostly an interactive ‘experience’ whose simplicity might be a perk for some audiences. If you're looking for more of Lone Echo's space-narrative and don't mind some mundanity, this sequel will fit the bill.",Oct 15 at 7:02 AM,4, 3,
+2022-05-28 14:48:16.768682,DrFuLLAuTOSMG_on_TT,Worth the 4 year wait!!,"Although I have only had the oculus rift s for about 5 months now I had found some of the most addicting games that got me hooked on VR. I looked at Youtube videos explaining the best free games on the oculus store to get and Echo VR happened to be one of them. I play the game repetitively so much to the point where I am more than interested about the origins of the game that I eventually get into contact with people who had played on the ""original predecessor"" version of Echo VR. I was later informed that the game had first started off as a solo campaign about space exploration and the origins behind how Echo VR came to be and that the title in mind was Lone Echo. I had bought the game not knowing that it had LOTS of easter eggs hinting towards Echo VR before the game had it's multiplayer release indicating two teams colored in both blue and orange opposing each other as a well known 0-G sport. I then complete the Lone Echo campaign left on a huge cliffhanger, hoping that there might have been a second game already out I was sadly mistaken. Looking at videos all over the internet explaining the delays that Ready at Dawn had been experiencing i was more than happy to paitently wait for a game that had held me at a shocked state at how impressive the first game's experience actally was and soon enough the Lone Echo II release came out and I was surprised to see so many returning elements come back from Lone Echo and more or less had some outstanding reworks!",Oct 19 at 8:56 AM,5, 2,
+2022-05-28 14:48:16.786635,ROCKET-,The best VR sequel to date!,"This game is absolutley mind blowing, there are no other words to describe it. The game picks up directly after the events of the first game and is packed full of refrences and connections, especially during the ending and the amazing post-credit scene. The game plays exactly like the first game, but feels different, it is a feeling unlike any other. The story was incredible and the scene where you get to play in a Combat chassis was done very well and was probably the most exciting part of the whole game. This is a must buy for fans of the first Lone Echo, the sequel was well worth the 3 year wait.",Oct 20 at 3:13 PM,5, 2,
+2022-05-28 14:48:16.804586,jonas.evensen.9041,the game crashes,when i was in the pod to be able to respawn mission it crashed suddenly i deleted the jack_backed_up_radsave then the game launches and when i press play it goes into the main menu but when i press continue it doesnt load it goes into infinite loading witch is dissapointing i cant seem to find a fix,Nov 3 at 2:48 AM,3, 1,
+2022-05-28 14:48:16.823535,akittsy,Brilliant game so far,I’m playing on a gtx 1060 on medium settings and all is good so far no crashes and enjoying it well worth the money now a couple of hours in this game is brilliant buy it you will not be disappointed 5 star,Oct 16 at 4:29 PM,5, 6,
+2022-05-28 14:48:16.842485,Maej78,A worthy successor to Lone Echo 1,"The first Lone Echo blew me away as one of the first VR games I played. Years and many games later the expectations were high and Lone Echo 2 delivered. I was hooked right from the start and couldn't stop playing till the end. The story was captivating and the gameplay fun. It feels bigger and more open than LE1, there is also more variety, and a good narrative that unfolds as you play. The graphics even on the default low are breathtaking and the controls are sublime.
+
+There are some issues though, nothing game-breaking for me, just a little irritating, but hopefully they will be fixed.
+Sometimes objects would fail to load their HD textures making them appear as fuzzy amorphous blobs. This happened often with the base generator section for me, sometimes with the ship and asteroids too. I found it was usually fine at first but got worse the longer I played, so occasional restarts would help, though I never really found it getting in the way, just a minor irritation.
+I also suffered from occasional crashes where the headset would lock up for a second then go blank and the computer would restart itself a few seconds later, though this might be my hardware as it turns out my Rift cable is damaged and spares are no longer available. This would happen perhaps once every 3 hours on average, so just a little frustrating really, not a game breaker.
+The ending... well all I'll say is it's worth watching the credits to the end.
+
+Overall I thoroughly enjoyed playing this game, to me this stands out as a beacon of how to do a VR game properly. A worthy successor to LE1 and absolutely worth the money.",Nov 3 at 8:24 AM,4, 1,
+2022-05-28 14:48:19.940812,Dio,Stuck...,"I get the tram started and go to the destination once there the doors do not open. Tried like 10x now and the same thing.
+Aside from that, nothing bad to say at all. It's a really great game on all levels !
+
+EDIT: I re-started my game and it worked, the hatch open on the tram and I was able to continue. Maybe this will help someone with the same prblem I had.
+So stuck problem fixed.",Nov 7 at 8:57 PM,4, 1,
+2022-05-28 14:48:19.959762,Rahat101,One Of The Best Vr Games Out There!,"I normally do not review any games but Lone echo 2 was an amazing experience that I have to review. Everything about the atmosphere,visuals,sounds,story and characters is perfect.The ending of the game left me emotional which is a rare feeling that I do not usually get playing games.By the end of the game I felt like I truly  cared about olivia because of how much we've both gone through in both games. 10/10 It's a MUST BUY",Oct 19 at 1:16 AM,5, 2,
+2022-05-28 14:48:19.976716,soistheman,PCVR needs more like this qualty games,"Great story, animation, voice acting, and graphic, but optimization isn't so great.",Feb 10 at 3:21 AM,4, 1,
+2022-05-28 14:48:19.995665,vadzvnik,could be a great experience..,.. if all the blurry textures were loaded. 40% of the game looks creepy because of that. maybe some day...,Dec 11 at 2:18 PM,2, 1,
+2022-05-28 14:48:20.013617,Hhawk2000,saves lost / graphic glitches,"I moved the game to a faster ssd.. and lost all savings.. have to start over again ...
+A fast ssd avoid loading times but , ive a 3080 , and even all set to high, ive graphic glitches , los res images and stutters between levels.
+After waiting so long... isnt polished...",Oct 15 at 11:31 PM,4, 3,
+2022-05-28 14:48:23.110434,Sakkura,"Competent, but does not add much","It's overall a nice extension of Lone Echo I, but the fundamental formula does not change much. The game is still quite pretty but also very demanding. Textures seem to be a bit buggy at times, seeing a blurry mess next to a sharp texture is not unusual. The story was IMO slightly less emotionally impactful than the first game, but it was very nice to see Jack and Liv's journey completed. 4½ stars if there was such a thing as half stars.",Nov 2 at 7:30 AM,4, 0,
+2022-05-28 14:48:23.128386,Syntax3rror,Realy bad performance with good pc,Realy bad performance with good pc. The Performance with lone echo 2 was much better,Nov 10 at 1:20 AM,1, 5,
+2022-05-28 14:48:23.146338,ZimaPriblizhaetsia,Very Nice,"Very nice! Immersive and fun, this must have been extensively tested before release because I did not encounter any bugs. Given the game's level of excellence, my routinely received six scam calls a day were especially annoying, as they broke immersion. These scam callers owe me and the game developers money for those occurrences! Otherwise, Ready at Dawn Studios, congratulations and thank you for this fantastic game!",Oct 17 at 5:03 AM,5, 1,
+2022-05-28 14:48:23.165287,Kynia,Crashes making the game hard to love,"Love the first game.  Was loving this game even more...until the crashes started.  After repeating one section four times because of crashes, figured it was time to write a review.
+
+Devs, you made a phenomenal game.  Fix the stability issues and this 3-star review will easily become a 5-star review.
+
+Playing on Quest 2 with Oculus Link cable.",Nov 1 at 9:06 AM,3, 1,
+2022-05-28 14:48:23.183239,Alex_111009,I keep getting stuck on a black screen,"After i get through the booting up scene I keep getting stuck in a black screen. I've tried do it 3 times again. please, just please fix this so I can play, I played the first one and it was so good and I want to play the sequal but I can't because of a bug. (I think it's a bug)",Oct 25 at 3:56 AM,2, 2,
+2022-05-28 14:48:26.279532,david.yarker,"1,000,000 / 5 stars","Probably the best story of any game that i have ever played. LE2 is genuinely the most immersive, interesitng and fun game i have ever played. It feels like everything that felt wrong with lone echo is completely fixed in this sequel. For example it fixes the somewhat isolatyed atmosphere in lone echo as well as your tasks being crucial to the story of the game in comparison to lone echo that dumps all the objectives on you and you essential act as what youre there to do, fix things.  The massively increased narrative scenes also make the game much more enjoyable considering i would say there is probebly 10X more ""story line"" scenes. The way the whole game flows together in amazing and the sequel has an intersting ending to. Also, make sure to wait for the credits to end unlike me!! and apart from the few crashes i wouldnt change a thing, its a shame i cant rate more than 5 stars :)",Oct 16 at 7:57 AM,5, 2,
+2022-05-28 14:48:26.298480,roboman54,Great Game,"Over all a great game, from the gameplay to the story line, that ending blew me away. 12/10 In my opinion. Rather good ending I think with a nice little twist that makes it even better. Well done Oculus Studios!",Nov 2 at 4:09 PM,5, 2,
+2022-05-28 14:48:26.316432,alucard8679,The Best Game Of VR no doubt,"i wont say anything else, just play and enjoy it, better than alyx alot",Nov 20 at 11:58 PM,5, 3,
+2022-05-28 14:48:26.335382,Jacob12thman,Won’t load for me. Need help,I was able to play a little bit at first. But now it gets stuck on the loading screen and eventually crashes. It ran the first game beautifully. But for some reason it won’t run the second one. My graphics card is a Nvidia GeForce RTX 3050. Much more than enough for the bare minimum graphics. And I have a terabyte hard drive. And I update my drivers. Yet on the bare minimum settings it gives that red X on my drivers and a warning on my memory. I know it’s a laptop and not a pic tower. But with the specs it should be able to run it. What should I do? I will update this post once I can get the game to run properly,Jan 6 at 11:38 PM,2, 0,"Hey there, sorry to hear you're having loading/crashing issues. If you join the Lone Echo II Support Channel of the community Discord, we'd be happy to help you troubleshoot."
+2022-05-28 14:48:26.352337,VM-Mark,Gave up (for now),"Can’t play! It has major graphic glitches and keeps crashing back to the menu screen!
+Gave up trying! Needs patching.
+My PC - Ryzen9 5900, 32g ram,  RTX3070",Oct 16 at 5:28 PM,2, 7,
+2022-05-28 14:48:29.433703,Bellthen,Bug,When I first started playing the game i did the stuff the then I was booting up it on the part where the robot boots up and it went into a black screen on my computer and on my quest 2 please fix this. I would of give this a 5 star if the bug wasn't the but right now it a 2.   Update I just unistall in reinstall the game and it works great,Oct 13 at 4:10 AM,5, 2,"**Update: Glad to hear your issue was fixed!** Hey there, there could be a couple of things going wrong here to make you see a black screen. If you join the Lone Echo II Support Channel of the community Discord our Devs can help you troubleshoot this: https://discord.com/invite/vXbazs5"
+2022-05-28 14:48:29.451655,NtsFranz,Best single-player VR game of all time.,"Haven't finished yet, but so far it is beyond everything else. Pretty similar to LE1, but slight upgrades all around. The movement system is what makes this game.",Oct 13 at 9:14 AM,5, 7,
+2022-05-28 14:48:29.470604,forddieseltrucks,LIV STOLE MY HEART,"I know this is just a game and liv is fake, but the storytelling is soo good, I played the original lone echo 2 years ago and I develped feelings for liv, in part 2 I will admit, a tear or 2 dropped at the end from all the emotions this game will put you through.",Oct 20 at 12:24 PM,5, 2,
+2022-05-28 14:48:29.489553,Sidekick,Need more traduction,Miss a french and others traductions.,Oct 14 at 1:15 PM,3, 23,"Hello, as we tackled obstacles in development, we had to make some tough choices. One of those choices was to not localize Lone Echo II and unfortunately we don't have plans on the roadmap to localize the game. Thanks for sharing your feedback with us on this."
+2022-05-28 14:48:29.507505,Seleuco,Not even spanish subtitles...,"No locatization -> No AAA  :(
+
+Sorry, Ready at dawn. Really good work. The game is fantastic, but not even subtitle localization is a facebook bad joke...",Oct 20 at 1:49 AM,1, 11,
+2022-05-28 14:48:32.608328,CapriciousArt,Couldn't get the game to even start up,"When launching the game, I'm immediately greeted by an unknown error which crashes the game. I spent $40 on this game only for it to not even launch.",Oct 17 at 4:00 AM,1, 6,"Hello, sorry to hear you keep crashing on start up. The most common causes of crashes like that are due to overclocking or an antivirus blocking the game. If you'd like, our Devs would be happy to help you troubleshoot this in the Lone Echo II support channel of the community Discord: https://discord.com/invite/vXbazs5 ."
+2022-05-28 14:48:32.627278,Quarz_,Dissapointing,I really enjoyed Lone Echo 1 so I was very excited for this game. But I guess I got my hopes up too soon. This game is unplayable. I can't even play for 15 minutes without it crashing. Very dissapointed.,Nov 14 at 5:57 AM,2, 1,
+2022-05-28 14:48:32.645229,pepeseagames,Does not run,"So this gam literally does not run, and when it does it runs like garbage, for context I’m the guy who plays half life Alex with ultra specs on everything, and the pc was no even warm, so no not my fault. I’m just getting a refund. Don’t buy in current state!",Nov 10 at 12:07 PM,1, 3,
+2022-05-28 14:48:32.664179,DashAndDots,Optimization issues,"My computer was well over the recommended specs for lone echo. or atleast is the recommended specs. And it ran...alright. And its the same here too. if youre going to play this game chances are you'll be met with low frames for around 80% of your gameplay. its not terrible but it can get unplayable sometimes. if that happens see if your airlink connection is stable. because it strains it a lot. playing this on airlink can give you a bunch of bad things. like <30 frames or just extreme latency issues. even if you set the graphics to like. 0 the game looks good. but even then low frames will be met. the game does look nice. but it can have its issues. i think it needs a back end update with some extreme optimization. other then that, story is good. and spoiler alert!
+
+they give you extra power ups! how cool is that!",Jan 31 at 11:50 PM,4, 0,
+2022-05-28 14:48:32.683128,K-Rad2008,This Game is missing files,I was excited to play Lone Echo 2 for the frst time but the game didn't load the game after the voice over scene at the beginning. I would like this to be fixed as soon as possible and please notify me or the community afterwards.,Oct 15 at 5:34 AM,1, 3,"Hey there, our Devs can help you with this in the Lone Echo II Support Channel of the community Discord here: https://discord.com/invite/vXbazs5"
+2022-05-28 14:48:35.783451,ricogs400,Same awesome feeling so far,"Excellent graphics, great movement system, smooth polished gameplay.  Loving it so far.  Update:  a few hours in and it's the most polished, immersive VR game yet.  The outside open space area is amazing and feels like you're there.",Oct 18 at 2:45 AM,5, 3,
+2022-05-28 14:48:35.802401,stlredbird97,Best VR game since HLA,Just finished. What a fantastic experience and game. A few technical issues but i have a feeling that was facebooks fault trying to force RAD make this work on Quest. Easily this sits in the too 5 VR games of all time (so far). Too bad facebook is shuttering its pcvr development. A real shame. Im just glad this was able to get released. Awesome work devs.,Oct 23 at 4:28 AM,5, 1,
+2022-05-28 14:48:35.821855,FoggyFreek,Better sequel to one of the best,"I loved Lone Echo, Lone Echo II opens like a game that looks to be even better. I'll update once I have finished, but until now, all I can say is: Jump in!",Oct 13 at 1:33 AM,5, 5,
+2022-05-28 14:48:35.839806,grippy123,Superb - make a 3rd!,"Much like the first one, it is a story well told and very emotional. I really feel the characters emotions in their faces and speech. I hope there is a 3rd one and it comes out quicker than this one!",Oct 28 at 4:08 AM,5, 2,
+2022-05-28 14:48:35.858755,MihaiBV17,Outstanding game,"3 hours in and i love this game. Very good story, level design, characters, game mechanics. 
+This is a must have for every VR owner. I play it on Quest 2, wireless using Virtual Desktop with a RTX 3060 TI.",Oct 15 at 12:59 PM,5, 4,
+2022-05-28 14:48:38.958064,Marc576,Where are the French subtitles ?!,"No French subtitle, inadmissible!",Oct 16 at 12:27 AM,1, 22,
+2022-05-28 14:48:38.977013,jacco.debruin.12,Wont load,When ever I try to load up the game it keeps on giving me an error message that says  Unknown error My pc is grater than the specs but it still crashes. if some knows message me,Oct 16 at 5:33 AM,1, 4,"Hello, sorry to hear you keep crashing and getting that error. Overclocking or antivirus blocking the game are the most common reasons for the game to crash right away like that. If you'd like our Devs would be happy to help you troubleshoot this issue in the Lone Echo II support channel of the community Discord here: https://discord.com/invite/vXbazs5 ."
+2022-05-28 14:48:38.995963,Szieve,A nice story?,"Well we pick up right after the end of Ep. 1.... I have anticipated this game since it was announced, and I have to say.. given all the delays I expected more.  I really didn't have any of the technical issues others speak of (and I played on a Q2),  I just thought that the game was very abridged.. there were many locations available where gameplay could have happened but it just didn't..  to me, it felt shorter than the first one even though we were told it would be a much larger game..   I spent a lot (a whole lot) of time listening to conversations that were really not necessary, and a lot of time sitting in blackness for upgrades or watching a countdown clock.. Yes, it is a fun game to play,  but I was left with the feeling that the game was put off until the last possible moment and then hastily thrown together.  Yes, we heard all about the delays due to covid... which I call a load of poop because covid didn't start shutting things down until after or very nearly at the original completion date.  It probably has more to do with the FB aquisition and the EOL on the Rift.   So, value for your entertinment dollar?  It's not bad,  just disappoining..  The only way I can see this surviving is for it to be ported to Steam..",Oct 21 at 12:26 AM,4, 1,
+2022-05-28 14:48:39.014912,DiggerDoug,Crash City (New Review),"I just repurchased LE2 today after refunding because of crashes. After reading that disabling XMP might help, I wanted to try it again . Well, I just played nearly 3 hours without crashing. BUT… It still crashed on my i9-9900k, GTX-1080Ti, 32GB RAM rig but NOT on my i7-8700k, GTX-1080Ti, 32GB RAM rig. The only apparent difference was the CPU. Also, the game settings defaulted to medium on the i7 but low on the i9. Doesn’t make any sense. Anyway, the game so far is right up there with LE1 which I have played through 5 times… so far. I would give it 5 stars except for the apparent problem it has with compatibility. Using Rift S.",Oct 20 at 9:39 PM,4, 1,
+2022-05-28 14:48:39.034366,Dreddmartyr13,"Perfect for Rift S, but for Quest 2?","I play on Quest 2 using link cable (RTX 3070 16 gb RAM). Half the time, it's amazing! graphics, sound, framerate is smooth as silk. But the other half of the time, it blinks and all of a sudden the frames drop then everything is out of whack! I mean the graphics lower, it's jaggy, screen pops and kills my eyes. Blurry, takes ages for textures to render and its ugly. 
+I have to quit the game and restart to see if that works. Doesn't always work so I have to restart again. Then when it works. Everything's beautiful then all of a sudden I get to a certain point and a 2 second freeze then graphics gone, fps is shot to helheim! 
+Please optimize for the huge Quest 2 community! There's no real fix for this and it's very common problem. 
+Much love and hopes for updates in the future.",Oct 19 at 8:37 PM,4, 0,
+2022-05-28 14:48:42.133200,strauberry,Masterpiece,Thank you RAD & Team for this,Nov 27 at 4:14 PM,5, 2,Thanks for the love and support :)
+2022-05-28 14:48:42.151152,slates28,Lone Echo 2,Unplayable due to the game saying my 2080ti is not good enough for the game in the main menu,Oct 24 at 9:47 PM,1, 6,
+2022-05-28 14:48:42.170101,Pheonics,Predictable sequel for best storyrich VR,"Continuation of one of the best games of VR industry. Absolutely fantastic ending, very interesting and deep storytelling and impressive enviornment.
+
+It's extremely sad that this would be conclusion of PC VR exclusive products and ending of Rift era. Thank you Ready at Dawn for making this possible!",Oct 17 at 2:53 AM,5, 0,
+2022-05-28 14:48:42.188053,T3rr0rZw3r6,Story and gameplay fantastic,but unfortunately the performance is really crap. The textures very often load far too late. Yes and unfortunately no other languages,Oct 16 at 12:45 AM,4, 5,
+2022-05-28 14:48:42.208000,SDC-Wutang,Tale of a Fantastic Series,"Coming from Lone Echo 1, this sequel nails the series and shows how much the developers really understands the Lone Echo brand.  The exceptional voice acting and story telling is the driver and I was giddy from the get go to reunite with the cast.  The character development really gets you to care about the different personalities.  Without spoiling anything, I shed a tear at the end and was choked up several times during the experience.
+
+Motion mechanics is what you'd expect from Lone Echo - pretty fluid and intuitive.  The shooting mechanics are so-so, but I guess appropriate for the context.  Jack is not suppose to be a killer robot!  The puzzles were fun and didn't feel forced.  The dialogue can take a bit at times to finish before you can complete the next action.  There's a wierd system for switching tools that's slow and clunky and it's not easy to just whip out a tool.  I guess you're suppose to prepare.   
+
+All that said, this title was well worth it's value!  
+
+My PC specs are below.  I'm able to run graphics on the highest setting.  However the framerate is not ideal.  Running on medium setting seems to be good for my hardware.
+
+Gigabyte Z170x Gaming 7 
+Nvidia RTX 2070 Super 8GB OC
+32 GB DDR4 OC
+M2 C Drive
+Oculus Quest 2 over Airlink.  
+MSI Afterburner",Oct 16 at 4:11 AM,5, 1,
+2022-05-28 14:48:45.307830,PaperPancakeBoy,Big Beautiful Game That Is Worth It!,"The game worked wonderfully for me, only a few crashes or performance issues, the ingame loading zones where unfortunate though and did take like a minute to load but thats probably because my settup isnt that good, the loading when loading into the savefile did take a long time however!
+
+
+GAMEPLAY
+The gameplay was good, the puzzles where challenging and the tools where good 
+
+WARNING SPOILERS
+The ticks where fun and i really paniced in the event that there are 5 ticks around me and im trying to rush to a powersource hehe... anyways the 'curing gun' was really fun because it made the ticks just a fun inconvenience.
+
+
+OK BACK TO REVIEW WITHOUT SPOILERS (FOR NOW)!
+The environments where beautiful and suited the game well, the only problem is that almost everything is a shade of grey so finding vents or switches was challenging!
+
+
+TAlKING ABOUT THE STORY (NO SPOILERS)
+ok so the story is very much like the first one, just miles and miles better and more emotional. Also the ending made me generaly almost cry lol
+
+
+anyways thanks for reading",Oct 16 at 5:38 PM,5, 1,
+2022-05-28 14:48:45.326779,Gornbasher,It uninstalled my saves,"I have been playing this games since it came out via airlink, it was working ok but now after the update my game has uninstalled itself and now I cant install it ? 
+This so bad for a main title I hope it is fixed soon",Oct 18 at 5:34 PM,1, 2,"Hey there, sorry to hear you're having issues installing the game. The best people to help with this would be Oculus Support, who can be reached here: https://support.oculus.com/ ."
+2022-05-28 14:48:45.345728,ukmerlin,"What a gorgeous game, but the mappings!","I love this game, one of my favourites along with aero car and no man's sky. This game keeps you on your toes without feeling too ""grindy"" probably better than LE1. My only complaint is that the controller mappings are aweful AND we can't even remap for ourselves, hence dropping one star.",Jan 24 at 11:48 PM,4, 0,
+2022-05-28 14:48:45.364677,donthavetobecrazy,Exceptional,Worth the wait of all these years. It's a shame we'll have to wait quite a while till something of this quality and calibre is released again. But fantastic game.,Oct 27 at 7:18 AM,5, 2,
+2022-05-28 14:48:45.382629,Martle,Great sequel!,"The story of this epic adventure continues, still mysterious as ever! Thoroughly enjoying my playthrough (about 2-3 hours in). I can just roam and stare at these environments for hours. Slow paced narrative driven gaming, if that's your cup of tea: Dont freaking doubt, BUY IT!
+
+PS: Play the first part before you play this!!!",Oct 14 at 4:42 AM,5, 1,
+2022-05-28 14:48:48.469978,RoreoOreo,Worth waiting and a great last rift game,"This game is probably one of the only games in existance to be better than the orignal. It has great gameplay, introduces combat and continues the story in a great way. It has an incredibly emotional story and really makes you think about what just happened. It has more tools and they are much easier to use. You can switch through different Echo models as the game progresses and is 100% worth the price. If you want to get this game make sure to play it COMPLETLY BLIND for the best expirence. But it is not all good, it does have a few bugs, characters can go through walls, and sentences can get interupted if you go too fast. And from what a few of my friends have told me, your gonna need a very good computer and it is best played with link for a good connection. But the gut wrenching ending makes it worth it.",Oct 14 at 7:28 AM,5, 1,
+2022-05-28 14:48:48.489925,ex0rc1stfan,Bug??,"Not going to lie, I was loving this game and would easily have given it a 5. But I have come across a game breaking bug.  I have played it for several hours then for no reason, I lost the ability to grab using the left controller.  Everything else works with the left controller, pointing, using the cutter, thrusters etc. But when I try to grab the environment it doesn't work.  Which is strange because the button works and the hand goes into a fist when pressing the button and not trying to grab. I am currently in a location where you need to grab a crane with one hand and move it with another. So I am stuck. I have powered down the quest 2 and also removed / replaced the battery on the controller.  Tried it with Air Link and also with Virtual Desktop, same issue.  
+Anybody had similar issues or recommendations to try?",Oct 18 at 3:18 AM,3, 0,"Hey there, our Devs would be happy to troubleshoot this issue with you in the Lone Echo II Support Channel in the community Discord: https://discord.com/invite/vXbazs5 ."
+2022-05-28 14:48:48.508874,bearmark,wow,"And again - Wow! this really is the best Game I´ve played since HL:A.
+
+It really makes me sad to see 3 or less stars ratings, because it´s not a ""3-or-less
+-stars-Game""!",Oct 15 at 4:27 PM,5, 3,
+2022-05-28 14:48:48.527823,SylmorNL,This is what VR can be,"After 6 hours and only just really getting into the core of the game I can say this game is one of the very best I ever played in Vr and is even on par with Alyx. LE1 was one of my favorite games in VR, only held back slightly by its short length. LE2 has a lot more side missions and side objectives that make exploring a massive open world very rewarding. The story is more on the foreground too, with brilliant voice acting and mocapping by multiple actors. The graphics are the best I have ever seen, even outclassing Alyx. The performance is good too, on my rtx2080 it runs on medium settings and fairly high resolution without any issue at 80hz. The initial load time is very long though (30-40 seconds). 
+
+The only real downside I can think of is that they left the serious tone of the first game behind a bit and changed it to a netflix/Disney level of humor that sort of misses the mark for anyone over the age of 14.",Oct 17 at 4:43 AM,5, 1,
+2022-05-28 14:48:48.545775,SfryGuy,Very good,"This is a very good game, but can be laggy at times. But I use an Oculus Quest 2 with a link cable, so I would recomend the Oculus Rift to be used with this game. Something bugging me though is that when I paid for it, a second 10 dollar transaction came through, and the original $40 is still pending. I bought only the game instead of the bundle (because I didnt realize there was a bundle). So I dont know if that has something to do with the game or not, all I know is the extra transaction happened right when I bought the game, and I bought nothing else.",Oct 17 at 4:44 AM,4, 1,
+2022-05-28 14:48:51.629674,claudgin,Amazing,"The first lone echo and the second are the best VR games i played.
+Hopefully it will become a trilogy",Oct 28 at 2:24 PM,5, 3,
+2022-05-28 14:48:51.647627,Atokada,Great experience so far but...,Been waiting for this for a long time and am not dissapointed in what I got through. That said I have gotten stutters and a door not opening or closing after leaving the first region and stopping all progress sicne the door opens AFTER I just phase through it on a automated movement part.,Oct 13 at 10:53 PM,5, 1,
+2022-05-28 14:48:51.670566,SupaSpud,Awesome,"Lone echo 1 was in my top 3 VR games of all time... No 2 is just as well done. Play 1 then 2... definately play 'em bnoth. 
+
+I only wish there were more titles as good...",Oct 22 at 6:28 PM,5, 2,
+2022-05-28 14:48:51.695498,mr2meows,Pretty gud,"Is like echo arena singleplayer’s sequel
+The oculus app is broken so I had to launch the exe from file explorer the loading screens are long and textures are very low res at the medium setting but its lone echo and it has ultra realistic rtx on Liv",Oct 21 at 4:24 AM,4, 0,
+2022-05-28 14:48:51.714448,Magister_Lex,One of the best VR games ever,"Great story, immersive graphics, tons of interaction - feels like a Hollywood movie. 5 Stars",Nov 4 at 7:55 PM,5, 2,
+2022-05-28 14:48:54.792855,angelhu84,poor performance,"i dont want play with it, until arrive some fix patches, with rtx 3070 unplayable. :(",Oct 18 at 5:17 PM,2, 5,
+2022-05-28 14:48:54.811805,RonnyBullet,one of the best,my personal favorite vr game (before this one it was lone echo) and overall in the top 3 at least! excellent work!!!,Oct 22 at 1:58 AM,5, 3,
+2022-05-28 14:48:54.830753,Arch_TuTVR,Amazing space story,"Thank you Ready at Dawn for making this amazing story, it was wonderful to live through! Best game of 2021 for me!",Oct 31 at 4:04 AM,5, 2,
+2022-05-28 14:48:54.849703,Crosi_Wesdo,Initial Impressions.,"Upgraded my 1080ti to a 3080ti in order to max out quality settings on air link. This has given vast improvements to many games and this is no exception. This review is mostly about the NVIDIA 20/30 series renderer as i havent spent enough time in game to score it, but the sharpness of the quest 2 with maxed out resolution at 90fps is stunning here and in HL alyx. Cant wait till the weekend to play LE2!",Oct 13 at 4:13 AM,5, 3,
+2022-05-28 14:48:54.868652,CoffeSpace1234,great game but.....,"Hello! This game is great but i have the right cpu and gpu but it says my drivers are off. I have no idea how to fix this or if I need to upgrade. But besides that the game is amazing and has some great story. I may have only been able to watch people play this game on youtube but it still looks interesting and I really wish I could play it! If you haven't played the first one then this will be very confusing so I suggest playing that one first, but its your money and your choice! I hope this gave a general explanation of what to expect.",Oct 17 at 1:42 PM,3, 1,
+2022-05-28 14:48:57.957998,shadowdb,"Good, not great","Bigger and better than the first one, but the preformance issues ruined the immersion for me, but you can fix them by simply closing the game then opening them.",Oct 18 at 7:54 AM,4, 2,
+2022-05-28 14:48:57.975949,Ryuzenkiwi,Poor optimization but still amazing,Running on low settings and choosing between jaggies or blur was very nostalgic for me. I had a great time despite the game GPU shaming me.,Oct 21 at 4:42 AM,5, 2,
+2022-05-28 14:48:57.995896,Drakkaa,So much detail!,"It is an amazing game! You need a beast of a machine to fully run it.
+But if you do it is a high quality game, in the same ballpark as Half-Life : Alyx",Oct 13 at 5:17 AM,5, 3,
+2022-05-28 14:48:58.014845,ION_56,very good but a few problems.,Sometimes when i was playing Lone Echo 2 the textures wouldn't load until i waited for them to load. RAD please fix!!!,Oct 17 at 2:12 AM,4, 3,
+2022-05-28 14:48:58.033795,midnightrocker45,Index controllers don't work,"Valve Index controllers don't work with this game, game runs with Revive on the Index, but the controllers don't work at all with this game",Oct 23 at 10:50 AM,1, 3,
+2022-05-28 14:49:01.131690,ITATTRACTS,"wow, just w o w","dont let this be a deterant from getting it, i just have ARK and it takes up way to much space, but it kept crashing only just starting in, sometimes just trying to load in it crashes, i spent 40 dollars for a crashy mess that wont even let me play, it should be a good game and really hope its ACTULLY worth it, i heard good reviews and wanted to get it after the first gamei even uninstalled the first one to make more space for this one to be somehow EVEN WORSE, i uninstalled all the games that i only somewhat play to make room, and nothing. it was dissoponting and was just trying to have fun and i get that it needs some what of a good computers and i have that yet nothing again. i uninstaled mostly everything i dont ever play anymore, nothing, its a buggy mess, maybe differnt for you but, i had an awful experiece, i hope anyone going through the same thing figures it out.",Oct 20 at 11:11 AM,5, 1,
+2022-05-28 14:49:01.150638,Brewbia,Great Game,Finally AAA for the PC again. Thanks very much. Now multilingual.,Oct 13 at 5:15 AM,5, 5,
+2022-05-28 14:49:01.169587,xHaganex,Great magnificent game,"Once again Oculus made a wonderful delightful VR experience continuing the previous game, this time I'll give 4 stars because the game isn't in spanish.",Oct 16 at 4:40 AM,4, 2,
+2022-05-28 14:49:01.188537,WillowNo1,Great Graphics,"Great graphics, just average gameplay. No save options is a bit of a pain",Nov 14 at 11:27 AM,4, 0,
+2022-05-28 14:49:01.208483,keropiqua,the best,"the best vr story game ive ever played
+<3 i love you captain olivia rhodes and popcorn <3",Oct 26 at 10:54 AM,5, 2,
+2022-05-28 14:49:04.316332,TheGarch,patch and update needed,"this is a 5 star title in every aspect once the bugs , textures, and performance issues are fixed",Oct 24 at 12:25 AM,3, 2,
+2022-05-28 14:49:04.335281,Vessix,Decent but poor graphical optimization,"A potentially good experience marred by awful graphical issues. It's lowest settings look terrible compared to the original, and settings that mirror the original requires a significant reduction in either FPS or resolution. Obviously the former is not an option in VR. The latter makes any graphical improvements pointless as the entire game becomes a blurry mess. Until it's graphical limitations are addressed I will be disappointed I purchased the game- and more disappointed I can't continue my favorite VR game without literal eye pain.",Jan 5 at 2:03 PM,3, 0,
+2022-05-28 14:49:04.354230,TidalEquation25,Worth the wait,"Really great game, worth the price and the wait.",Oct 24 at 1:56 PM,5, 3,
+2022-05-28 14:49:04.374177,L_etranger,Farwell Lone Echo,I wish a 3rd Lone Echo would happen. Superb narrative games.,Oct 14 at 10:29 AM,5, 4,
+2022-05-28 14:49:04.393127,Stuweeee,One of my top 3 VR games!,Part 2 was great! A lot longer it seemed than part 1. I really hope to see more vr games from you guys!,Oct 19 at 2:33 AM,5, 2,
+2022-05-28 14:49:07.499932,Adrian_C_Black,Best VR experience after HLA,"Grate game. 
+
+ps: Fcuk Meta ;) Fcuk facebook ;)",Oct 30 at 6:17 AM,5, 2,
+2022-05-28 14:49:07.517885,BlackkOmega,THEY DID IT AGAIN!!,If you loved the first Lone Echo you'll love this one as well!,Oct 17 at 9:49 PM,5, 3,
+2022-05-28 14:49:07.537831,Jim_Kerman,Phenomenal Game,"4/5 stars
+
+I waited for a while for Delta 6 to come back
+
+other than that, 5/5",Oct 24 at 4:10 AM,4, 2,
+2022-05-28 14:49:07.556780,Cuzon,Le2,I haven't played it and still know gonna enjoy it,Oct 13 at 1:04 AM,5, 5,
+2022-05-28 14:49:07.575730,Brandonnnnnnnnn,worth the money,...,Oct 28 at 10:25 AM,5, 3,
+2022-05-28 14:49:10.645645,Foxmate,best game on oculus platform!,please add chinese audio and sub!,Oct 30 at 5:42 PM,5, 2,
+2022-05-28 14:49:10.664594,saedus101x,Great ending to a great series,"Had a fantastic time, very immersive...but i do hope they patch the performance and texture loading issues... also make sure you stay to the end of the credits!",Oct 17 at 8:58 AM,5, 1,
+2022-05-28 14:49:10.684541,moose1234567,WOW,the first game blew my mind and they maniged to keep the feeling,Oct 20 at 10:07 PM,5, 2,
+2022-05-28 14:49:10.703490,ChrisJoshNow,Brilliant!,"Captaviating story, Awesome controls, Great dialogue. Highly reccomend.",Oct 19 at 10:19 AM,5, 2,
+2022-05-28 14:49:10.722439,Dominator-12,Very good,One of the better VR games love that the industry is getting better games although after this I would like to see ready at dawn cover a new games out side lone echo series I know I’d buy it,Oct 14 at 10:09 AM,5, 1,
+2022-05-28 14:49:13.816843,Snowy,Great game,very gud game besides the very very sad ending ;-;,Oct 23 at 8:39 AM,5, 2,
+2022-05-28 14:49:13.837787,hoppisoft,Simply the best VR Experience...,... since Lone Echo I,Oct 27 at 10:15 PM,5, 2,
+2022-05-28 14:49:13.857734,Ultimate-,Amazing,Exceeded my expectations gameplay was amazing was a huge fan of lone echo. I am VRML playerin echo vr i love this game series and the developers,Oct 18 at 6:04 AM,5, 1,
+2022-05-28 14:49:13.880673,sheacspear,very short game like as demo:(,very short game like as demo:(,Nov 7 at 8:52 PM,3, 0,
+2022-05-28 14:49:13.907600,kainan613,Fantastic proof of how great PCVR can be,A fantastic game. Will not be buying an oculus headset after this due to facebook trying to kill PCVR so quickly.,Oct 22 at 3:19 AM,5, 0,
+2022-05-28 14:49:16.998428,mkwilkes2,good gam,even tho at the time of realease no one has finished the entire game yet i think so far its a good gam,Oct 13 at 7:30 AM,5, 2,
+2022-05-28 14:49:17.018375,HashEdits,A must play if you own a computer and VR,"One of my most memorable gaming experience!
+Honestly I prefered the more naratively driven pices of content compaired to the more open worldy type, which led me to be not boot the game up for longer sessions, however I'm glad I stuck trough it and got to experience Jack and Liv's story!
+
+Just a master piece and a must play!
+(a shame that it's the last Oculus PCVR exclusive :/)",Dec 20 at 4:33 AM,5, 1,
+2022-05-28 14:49:17.038321,Metal_Multiball,I like it,Great chill experience.,Oct 13 at 7:52 AM,5, 3,
+2022-05-28 14:49:17.059265,buttballsbananas,Lone Echo II,"Gameplay 10/10    Story 10/10      Ending 10/10
+
+
+            This game is awesome go buy it
+             (and the first one obviously)",Oct 16 at 12:04 PM,5, 1,
+2022-05-28 14:49:17.080209,DarkRosePassions,worth all the delays,buy it!,Oct 15 at 1:49 AM,5, 3,
+2022-05-28 14:49:20.173063,Nova-,best game ever played,best game,Oct 19 at 5:54 AM,5, 2,
+2022-05-28 14:49:20.192013,RuediBS,Crash at start,Crashing at start! Are you working on this problem?,Feb 18 at 10:17 PM,1, 6,
+2022-05-28 14:49:20.210962,6470,great game,fun,Oct 14 at 8:52 AM,5, 3,
+2022-05-28 14:49:20.230908,Rudalpl,Good as expected :),"I'm only a couple of hours in and I love it. It actually makes me want to replay the first game so I'm all fresh on the events. 
+The only gripe I have is the textures. There is always at least one area where thextures didt load properly. I run this on Oculus Rift, GTX 1080, i7-8700K, 32GB of RAM so it shopuldn't be that bad but no matter the settings - low or high - there is always something wrong with textures.
+Overall I'm very happy that this game has finally been released.",Dec 12 at 6:35 AM,4, 0,
+2022-05-28 14:49:20.249858,Punda-,very gud,very gud game,Oct 13 at 6:15 PM,5, 2,
+2022-05-28 14:49:23.344220,CeramicPotato,Great game,Waited awhile for this game to come out and had a great time with it.,Oct 16 at 6:32 AM,5, 1,
+2022-05-28 14:49:23.363170,UnamedEntity,5 HALF,"how do ppl not see it
+its not 4 its 5 in a half",Oct 18 at 3:16 AM,5, 0,
+2022-05-28 14:49:23.382119,mastergroot,awesome,second best vr game! the first one is the best.,Oct 17 at 10:12 AM,5, 1,
+2022-05-28 14:49:23.401068,LuckyMic,Unbelievable VR game!,"3080 user should use High as Base, change Shadow to LOW, Light to MEDIUM, turn off Amient Occlusion, Volumetrics, Bloom, Adaptive Res., Variable Res. Shading and most IMPORTANT the Texture Quality to MEDIUM, otherwise the game stuttering to the hell after a while because of memory problems with the 10GB of the GFX! With my Vive Pro 2 it runs at 90 fps (mostly), SteamVR SS on 72% and using 90Hz.
+
+The game is amazing and continue directly after part 1. It's a must have who played the first one and the story seems to be great (until now) and I love it! At the latest when the second person showed up, I was thrilled and could hardly believe my eyes how real and detailed he was! Amazing and a must-buy, highly recommended!
+
+PLEASE add german language for subtitles and if possible also for audio (prefered), like in Lone Echo (later on) - it would be a shame for the german players, who don't speak english and would miss it....",Oct 14 at 5:41 PM,5, 8,
+2022-05-28 14:49:23.420017,Talon1,Excellent,"LE2 is everything I hoped it would be.  It even ran well on my Quest 2 over Airlink powered by my old 1070.  Graphics were set to 'low' but it's good enough for me.   Everything was nice and smooth, no weird lag or jitter, just some minor texture issues. Nothing game breaking though.",Oct 18 at 9:25 PM,5, 3,
+2022-05-28 14:49:26.523366,ekollof,What a wonderful game (with caveats),"Love the story, love the tie-ins to LE1. But the texture pop-in though... You leave all these wonderful assets in the world, but I can't read the text because the texture resolutions are too low too often. Please fix it, it does kinda break immersion.
+
+The story and the gameplay is breathtaking though. I was forgetting time, it was THAT good.
+
+Is this a texture streaming limitation?  
+
+Game installed on SSD, GPU is a Radeon RX 5600 XT, Machine is a Ryzen 7 2700X. Played on Oculus Quest 2 via Virtual Desktop.",Nov 3 at 10:16 AM,4, 1,
+2022-05-28 14:49:26.543313,MarBOcls,Amazing coudn't expect less,As in the title as great as number one.As others say game needs some patches but nothing that can't be fixed.Honestly games like this really show what VR is really about and i really hope that we gona get more amazing games.Didn't play my VR for about 8 months just dusted off the Rift S after ages of laying around but for game like this you are forced to do it.Hope for more quality games not many out there so far.,Oct 16 at 12:59 AM,5, 2,
+2022-05-28 14:49:26.562262,VRicken,Surprisingly Glitchy Masterpiece,"For the 4 years they had to work on this game, there are some surprising technical issues in the visuals, performance and generally polish. 
+
+Still a great game, would give it 4.5 stars but since the average sits at 4 right now, I'll bump it up to 5 as I think it deserves better.",Oct 13 at 7:40 AM,5, 2,
+2022-05-28 14:49:26.581211,maestro81,Awesome VR Game - Worth the wait,"If you loved the first one like me, you will love this one, too. Thanks a lot RAD! Well done!",Oct 13 at 2:08 AM,5, 5,
+2022-05-28 14:49:26.600161,shitshot,Only took 4 years to release,Quick development,Oct 13 at 1:06 AM,5, 9,
+2022-05-28 14:49:29.693525,NiborH_FR,Should you buy this game?,Knowing that 95% of the money is going straight in Facebooks (who abandonned Rift) pockets...,Oct 13 at 1:10 AM,4, 9,
+2022-05-28 14:49:29.716465,DerThellevoon,love it,"if you liked the first game, you will enjoy this one just as much",Oct 17 at 10:53 PM,5, 3,

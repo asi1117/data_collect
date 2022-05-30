@@ -1,0 +1,89 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 18:02:57.319347,escaped_dinosaur,was my favourite visualiser,"This was my favourite music visualiser, and probably VR app in general, but it has recently stopped working, and now will not launch. If i could find a resolution for this problem it would be a five star review.","Jul 18, 2020 at 6:52 PM",1, 3,
+2022-05-28 18:02:57.335305,ChrispyMcmuffin,wont load,i saw this and had to buy it! but it wont load at all?!? is there a fix for this coming or what???,"Aug 28, 2020 at 6:03 AM",1, 1,
+2022-05-28 18:02:57.349267,cyberpwn,Poor audio line implementation,"Stop implementing garbage audio detection. I cant even request a refund for some reason. The microphone feature works, but it does not detect background audio with any configuration i have, nor does it work with loopback (virtual mixers) or any arrangement with that. Im not sure what i just wasted my money on but i would like a refund.","Nov 7, 2019 at 5:32 AM",1, 6,
+2022-05-28 18:02:57.364228,Azooyeh,,Best visualizer in the store as of now...will keep buying new add-ons. Colors and graphics are clear and very soothing.,"Jun 9, 2019 at 11:47 AM",5, 5,
+2022-05-28 18:02:57.379188,Ryuu.Ejder,AMAZING!!!!!,"I originally got this as part of a pack, but it's worth every single penny. I love this app so much. 20/10 would definitely recommend to any music lover","Apr 7, 2019 at 3:56 PM",5, 3,
+2022-05-28 18:03:00.506822,Molock,Excellent,"Love it the best visualization I have used on my rift yet. Some vizualizations work better than others but that is always the way when you have so many. I cant seem to get it to only pick my favourites, but thats not too much of an issue as there is only 1 or 2 visualizations I dont care for and can just move on to the next by using the sticks on the controller.
+Edit: Thanks for the response I was selecting the favourites menu but not one of the visualizations in the favourites menu. Working fine now thank you. Updated to 5 stars now.","Dec 26, 2018 at 6:15 PM",5, 3,"Hi, thanks. If you select a visualization from the favourites menu, then it will only cycle through the favorites.
+
+Best,
+Mirage VR Team"
+2022-05-28 18:03:00.521783,jordan.barker.5,Best VR Music Visualizer,"I've tried several music visualizers, and this one is the most polished by far. 
+
+
+Keep up the good work devs","Jan 26, 2019 at 8:05 PM",5, 1,
+2022-05-28 18:03:00.537739,keyan314,"Impulse good, rest don't really react","If this is the ""best VR visualizer"" then the others must be solid backgrounds :(
+
+Of the freebies, Impulse is quite good and the bar one is kindof like an equalizer.  Other than those, it's just unrelated blinking colors.  I thought the whole point of a music visualizer was to VISUALIZE the MUSIC actually playing.
+
+This seems to expect a slow strong base beat (1-2 a second) with quiet pauses and not much else.  Anything fast, complicated, or interwoven just left the visuals ""on solid"".  Vocals (actual singing) seems to really confuse it in that respect.  Even ""We Will Rock You"" by Queen or John William's Imperial March are too fast and complicated for almost all the visuals.  Reducing latency from the default 4 to 2 or 1 helped most visuals some but not enough.
+
+But, then there's Impulse.  Which is how they all should work.  I might keep Mirage around just for that since the install is small.
+- It's kindof a big bang burst with a variety of reactions.
+- It pulses with beat (base, mid, and treble), but doesn't get overwhelmed like the others.
+- And it will collapse the previous burst while creating a new one or collapse and then re-expand the same burst depending on the music.
+- Different frequencies map to different colors without just always being a rainbow
+- And it handles both musical bursts and musical swells with matching (and distinct) visual responses
+- Some random songs that really show it off: Goldeneye theme song, Black Sails theme song, Tell That Devil by Jill Andrews","Dec 3, 2018 at 9:07 AM",2, 3,"Try altering the 'latency' option in the settings menu if you are seeing ""on solid"" visuals. That will resolve it."
+2022-05-28 18:03:00.552699,nosevole,Absolutely Brilliant,"Hands down, this is the best visualiser I've tried, and I've now tried all of them, including the expensive ones. My only complaints are that there aren't enough visualisations, and for some reason the program won't let me buy the extra packs. I get ""an error has occurred"" every time. Bit of a shame, because honestly I'd happily buy them all.","Oct 27, 2018 at 8:02 AM",4, 0,"Hi, try again and it should work. If it doesn't please let us know at support@mirage-app.com. Thanks!"
+2022-05-28 18:03:00.568657,vash2695,I want more,"This app is fantastic, but I'd love to be able to purchase the packs. This doesn't work on oculus or steam. If this gets fixed it will be perfect.","Nov 2, 2018 at 1:29 AM",4, 2,"Hi, if you try again, it should work. Thanks!"
+2022-05-28 18:03:03.652409,uneedpuns,don't download for certain people,if you want download this for people who can get overwhelmed easy don't download as someone with autism this was horrible always want too look away with effects when moving foward just to much for people like me,"Oct 23, 2018 at 7:34 PM",2, 0,
+2022-05-28 18:03:03.671358,MistahMillah,"Downloaded it, clicked start............","Downloaded it, clicked start, failed entitlement check.Tried again,uninstalled, redownloaded,clicked start,failed entitlement check.Uninstalled,restarted computer,redownloaded,clicked start, failed entitlement check.Uninstalled, gave up.","Oct 5, 2018 at 7:10 AM",1, 0,"Hi, if you try again, it should work."
+2022-05-28 18:03:03.693300,The_Duuuude,Great visuals but....,"Love the visuals but like many of these it doesnt really seem to follow the music.
+Tried Mplayer, VLC, Youtube via Chrome, etc
+Really cool to look at but it doesnt seem to react to the music. 
+REALLY need to kick off you music from within the app too, alt tabbing out to fire something up is a bit....hmmm
+Promising though, I will investigate more! Thanks","Sep 7, 2018 at 7:00 AM",3, 1,"Try altering the `latency` option in settings if the visuals don't seem to go with the music. Once you start the music, you may control it from inside the app using the controller."
+2022-05-28 18:03:03.708259,Bob-Rolha,"Add some native music, please.","I am correcting my negative rating when I said that the application did not start. The problem was from the old oculus platform that has now been updated and everything works normal. Anyway, the few visual effects are simple, and not so shocking. I think there were some native songs missing in the app, just for instant experimentation on visual effects and music.
+A tip for users, like background music, start with the following from the link:
+https://www.youtube.com/watch?v=8Uv4GC3v09k","Sep 6, 2018 at 10:34 PM",3, 0,"Hi, ensure the cables on your computer are setup properly. Especially the HDMI cable. This isn't an issue others are having."
+2022-05-28 18:03:03.723219,westworldDroid,more of these please need it to get high,"this is an amazing app, still needs more work to create immersive visuals so you can trip on for long time, GrooVR did a good job on that, but they need to add more visuals specially mixed with pictures and videos so your brain can trip on for hours...
+Also please add visuals for different channels and musical frequencies, meaning a visual for the drum, visual for guitar, the base and song, etc.... sort of like how you visualize a music in your mind when you listen to all different instruments at the same time.","Jul 27, 2018 at 12:22 PM",5, 8,
+2022-05-28 18:03:06.829910,Zennor,Good start,"We need more descent simple visualisers so 4 stars for encouragement.
+Theres a few things that stood out to me immediately.
+1) Some of the visualisations ( and I have bought the premium pack of extra visuals ) don't seem to have much musical reactivity) . We don't all listen to music with  a strong obvious beat so i think a visualiser has to do more than just sense a beat,
+2)  Please start a settings menu so we can for example switch off the visualisation name  which comes up everytime visual changes - its really annoying an immersion breaking.
+3) Allow an option that if I start a visual in the favorites menu then all my visuals will come from my favorites list when auto change is activated . Allow me to escape the visuals that are just not what I want to see when in  auto change mode.
+4) Allow me to set roughly how long between autovisual changes !
+Look forward to future updates .","Jun 25, 2018 at 7:29 AM",4, 7,"Hi, all of your suggestions are now in the experience. Try it out!"
+2022-05-28 18:03:06.844870,pieboots,Loading..,Can't get past the loading screen..,"Jan 10, 2019 at 5:38 AM",1, 0,
+2022-05-28 18:03:06.860828,coppermine,Thank you,"As a long time user of Geiss and Milkdrop back in the day, I have been waiting for the next level visualizer for VR.  I think I have now found it. Okay, I don't gel with all the patterns, but I think you are onto something with this app.  I have just sat and litened to Pink Floyd's The wall with the music cranked up. I chose the Zen visi and I have to say that the clouds fitted the Floyd superbly.  I would go so far to say that this is my favourite music visualizer to date. The clouds and responsiveness in Zen fitted perfectly.  A few of the others I found to be very good are Swarm, Aztec, and pulse.  Please keep improving this app and the responsiveness to go with the more chillout music (I'm old) Some visualizations came across as not subtle enough to pick out gentler rhythm's. But were only detecting loud thump thump tracks.  As I say, keep going with this and please try to make it respond more to the gentle beats too.   You will make money by adding more packs.  Zen with Floyd was fantastic.  More of this please.. Very heartily recommended .","Jun 26, 2018 at 3:42 AM",4, 4,"Hi, thanks for the review. The responsiveness has improved greatly in the most recent update. Try it out!"
+2022-05-28 18:03:06.875787,Dead_Romeo,Play music how?,So there aren't any guidelines on how or where to specify the location of your music collection. This software has a complete lack of any user manual or reference guide. If I seriously have to go outside of the app to play my music then what's the point?,"Aug 1, 2018 at 12:21 PM",1, 1,"Hi, play music in the background and MIRAGE will respond. No need to import music."
+2022-05-28 18:03:06.890747,JonnyTenebrous,"Solid Potential, But Needs Some Updates","I first tried this music visualizer on launch day, so maybe some some of the issues I've experienced will be fixed soon.  I thought the visuals were mostly fantastic - personally, I found that the full 360 programs were much more interesting than some of the 180 programs that just do their thing in front of you.  Personally, it makes me want to get up and move, so turning around to an empty space is a bit of a downer when it happens.  Secondly, in my case, it kept whacking my headphones volume up to full 100% which was *TOO LOUD*... I had to go into Spotify and lower the volume there, because this programs kept overriding my Rift volume settings.  Finally, this programs absolutely *NEEDS* a way to either DISABLE a set of visual programs from running, or a favourites list that ONLY plays those visuals on the list.  While I was OK with most of the visual programs, I had my wife a take a spin and there were a few that just freaked her out and she had to tear the headset off... she doesn't like groups of fluttery, flappy winged things flying at her (the flock of birds visual, the butterflies, and one of others I can't quite remember the name of).  Point is - she was having a great time right up until she got some major unpleasant shocks... she's promised she'll have another go at this program, but only once it's possible to set up a playlist or a blocklist to exclude the visuals that don't work for her.  I'd like to see some other options too - I'd like to be able to set how long a visual runs before auto-switching to the next, I'd like to be able to cycle backwards through the visuals list to replay one I was enjoying again, etc.  And finally, I'd really like some visual indication options for my hands using the Touch controllers... give me some glowsticks or something, at least.  And wouldn't it be amazing if your hand movements could impact what was happening with the visuals?  That could be pretty far out.  Anyhow, yeah... I'm taking a wait-and-see approach here.","Jul 3, 2018 at 4:27 AM",3, 3,
+2022-05-28 18:03:09.965523,3DeMan,Massage your inner hippy.,"Right off the bat - this is the best Music Visualiser in VR that I have found so far. 
+Up until this point, the best option is Milkdrop via Virtual Desktop. Milkdrop (which was conceived in the last millinium!) still works better as a music visualiser, but it is only in 2D - full 3D makes one hell of a difference. 
+Some of the visualisation modules are very good, some are borderline ok. I bought all of the expansions to support development. However, I would suggest a more realistic price on these.
+
+Things that are good.
+The visualiser works - and it works with any music that you throw at it. 
+Some of the visualisations work really well.
+Good options for a 'playlist' of visualisations. 
+Good variety of modules so far. Abstract patterns work best in visualisers.
+Best VR visualiser currently out there.
+
+Things I would like to see improved/added.
+The visualiser only seems to react to the beats. Compare with Milkdrop and Harmonix Music on PSVR, where the algorithms are more complex. This is the 'secret sauce' of a visualiser seeming to magically 'know' the music. 
+I like to zone out and get totally lost in the visualisation. This does the best job so far outside of the two examples I have given - but to be truly effective, the visualisation need to slowly morph and keep changing without seeing the joins. 
+
+Bottom line:
+We have yet to see a music visualiser in VR that gets it all right, but this ticks more boxes than all the others. 
+It is free, so no harm in trying it. If you like it, it is worth supporting the dev with a pack or two in the hope that a good visualiser is developed into a great one. 
+
+Message to the Dev - I would love to see this on the Go (and I am sure it is possible) - I want to lie out in a field and listen to Halleluwah by Can!
+(More cash for you if you include Gear VR too - but cross-buy on the packs pleeese). Good luck with the project, and I hope it does well for you and that you continue to evolve it.","Jun 29, 2018 at 6:44 AM",4, 4,"Hi, thanks for the review. We also think MIRAGE would work well on the Go. That being said, there are some unknowns about where the music would actually come from. You should make a post at our forum (https://www.reddit.com/r/MirageVR) with suggestions about how you think MIRAGE could work best on the Go."
+2022-05-28 18:03:09.981481,Yoiko_Hax,Passes the Dark Side of the Moon test!,"This program seems to take a lot of inspiration from visualizers of old and with as many years as I've been playing with them that's an added perk. It could use a few more features (which there is already a comment detailing and developer feedback impyling these will be added) so I won't repeat them.
+
+It's amazing and well worth taking a plunge at the low price of free. A few more tweaks  are all it needs to consume people into their music libraries for life.","Jun 26, 2018 at 4:43 AM",5, 1,
+2022-05-28 18:03:09.996441,XtremeHardcoreGamer,Amazing,This is the best music visualizer on the Rift!,"Aug 13, 2018 at 5:21 AM",5, 1,
+2022-05-28 18:03:10.012398,I3lackI3eard,"Visuals, but no audio in headset.","It says it's playing music, and I see the visuals, but no audio.
+Audio works fine in most other Oculus or Steam VR content.
+For some reason the program seems to be playing the audio through my PC soundcard rather than the Rift audio.
+Fix this issue and I'll give it another go, as I don't want to have to go to sound settings on my PC and change default audio for just one program when others work as intended.","Jun 27, 2018 at 3:55 AM",2, 1,"Hi, you might be confused because MIRAGE doesn't play any audio. MIRAGE simply reacts to audio playing in the background."
+2022-05-28 18:03:10.027358,SaltLick.thomasy,cant get it to start,"**UPDATE***
+issue is resolved the playback is flawless looking forward to more content
+
+
+it just gives me the in VR message apologizing for the long load time .... ive restarted the computer unistalled and reinstalled the game/app even playing my own music in the background thinking that will promp a start i have been to your redit page and there are no answers there","Jun 23, 2018 at 12:53 PM",5, 0,"Hi, thank you for the review, we are glad it worked out. The issue was related to HDMI connectivity and unrelated to MIRAGE."
+2022-05-28 18:03:13.149009,devinmoya,,Really cool visuals and transitions. A wide range of artisitc beauty in VR. Definitely would recommend!,"Jun 22, 2018 at 5:27 AM",5, 4,
+2022-05-28 18:03:13.163969,peytonford7,Everything I could have asked for,"After this I had to sit down for 20 minutes contemplating what just happened, would highly recommend","Aug 15, 2018 at 5:49 AM",5, 4,

@@ -1,0 +1,50 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 20:44:08.205208,TheSilentCircus,Fantastic atmosphere with great gunplay,"This game is a call back into the old-school FPS with some great modernizations. Shooting feels great, traversing is fast yet comfortable. Really enjoy the visuals and the atmosphere it builds. Some slight jump scares with some of the creatures but armed with your weapons it makes them fun to deal with. 
+
+Highly recommend, especially if you are a fan of classic FPS games.",Nov 6 at 1:38 PM,5, 1,
+2022-05-28 20:44:08.218173,pj10,How did I not know about this until now?,"This game is a nostalgic blast!
+Like playing Duke Nukem in VR!
+The game runs smooth and has all the options a VR game should have.
+I love the retro feel of being in the game.
+
+Made by Garage Collective, makers of Stones of Harlath on Quest and Steam, another nostalgic, must have game.
+
+VR Verdict Podcast","Jun 27, 2021 at 12:39 AM",5, 2,
+2022-05-28 20:44:08.233133,Quest787,Retro fun,"A highly polished retro experience that ticks so many boxes: it looks great, runs smoothly, has a host of atmospheric environments from tight corridors to wide open hangers, satisfying weapons and combat, and most importantly of all, it's fun.","Jun 13, 2021 at 9:13 PM",5, 2,
+2022-05-28 20:44:08.249090,FastLawyer,This is not a good game,"So almost all the reviews on here and on YouTube are saying what a wonderful game this is. The retro FPS shooter of your dreams, come to reality for VR. Well, I'm here to tell you that it's not true. This game is actually bad. 
+
+The combat mechanics are poor, mostly because the enemy AI is so laughably bad. There's several bugs. You can cheese the boss fights. Snap and smooth turning are both very slow. Jumping is horribly implemented.  
+
+But you don't need to take my word for it. See all the glowing videos for this game on YouTube. Then watch mine & decide for yourself: https://youtu.be/GQNgMKE5xDQ","Apr 12, 2020 at 2:02 PM",2, 2,"Hello there, thanks for your feedback.
+I've just put up an update which addresses many of the things you noted (see release notes below). Thanks again for taking the time to create a video on the game,  your feedback was very valuable in improving the game further =)
+If you have any more feedback please don't hesitate to send it to me.
+
+Release notes for the update:
+*Controls:
+-made snap turn faster
+-made smooth turn faster
+-improved jumping
+
+*Gameplay balance and AI improvements:
+-enemy bullets are slower and in return do more damage (to entice more ducking, dodging and cover gameplay)
+-enemies aim better
+-enemies don't loose sight of player as easily anymore
+-in normal difficulty enemies try to sidestep bullets if they see them from a distance coming at them
+-enemies also come at the player when they can't see the player but estimate the position based on seeing a bullet coming at them
+-in return made enemies loose knowing where the player is when not seeing player or bullets by player anymore for a while
+--> since all those changes make the game more challenging the default difficulty is now set to easy
+
+*Audio:
+Ducking music while audio brief is playing
+
+*Art:
+-locked doors also show a keycard on them now
+-fixed some issues regarding some pickups visible clipped through from behind some walls"
+2022-05-28 20:44:08.263053,Fguillotine,really fun,"as a fan of pixel art and retro games i'm enjoying this so much. Atmosphere, explosions, level design... are great, extremely fun to play. Only flaws are some gliches with water reflections, and that sound looks totally flat (2D).
+Other than that awesome game. Hope this comes to Quest too.
+
+Update: That was fast!!!! great support. After last update water reflections looks perfect now, and spatial sound is working too. Good work!!","Dec 9, 2019 at 6:08 PM",5, 11,
+2022-05-28 20:44:11.376726,uno.aphex,awesome,"this  game was really worth the price for admission. I really don't have any criticisms at the moment, it's pretty easy to cheese some of the game by poking your head through walls. never thought pixelated aliens could scare the living crap out of me but here we are. I'm stuck at the map where they show up heh. Something about jump scares is a bit of a put off for what I was playing like a run and gun. Maybe that is a bit of criticism I suppose. I still really enjoy this game and maybe eventually ill see to it till the end. You've done some impecible work making the game feel retro and new at the same time.","Dec 13, 2019 at 9:57 AM",5, 6,
+2022-05-28 20:44:11.402657,Rigbyrobot,Great Game,"The 8 bit style is very cool, it still has atmosphere and depth. Its a fun very cool game to play!","Dec 14, 2019 at 7:26 AM",5, 4,
+2022-05-28 20:44:11.417616,rodney6587,nomad,really fun  i understand it was ment to be retro but an update to modernize would be great,"Jan 3, 2020 at 9:27 AM",4, 1,
+2022-05-28 20:44:11.431579,sean.tucker.89,Really good,More like this please. This is awesome.,"Dec 15, 2019 at 5:37 PM",5, 5,

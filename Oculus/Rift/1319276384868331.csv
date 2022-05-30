@@ -1,0 +1,238 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 18:22:32.989850,Roxstarchili,Locked out of playing...,"I bought this game a while ago, and did not get a chance to test it until now.t. 
+Well it wont let me play unless I have a ubisoft account..I begrudgingly signed up for one..and low and behold,,oculas and ubisoft wont link. 
+Cant find a way to get them to link (google takes me in circles),,and well I should not have to  jump through hoops just to try and play a game...
+Wasted money, wasted time, and another usless place you have to have an account through to access something I still cant access...",Oct 3 at 5:57 AM,1, 3,
+2022-05-28 18:22:33.004809,rservello,Crashes at startup,Got this on a sale. Never was able to start it. Still can’t. Don’t waste your money. It’s unplayable.,Nov 11 at 10:41 AM,1, 0,
+2022-05-28 18:22:33.019770,OculusGameCat,Do Not Buy this game from Oculus store!,"I bought this game while it was on sale in December 2020. I just recently got through my backlog and went to try it a week ago. 
+I, like many others on here, am getting the authentication error. I have been in daily contact with UbiSoft support for 4 days. It is obvious by their generic replies to my issue that they are not even reading what I am telling them is happening. 
+
+The first day of correspondence they sent me a link with general things to try... turning off windows startup programs, turning off services, etc. I played along and let them know that telling people to disable all services at startup, other than Windows services, is a bad idea considering that also turns off Oculus services which are needed to open the Oculus software and start the game.
+I also told them that this has been happening to people since 2018 according to reviews on here.
+I also attached screenshots of my Oculus store receipt for the game.
+
+They replied the next day that authentication errors usually happen when user is logged into the incorrect UbiSoft account. They wanted me to send them all my user names and email addresses that I have used for UbiSoft as well as launcher logs (I only have one account with them!). They also asked me to send them a copy of my reciept... from Steam store! Hello? Why would I have a steam reciept from an Oculus purchase??
+
+I replied the following day letting them know that I don't have a steam reciept and if they were actually reading my messages they would know that. I told them I already sent my reciept from Oculus. I begged them to please come to the Oculus store page and read the reviews so that they could see that MANY are having this issue and have been since 2018. I would think they would have an easy solution by now, or pull it from the Oculus store. 
+
+This morning I woke up to the response of: ""If you are getting an error message with the authentication of Star Wars Bridge Crew..."" 
+Are you kidding me right now??! Wow... The worst CS ever!","Mar 23, 2021 at 11:57 PM",1, 5,
+2022-05-28 18:22:33.035727,BlakTouch,frustrated,"Edit:  so you see the date of developer response... and we are now approaching the end of the year and I still have not been able to play this game a single time. 
+ REMOVE THIS FROM OCULUS STORE
+and I did open a support ticket with Ubisoft, and had one of the absolute worst support experiences and was literally just sent running in circles.  i literally sent them my proof of purchase, the error message that pops up when the game crashes, and sent the crash log file.  they were no help whatsoever.
+the fact that i have to open a support ticket to start the game, rather than Ubisoft addressing an issue across many of their games with authentication is a bad look.  There's no other developer that continues to ask me to prove that i bought the game after i bought the game.  This is being treated as resolved for every single game with the issue, but instead is handled on a case by case basis.  A software fix would be much more appropriate so that your customers don't have to deal with this headache for years.   If you are unable to handle the authentication of having your product available from different vendors, then only offer it in-house, on your own platform.  I feel like I'm being punished for buying from Oculus store rather than Ubisoft Connect.  Really can't knock the game, since I didn't play it; strictly a Ubisoft thing, and please believe it's not only authentication from Oculus purchases.  Please look into it at least.  A software fix toward the authentication errors among several of your games.",Dec 19 at 10:12 AM,1, 2,"Thank you for sharing this feedback BlakTouch, and we apologize for the frustrating experience thus far. We have shared this information with the relevant individuals for further consideration. If you come into contact with any other problems, please be sure to reach out to us using this site and we will be glad to assist you further. >>https://support.ubisoft.com/en-US<<"
+2022-05-28 18:22:33.052681,Pic0o,Also had authentication issue,"Fixed it and support ticket made. Uninstalled, reinstalled (Transference game install) and ran the Transference.exe As Administrator in  '<oculusApps>\Software\ubisoft-montreal-transference\' Login to Ubisoft account until asked for CD Game Key. Then click cancel.
+Now run Transference from Oculus menu. Game should activate and push keys to uplay account. Good luck! Just played a few minutes, very creepy and cool concept so far :-)
+(Theory) Login to uplay as admin allows the game autenticator for uplay to update, so when Oculus is loaded for 1st time after then, game will activate correctly. Else we get ""Please log in to Uplay and restart the game"" in our headset errors loading Transference","Jan 3, 2021 at 9:22 AM",4, 2,
+2022-05-28 18:22:36.141420,jumbli,"Great game, hampered by Ubisoft login","After 5+ weeks Ubisoft finally gave me access to the game. I think I'm a good way through now and have really enjoyed the story, puzzles and ideas in the game so far. I'll leave the old comments below for reference:
+---------------
+Uplay says I don't own the game that I bought through Oculus Home. I'll update the review if I get it working. It shouldn't be this difficult to get a game you bought to load. Ubisoft are known for this problem as you see from other reviews so I usually don't buy their games, but I really wanted to play this title. Ubisoft Support ticket ref: 13434739
+Update: I submitted a support ticket to Ubisoft 7 days ago, but I have not even had a response yet.
+Update 2: five weeks gone by and still waiting for a resolution from Ubisoft support.","Jan 14, 2021 at 9:02 PM",4, 9,
+2022-05-28 18:22:36.156381,CJFlynn7,Horrible authentication issues Ubisoft,"Transference is a fantastic game, but unfortunately the Oculus version requires authentication through Ubisoft.  Initially the game would not launch, and all I got was an error message that Ubisoft could not verify ownership of the game.  This was after linking my Oculus and Ubisoft accounts.  After 2+ hours with Ubisoft support (and countless ""troubleshooting"" methods that did not work), the game finally shows up in both my Oculus and Ubisoft libraries (required to launch).  I cannot recommend this version of the game given these issues - which somebody should have fixed by now.  Buyer beware!","Dec 9, 2020 at 2:45 AM",1, 5,"Hey there CJFlynn7! We are terribly sorry to hear about the issues you experienced with accessing your account, however, we are glad to hear that support was able to get this sorted for you so that you could play Transference. If you have any other issues in the future, please reach out to us using this site and we will be happy to assist you further. >>https://support.ubisoft.com/en-US<<"
+2022-05-28 18:22:36.171340,EricBarnasson,Amazing immersion but tricky to launch!,"Very good immersive experience but kinda complicate to launch if bought on Oculus Store!
+You first need to install Uplay PC, then link your Uplay account and Oculus account (with your Facebook account), and finally it works!!
+By the way, it worths the time with a very intense 2 hours play !","Mar 1, 2020 at 4:51 PM",4, 5,
+2022-05-28 18:22:36.186300,OraXSerrata,Immersive atmosphere,"I have been gaming since the very beginning. Yes....pong. This is one of those games that has moments that make you reflect on just how far we have come. It's one of those games that makes you wonder why everyone isn't experiencing VR horror; becuase if you haven't played a game of this caliber, hve you trully seen all that gaming has to offer? Creepy, unsettling, atmospheric, with a soundtrck that perfectly compliments the visuals. This game stayed with me after it was over and that to me is a hallmark of a great VR experience.","Jan 25, 2020 at 7:39 PM",5, 3,
+2022-05-28 18:22:36.202258,pappabear1982,Amazing Game with sign on issues,"I have been working with Ubisoft Tech Support since before Christmas and still cannot load this game.  At first they told me to be logged out of uPlay and only be logged in as Admin on Oculus app.  This didn’t work so they had me send them logs thru a support ticket.  Two weeks later I get a follow up saying that I now have to make sure I’m logged into UPlay as it’s an authentication error.  I do this and it still doesn’t work!  Now they want me to send them screenshots of saved games information to see if the game is attached to the wrong account.  I don’t think that the tech team realizes I’m doing this thru Oculus and bought it thru Oculus which was a horrible mistake.  I’m excited to play this based on the trailer so will try one more time to get access.  Oculus should not be selling this game thru their app since I’ve read from others on here who have also had many problems.
+
+UPDATE:  So the issue is that you cannot play unless you have a UPlay account and it is listed as one of your games.  Tech support finally helped resolve my issue by confirming my purchase and then added it to my list of games.  Then I had to be signed into UPlay and launched the game from the Occulus app.
+
+The game itself is intense as you are roaming around trying to find out what happened to this boy.  Haven’t completed the game but hope this review helps those needing to resolve the above type issues.","Jan 7, 2020 at 3:41 PM",4, 4,
+2022-05-28 18:22:39.295983,MyWy,"Some amazing experiences, others less so","Good points: Strong and intriguing story, with undertones of fear. Possibly the best jump scare in a VR game I've played to date. Nice graphics and sound. Clever layout to make it seem at once maze-like but also keeps you moving forward, rushed but never really on a timer.
+Bad points: Ubisoft anti-piracy launcher. Very small gaming world. Overall, I feel under $20 CAD is more appropriate. Slightly annoying controls. The 2D video clips are a little annoying to sit through.","Nov 9, 2019 at 2:50 PM",3, 1,
+2022-05-28 18:22:39.310943,LIN3,what a mess,Paid for the game and it wont let me log in. I followed the prompt to play the game. It wont launch becuase it states I dont own the game! This is crazy! Never buying a game from this company again.,"Dec 20, 2019 at 1:31 AM",1, 5,
+2022-05-28 18:22:39.325903,WhitesideVFX,Thick with ambience - unsettling,"It looks like this game got a pretty mixed response on it's release.
+Personally, I loved it. 
+Graphics and sound are top notch. I love the glitchy effects. 
+Strangely it reminded me a bit of Zork Nemesis in it's hauntedness. 
+The story feels a little muddled at times, but it's pretty solid. The voice acting is great for the most part, though at worst a little cheesy.
+The puzzle solving aspect of the game works, but it isn't particularly deep. Its mainly just a find and carry and object to it's place type of puzzle experience. But with the claustrophobic feeling and fear pushing down on you, I hardly noticed that they weren't great until i was thinking about it afterwards.
+
+Recommended buy? - Yes. If you like creepy, unsettling, psychological horror, narrative type experiences. Give it a go.","Sep 16, 2019 at 1:31 PM",5, 5,
+2022-05-28 18:22:39.340863,Mandueri,A must have for people owning VR,"Indeed, this experience is quit short, you may play it in about 3 hours. But to be honest, it is worse the money as it provides you one of this rare moments of finishing a VR game with a big „Wow“ in your mind. The atmosphere is absolutely insane, the setting keeps you fascinated until the end. Highly recommended from my side.","Mar 3, 2019 at 8:23 PM",5, 6,
+2022-05-28 18:22:39.355823,DrOculusVR,kinda spooky,"when i started playing this game i figured it would be a slightly dark puzzle game with interesting, thought provoking story. what i didnt expect was to jump out of my skin in the 1st 5 mins. the game is still the puzzle game i expected but a little more. solid experience that is slowly unlocked as you figure out more puzzles to tell the story of a pioneering scientist can his family. i got the game for free but would gladly spend £15-20 on this","Jan 15, 2019 at 8:42 PM",5, 4,
+2022-05-28 18:22:42.458524,rh_galaxy,"Not allowed, takes days and days","I see the other reviews, and will maybe update this one later, if I believe this issue is fixed permanently. It's been 72 hours since I created a ticket with ubisoft, and I'm still not allowed to start the game.
+
+UPlay doesn't think I own the game, ""...a problem authenticating the ownership...""
+I have linked Oculus with UPlay account, what more is there to do? The game exists with OH and does not exist in UPlay.
+
+Clearly there are faults that need fixing between UPlay and Oculus, once started the game is probably good. But my first time as an owner of this software is not positive, and for that experience I give 1.
+
+Update: On day 13 I requested a refund, because they wouldn't resolve my ticket, then bought the game again, this time not on sale. It worked now, I believe it is because I now already have UPlay installed and an account there and it being linked to Oculus. The issue is probably not resolved for other new users. The game is pretty, and original, and a lot of work is put in by the developers, so all is good - just this UPlay I still fear for the next game I will buy.","Dec 10, 2018 at 5:20 AM",1, 5,
+2022-05-28 18:22:42.474482,dmdittmer,Ubisofts greed killed the game,"In Ubisoft's DRM frenzy, they are forcing us to use a secondary game launcher. Which, in itself, is rather irritating... had it only worked! Now when the game launches, Ubiplay fails to authenticate my purchase, and refuses to let me in to the game. I had to contact Ubisofts support (twice), only having to file a ticket. One of the support guys told me this:
+
+""Okay, so this was a known issue at the launch of the game that had to do with the game not being pushed through from Oculus. I am not able to add content to accounts, but if you submit a ticket at support.ubi.com, a member of the team there should be able to manually apply the game to your Uplay library.""
+
+24 hours after my purchase, I'm yet to log in to the game. I've heard rumours about Ubisoft's over the top mistrust of the gaming community, but I have to wonder why they are are willing to damage their trade mark in such way, only to save themselves from a small amount of pirates. It seems like their greed knows no bounds!
+
+And if you, like me, think that ""I wont have the same problems like many has""... I promise, you will!
+
+When and IF I ever try the game, I will update my review. But no matter how awesome the game might be, it will hardly be worth all the trouble.","Nov 24, 2018 at 6:04 PM",1, 14,
+2022-05-28 18:22:42.489442,Nij,Nothing like you have ever played before,"Wow!! This just absolutely took my breath away, the graphics are absolutely stunning, and don't even get me started on the atmosphere, it totally draws you in and your world just completely flips the more you get into it, feels very much like stranger things with the atmosphere and there are some very scary and surreal moments.  
+
+I had the issue at first where the game crashed but once I logged in with my existing uplay account and let it link to my oculus account, we were good to go
+
+Few glitches here and there which I'm sure can be ironed out, biggest one for me though was with having have 4 sensors, I like to be able to move around but I found if you move too much, it will keep resetting your position in the game which does break immersion, so I'm guessing your not supposed to move really, would be great if they can fix this or you can turn it off
+
+UPDATE
+Day 2 of playing this game and honestly, I really don't think I've ever felt immersion on this level before and I was a rift kickstarter, it's on another level, I've had to drag myself off it as got work in 6 hours!","Sep 21, 2018 at 8:18 AM",4, 41,
+2022-05-28 18:22:42.505399,mantas_t,,"a bit short, but very nice. some goosebumps no so many jump scares","Jan 24, 2019 at 3:02 PM",5, 0,
+2022-05-28 18:22:42.521356,mishka11,WAIT! Problems Launching with Uplay,"iI dont know...cant seem to play the game.  Like others have mentioned...there are problems with getting this game to launch at all.   Ive been purchasing and playng games through oculus without any issues for a year now. But this game forces ""uplay"" account on you...which means more points of potential problems. Of course, they want your email, but even after making an account..they wont have proof of your purchase.  So good luck trying to get support.  Even on an hour long chat, they finally tell you to send them an email with a screenshot, and all other details. Then you get to sit back and wait. they wont even tell you how long it takes for them to fix it. ...meaning...there'll be no more window for a return/refund if the game doesnt play.   When we buy a game, we shouldnt have to sepnd hours contacting support, emailing and sending screenshots. Read the other reviews...the game will give problems and the support is poor. Had I known this, I wouldnt have purchased until the issues were resolved.","Apr 14, 2019 at 4:29 AM",3, 5,
+2022-05-28 18:22:45.635029,Thunderpie,a must have vr game but with some flaws,"Took me a week after buying before I could actualy play due to some authentication error, going back to Uplay and Oculus support for help. Was eventualy fixed.
+
+PLaying this game is spectacular, even got me jumping a few times. Great feel and play, 
+
+It is a big buggy, some times u just randomly change hight and direction, doint expect hours of game play, i completed it in a day but its a game u need to play.","Dec 1, 2018 at 9:41 AM",4, 0,
+2022-05-28 18:22:45.650986,ken_danger,Ubisoft - worst customer experience,"Purchased through Oculus Store on Black Friday, still can't access the game. It's an authentication issue created by Ubisoft (the game description does not mention Uplay being required) where they can't verify the purchase. Spent over an hour in live chat, sent screenshots of errors and receipt, still can not access game. Half temtped to get a refund, but heard amazing things about the in-game experience. So far out-of-game experience has been weak.","Nov 27, 2018 at 9:11 AM",1, 1,
+2022-05-28 18:22:45.666943,RuneSR2,Awesome game,"Although Ubisoft tries their very best to completely ruin this game by forcing the WORST anti-copy-protection upon users, this game is a shining VR jewel - if you can get the past the anti-copy-protection. 
+If you get stuck - like me - there's easily 5+ hours of gameplay. Graphics are truly awesome, textures often look real. With all setting maxed out and forcing super sampling 2.0 I still got solid 90 fps using GTX 1080. If Ubisoft removes the anti-copy-protection this may rise to become one of the best VR games on the Rift. BTW, this isn't really a horror game - it an adventure game, and one of the best on the Rift. Don't miss out on this game.","Nov 10, 2018 at 5:47 AM",5, 7,
+2022-05-28 18:22:45.681903,Cypher360,An experience that stays with you.,"I really enjoyed Transference. First of all, I went into the experience pretty blind. Just saw a trailer and had a basic understanding of the premise. And I would recommend going in knowing as little as possible. After it was over, I immediately started from the beginning and started playing again for a bit, just to re-experience it with full understanding...well, not full understanding but more understanding. Plus I didn't collect all the videos on the first play through so I'm curious to see all of those.
+
+So, it's a mind-bending journey that had me constantly trying to piece together all the details laid out. The acting is serviceable, the environment is often creepy and unsettling. It's an interesting presentation of logically overlaid video mixed into the world.
+
+My only complaints are minor and don't hugely detract from the game. Both related to movement. I wish you could move a tiny bit faster (ever so slightly), and really dislike when games don't allow me to change my movement direction to be controller-based rather than headset. Especially in a game where it's a lot about watching.
+
+Overall, I think it was a good length (a few hours) and it kept me compelled the whole way through. I recommend trying to play all in one sitting if you can.","Sep 22, 2018 at 11:28 AM",4, 16,
+2022-05-28 18:22:45.697860,Aj9330,36 Hours of being impatient with Ubisoft,"I'm sure I would absolutely love this game but my patience is wearing thin. This is completely unacceptable. Other people are getting permissions updated so they can play meanwhile I wait..... for what? Remove uplay from your VR content. Its such a bad game launcher!!
+I deleted my comment about shovelware. It's not the devs fault and I will absolutely update my review as soon as i get to play
+EDIT: Finally got to play it and oh man what a game!!! Cool puzzles, not simple and not too tough. Graphics are great and oh my god the sound. I've heard good spacial audio in the rift but this one seems special. If you find the voice recorder in the kitchen pick it up and move it all around your head. Impressive!! In other words audio is fantastic all around. This is in my top 5 now! great albeit short experience 5 stars","Sep 25, 2018 at 7:36 AM",5, 16,"Please contact support at www.support.ubi.com, they can manually adjust your account permissions."
+2022-05-28 18:22:48.799564,FunkyLasagne,Broken,"Currently the game simply wont start.  It complains about an authentication error and that Uplay is not logged on (it is).  Steam users had the same problems.  Devs have fixed it for Steam but not here.  Will adjust review when devs fix this broken software
+
+[Edit] Game now fixed and starts (although you may need to restart).  Tried a few minutes so this is not a final review just an update now it is working.  I'm not sure if I am missing something but I didn't have to push the controller stick down to move, I just pushed it forward as per usual so not sure if something has been changed or I missed the point of earlier comments (I can see the issue about movement being slow though, but this is likely much more difficult to fix).  I'll update again once I've had a chance to experience the game a bit, but just moving the rating back to neutral.","Sep 19, 2018 at 5:29 PM",3, 10,Glad you got it working!
+2022-05-28 18:22:48.814525,FrontFoot,,The Uplay log-in take 30 seconds and the controls are totally fine! Ignore the negative reviews! This is an insanely immersive and polished VR story/experience/escape the room game. I've completed it once and looking forward to going back through to see what I missed. You won't find a VR game with more polish or a better story. It's a bit pricey given it's short length but don't let that put you off.,"Sep 23, 2018 at 12:00 AM",5, 6,
+2022-05-28 18:22:48.829485,sebrk,Unable to start game,"I can't play this game since Uplay doesn't authenticate my ownership of it. It is not listed in Uplay like my other Ubisoft games. I've tried everything but no go. I've also reached out to Oculus but they cannot help me, but at least they did respond. Ubisoft as per usual has the worst customer support ever and still has not responded to my inquery. I am not eligable for refund since I've actually launched the game a couple of times to see if an update would fix it. So here I am stuck in Ubisoft limbo.
+
+I will update this review when this gets resolved.","Oct 5, 2018 at 8:55 PM",1, 3,
+2022-05-28 18:22:48.845442,Bowski,Touch not working,"Uplay? Really Ubisoft... Are ou kidding me? 
+
+However, unfortunately the touch controllers are not working properly. Seams to be some kind of conflict during controller movement... hard to explain. :-(
+
+Fix it and I will change this review.
+
+Maybe I should have bought this on steam...","Oct 15, 2018 at 2:02 AM",1, 2,
+2022-05-28 18:22:48.863394,BenMusak,Holy moly what a game,"It's scary at the right parts, the jumpscares are timed well, the graphics are amazing, the story is great and the progression is nicely paced.
+
+The only thing is subtle glitches, even though some objects tend to despawning in my hands making me have to restart the game, but luckely they are not game breaking bugs. It's also a bit too short, but there's some tapes to found adding a bit more gameplay.","Sep 23, 2018 at 1:42 AM",4, 4,
+2022-05-28 18:22:52.001999,jsworks,"Really impressed, absolutely love it!","I've played most of major VR titles, and wow... I don't have words to describe this.
+This is a perfect definition of what VR games should be. It's polished, it has amazingly good art design and graphics, it has a non-trivial and exciting story, sound design and music are excellent. This game targets teen-to-adults audience, which is another thing you rarely see in VR.
+I've played it to the end on my friends account and was so impressed that I bought it for my account as well to play again at some later point and see what I've missed. 
+It would be really awesome for other devs to try making games like this, everyone seems to be tired on point-and-fire shooters based on mechanics alone.","Oct 20, 2018 at 10:54 PM",5, 0,
+2022-05-28 18:22:52.018954,RoxasBeatz,Still not fixed!,"EDIT: It's fixed for me.
+
+The UPlay Authentification Problem is still not fixed for me.
+I already wrote to the support but they couldn't help me to fix it, and that was over 13 hours ago. I dont know why ubisoft fixed it for a few people here, but not for me?","Oct 9, 2018 at 5:19 AM",3, 6,"It should be resolved... if you are still encountering issues, please contact our Support Team again at www.support.ubi.com. They should be able to fix the authentication problems (though those should not be occurring anymore). They may request more information from you in order to isolate the root cause of the problem."
+2022-05-28 18:22:52.033913,Gecko22,interesting game,"I like the game okay sofar, very dark, sound is pretty amazing, but Uplay has been a pain to deal with. if you don't want to deal with a second game launcher, you may want to skip this game.
+ 
+P.S. The developer response attached to this review was incorrect. the problem wanst fixed, it took over an hour with support to get the game working. so please dismiss their response.","Sep 20, 2018 at 5:22 PM",3, 4,
+2022-05-28 18:22:52.049871,One21Gigawatts,Very cool!,The devs have fixed the startup error. The game works fine now. This has been an awesome experience! Very well done! I would say it's more of an interactive experience than a game though. But it's an experience that sticks with you. I would love to see more stuff like this in the future.,"Sep 21, 2018 at 11:54 AM",5, 4,
+2022-05-28 18:22:52.064831,Fredrix,Great for what it is,"First of all. Yes I had issues before I was able to play the game. First it told me that I could not install the final part of the download (which had something to do with an install from Ubisoft or something), so I restarted Oculus Service and reinstalled the game. This time it finished dowloading the game. However, while trying to load the game it told me that I had no authentication of the game in Uplay. So I put down my headset and saw that I had to accept the linking between the Uplay and Oculus accounts. But it still did not work. So I restarted my computer and tried again. And finally, the game launched.
+
+I played through the whole game in one go, which I feel is the best way of experiencing this game, mostly because you are pretty immersed while playing. The game only took me about two hours to finish and I did find all the videos except for one. So I would say that it is pretty expensive for its length. However, this game has quality, which is expected from a company like Ubisoft, so I was totally fine with the length of the game. But do not expect too much, because you will be walking around in the same appartment through the whole game. But the story, tension and immersion were amazing! 
+
+I give it 5 stars because it was playable. The immersion, story, actors and the tension were amazing. And I would love more games with this kind of quality.","Oct 1, 2018 at 12:48 AM",5, 2,
+2022-05-28 18:22:55.133623,firebane,Holy this is good!,"Ok, a whole lot of reviews talking about controllers not working right in steam.  That does not apply here.  Controllers were perfect.
+
+I didn't experience any of the log in issues that were being reported below.  Maybe ubi fixed it.  Dunno, but I had no problems.
+
+Normally I'd give this one 4 stars.  The only knocks are the length, it's a very high quality title, but rather short.  Under 2 hours.  Wish there was game to play.  And the other knock would be the movement.  There's just locomotion, which for me is fine, but you move based on the direction you're looking, not the direction of the controller.  Which is not fine.  There should be an option for either.  Head direction locomotion can be pretty intense.  Hope they hear me out.
+
+Otherwise, great job guys.","Sep 19, 2018 at 7:59 AM",5, 11,
+2022-05-28 18:22:55.149581,Kenobi3380,Very intense Psycho-Thriller!,"After some first day difficulties, the problems are fixed, game runs very smooth on my GTX 970, no problems at all. Transference is very immersive, good voice acting and production value, I got no motion sickness but the movement is based on Headset rotation and not the Touch Controller, make this at least optional. In VR its all about different options, you should know this, some are already there, like smooth/snap turning, but it could be better. The game is not cheap, Iam ok with it for 2h of fun, because of great immersion and storytelling, I hope we will get some more experiences like that from Ubisoft.","Sep 20, 2018 at 7:50 PM",4, 11,So glad you got it working!
+2022-05-28 18:22:55.165537,hookman,"Polished game, AA quallity","uPlay authentication is now fixed.
+
+This plays really well, graphics are great, the touch controls work very nicely (unlike apparently the steam implementation).
+
+This is the kind of quality we need to see on Oculus going forwards.
+
+Probably only downside is apparently the length, though I haven't finished it yet so can't comment on that.
+
+Also an option for teleport would be appreciated, as the free movement, though slow, can cause VR sickness.","Sep 20, 2018 at 1:18 AM",5, 3,"Glad to see you got it working! We have a few comfort options in the Settings, but I'll pass on your feedback regarding teleport locomotion."
+2022-05-28 18:22:55.180498,PYR0X,Piece of art,"This game is a VR piece of art. Do not listen all other reviewer that leaved less thant 3 star because of the (quick fixed) first realese day bugs on Oculus. We need more VR game like this one to promote the VR. Please stop writing bad review for nothing! That affect the sales and then, the income for all devlopers able to do another games like this one. This game is unique and beautiful! It totally worth the 29$ I payd for it. Thank you for this game!","Oct 26, 2018 at 5:53 AM",5, 7,
+2022-05-28 18:22:55.196455,CrazyBob,,"Game of the Year. Amazing.  I have never felt so immersed and this game gives you a real sense of presence. Incredible production values, high quality art and music.  This game is  a true VR experience. BUY IT!!!","Sep 23, 2018 at 9:31 PM",5, 3,
+2022-05-28 18:22:58.274223,TheWoos,,"I paid good money for this and now i have to contact support to get it to run. It's not like im the first person complaining and they havent known about the Uplay connection issues. Well done, just raised a ticket and presume i will now have to wait 24-48 hours to get this resolved. Congratulations on finding a way to get your customers to dislike you before even playing the game..... If i like the  game i may give it three stars but this is unacceptable.","Nov 25, 2018 at 2:44 PM",1, 1,
+2022-05-28 18:22:58.290180,nrosko,Worth a buy.,".....I'm unable to start the game says to log in but i already am. I see no Transference in my uplay purchases.
+Updated: Game works & has been fixed. 
+First of all controls. We have free locomotion , this is a good thing. Direction is controled by the direction you look. This is not a preference for me i prefer using touch. Its not a disaster though & we at least have a straff. The main problem was straff is at half the speed as walking forward so it was a bit of an anoyance & i hope they change that. 
+I had no issues with having to press the stick to move. Pressing the stick actually crouched to the floor & this was handy to pick up objects low down. All buttons seemed logically mapped like grab & menu. 
+I wished we had more menu options, seems in vr most devs choose not to give us much gfx options which is frustrating. Pixel density should be mandatory in all games imo. At least you get a gamma option wghich is something i don't see too often & i set mine to the lowest & i think that worked well. 
+The graphics presentation & art in the game are really well done. I set it to 1.8pd & highest quality shadows & the game ran really well. No issues with colour banding or black smear it was just very solid & stable. There are lots of horror vr games set in an appartment or house but i think this is the best graphicaly so far in that setting. Audio is also very good & designed carefully to enhance the game. 
+I enjoyed the story its pretty mental & not exactly clear whats going on but it worked for me. 
+The game is fairly scary or I should say unsettling, its not as bad as some vr games though & never felt the need to stop playing. i don't think that is a bad thing as some games in vr are just too much. 
+Game was pretty easy, you solve simple puzzles & its short. Some might argue that its not good vaue for money but i actually think it was worth it. When you think what some experiences like titanic vr cost & they are really not nearly as much work as this must have been.","Sep 20, 2018 at 6:33 AM",5, 7,
+2022-05-28 18:22:58.305141,Fuldece,Super Spoopy Super Good,All I got to say is SSSG. Super Spoopy Super Good. For real though this is a fantastic game with an even better atmostphere. I had chills down my back through the entire gameplay with a fantastic story making you feel so connected to the chararcters your intruduced to. I feel like a detective trying to solve the story before it unravels as you play. As soon as you start to feel comfortable the game thows a curveball. Making you panick trying to make a correct decision. Wonderful game and definetly in Top 5 VR games. IGN 10/10,"Sep 26, 2018 at 3:17 AM",5, 1,
+2022-05-28 18:22:58.322095,citron4000,Very recommended,"The graphics and the audio are absolutely stunning.
+
+I have just finished the game and this is an experience I will remember for a looooong time. I've never been so immersed and scared in a game.
+
+And I've got no problem whatsoever with bugs or with launching the game. It seems Ubisoft took care of fixing the launcher problem previous reviews mentioned.","Oct 13, 2018 at 5:38 PM",5, 1,
+2022-05-28 18:22:58.338052,Moike,Finally was able to play through.,"Initial issue: Failure to start / load due to Ubisoft's broken Uplay service. Fix required opening a ticket with Ubisoft support who had to manually tweak my Uplay account licensing to get issue resolved.
+
+The puzzles required a bit of thinking but were not overly difficult.  Not a bad thing when you really want to enjoy the story.
+
+The experience is beautifully done, the atmosphere is goosebump inducing at times, and the audio engineering is wonderful. The jumpscares when they do happen are well done and not telegraphed. The reviews are right, it's like being in a very creepy Black Mirror episode.
+
+Finally, since I was able to play though it in an evening and I thoroughly enjoyed the story... IMHO, for me it was 24 bucks well spent.  I dug it.","Sep 30, 2018 at 4:51 AM",5, 3,
+2022-05-28 18:23:01.447735,eldritchhorror,,"I am uninstalling and reinstalling and hopefully it will work. I had the same validation error that others are getting. I spent over an hour in chat with Ubisoft and it's still not validating. I tried the demo on PSVR and enjoyed it but this is beyond annoying and if this doesn't work I will request a refund.
+Still not workiing for me. I should have known better than to even buy it!","Sep 19, 2018 at 10:12 PM",1, 5,"This issue should now be resolved, please update our Support Team at www.support.ubi.com if you are still encountering difficulty running the game."
+2022-05-28 18:23:01.463692,saedus101x,"Bravo Ubisoft, I want more.","After that loggin issue has been worked out, and now that i had a chance to beat the game, wow, it was like a nightmare version of cyan's Obduction, i loved, great story, unsettling but fantastic.","Sep 24, 2018 at 12:20 AM",5, 4,This issue should now be resolved!
+2022-05-28 18:23:01.479650,jo_0,You guys bungled this launch.,"Same issues as others. And I'm not going to spend an hour fixing it. Clearly logged in by default and still getting an error message.
+
+Was really looking forward to jumping into this! Shared the trailer with friends. Big disappointment.","Sep 21, 2018 at 2:41 PM",1, 2,
+2022-05-28 18:23:01.494609,SuperTed-NL-,,Really awesome experience with the quality of an AAA title. Audio and graphics quality is really good. This is a storytelling / adventure type title mixed with video of true actors. It really has great immersion and thrills. One of the better VR titles for me!,"Oct 2, 2018 at 3:32 AM",5, 1,
+2022-05-28 18:23:01.511564,ratblast,,"Game will not load that leaves you with a error code you  need to contact support.ubi.com ......What PISSES me off is ubisoft had the same problem when Star Trek vr came out. You would think they could learn from the first time this happened .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+after 3 days of waiting for Ubisoft to fix the problem  i am able to play the game . 
+
+The game still has a major problem in the form of a glitch that happens quite often when moving around. You shrink in size almost like you are on your knees all of a sudden or even lower. It usually will pop back to regular view if you move around some more , but not always. I had to quit the game because i was stuck in shrunken view . For now until a update or 2 come along it really has not been tested very well and my review will remain at 3 stars . Yes it is cool and something different that i have not seen done before , but for a big developer they really need to hold back longer to get things right.","Sep 22, 2018 at 1:54 PM",3, 4,"What is the error code? You filed a support ticket at www.support.ubi.com? They are usually very good about responding immediately and have been alerted to potential issues with the Oculus version, so maybe try again in case your message didn't get through."
+2022-05-28 18:23:04.601300,eheesoo,Does not even start,"Some stupid error message like ""cannot confirm the ownership of the software..."" Be ready to get messed with the similar problem. I used to like Ubisoft but now the name has become  complete nightmare.","Sep 26, 2018 at 10:06 PM",1, 2,
+2022-05-28 18:23:04.617258,fredenchine,Vraiement moyen ...,"Le jeu débute bien, une ambiance très originale, de beaux graphismes, les premières énigmes sympa, c'est pourquoi je lui donne trois étoiles ... mais ensuite, il devient vite très répétitif, peu inspiré, brouillon. Il y a quelques bugs de déplacements. Les deux dernières actions sont difficiles à trouver car elles ne sont pas du tout amenées par l'histoire (surtout une, qui est vraiment inutile et vous donne un bon mal de crane). Et le jeu est très court (2 ou 3 heures).","Sep 23, 2018 at 5:42 AM",3, 1,
+2022-05-28 18:23:04.633215,clintbrewer,the most amazing vr experience!,"you owe it to yourself to play this,  yes it is intense and has horror moments, but it is not horror for horror's sake, there are some beautiful and horrible themes woven throughout,  simply amazing experience.    I hope to see more from this group","Oct 1, 2018 at 4:28 AM",5, 1,
+2022-05-28 18:23:04.650169,L.E.D.BLUE,Listen to the negative reviews.,"This game will not authenticate with Uplay. I have Star Trek and it works but with this I get ""Not connected to Uplay Please login and reset the game"" over and over.
+IT DOES NOT WORK. But yet Star Trek works.
+Refund!!","Nov 24, 2018 at 11:37 AM",1, 1,
+2022-05-28 18:23:04.667124,Trackerpad,INCREDIBLE!,"This game is so good i've already played it twice!
+
+Please delete the one star reviews from when the game wasn't working at launch. 
+
+This and 'the invisible hour' both stuck with me more than any other VR game i've played.
+
+Pros:
+Great acting
+Most immersive VR game ive played
+Amazing graphics
+Great story
+Chilling atmosphere
+
+Cons:
+Quite short
+
+
+P.s. I would appreciate a break down of all the meanings in the game as a few things im still unsure about.","Sep 24, 2018 at 1:44 AM",5, 1,"If you're encountering the authentication issue, please contact www.support.ubi.com so a Support Agent can take a look at your account - unfortunately, we have to adjust the access manually while we are looking for a resolution."
+2022-05-28 18:23:07.768829,BruinsPaddy,Bit short but lovely,"Hey Guys, 
+
+Quick Revue after i went through that game in about 2 Hours.  Playtime is a bit too short and hopefully there will be a bit more coming. 
+
+Graphics, Gameplay etc. are amazing. So even it was short it´s still worth the money.","Sep 27, 2018 at 12:20 AM",4, 1,
+2022-05-28 18:23:07.784785,audzilla,Inaccurate product description,"The product page says this game does not require internet, but then won't start without a uPlay login.","Oct 8, 2018 at 10:40 AM",2, 4,
+2022-05-28 18:23:07.800744,raycapozziello,Wow,Ubisoft support fixed my issue day one. just finished the game and holy crap that was cool. It's a little on the short side but i'll enjoy watching my friends crap their pants playing it. Highly recomend if you like Black Mirror,"Sep 22, 2018 at 6:51 AM",4, 3,This issue should now be resolved!
+2022-05-28 18:23:07.816700,B_O_Z_1,Very Intriguing,Great game. Lots of twists and turns and a great who done it and why mystery.,"Oct 13, 2018 at 3:30 AM",5, 0,
+2022-05-28 18:23:07.832658,RyanDeLuca,,Unbelievably immersive escape room experience. This is the scariest entertainment experience I've had in my life. Try it!,"Sep 26, 2018 at 10:38 AM",5, 1,
+2022-05-28 18:23:10.917407,ParadiseDecay,1st Impressions Video + Commentary!,"https://www.youtube.com/watch?v=AlTXrTidfzs (Please Note: links from Oculus are not working yet, search YouTube for 'Paradise Decay VR Transference'
+
+ My Thoughts:
+The quality and attention to detail in this title is amazing, the creepy atmosphere and sounds alone are enough to make the hairs stand up.... never mind the clever jump scares.
+This game is now in my TOP 100 VR games, but I have been hearing worrying reports that the game is only an hour long? But, if you're like me, and like to take your time and explore then I would say you are looking at a 3-4 hour experience.
+PS. I have heard from friends who have completed the game, that on a 2nd playthrough the game had changed!","Sep 20, 2018 at 2:55 AM",4, 3,
+2022-05-28 18:23:10.935360,wrectangle,WHY THE ANNOYANCE OF,GOOGLE AUTHENTICATOR??!?!,"Sep 23, 2018 at 2:09 PM",1, 2,
+2022-05-28 18:23:10.956303,glrocha,CANT EVEN PLAY,same issue as everybody with u play not validating the game. Will get refund,"Nov 24, 2018 at 9:07 AM",1, 1,
+2022-05-28 18:23:10.972260,Finulin,Intense experience,Some problems with touch controllers.,"Sep 19, 2018 at 5:00 PM",3, 0,We're aware of some control issues when running the Oculus version through Steam and are working on resolving those. Thanks for your patience!
+2022-05-28 18:23:10.988218,Mancomb_Seepgood,Top tier VR suspense/sci-fi puzzler,"The top quality graphics along with a very interesting and suspensful storyline had me hooked from moment one to ther very end. This is not a long game by any stretch. I got through it in about 2 hours, but it is still very much worth the price.
+
+This is what I love about VR, experiences like this really suck you in and take your senses on a wild ride.
+
+There were a few minor bugs, when I bent down for to long the game would re-calibrate my height for some odd reason. I would have to hit the re-calibrate button when I stood back up.
+
+All in all, a great ride. Loved it.","Sep 25, 2018 at 8:11 AM",5, 1,
+2022-05-28 18:23:14.110866,lee-juhyun,Not working,"Not working
+I can't start the game because of Uplay authentification issue","Sep 21, 2018 at 2:24 PM",1, 3,
+2022-05-28 18:23:14.126823,pu.pu.pu04071739,Cannot play,"the game just wont open.. i was so excited to play this game, but i somehow cannot go any further than the motion sickness warning page.","Oct 22, 2018 at 6:49 AM",1, 1,

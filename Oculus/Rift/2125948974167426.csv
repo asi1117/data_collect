@@ -1,0 +1,188 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 18:35:31.382953,SteakoLeMako,Cannot Open Game,"Update:
+So I reset my overclock and changed my RAM config and the game then started working, But maybe an hour later the game just suddenly stopped working again with the same issue.
+------------------------------------------------------------------------------------------
+No matter what I have tried ever since I bought this game which was today I have not been able to open it. 
+My (Basic) Pc Specs are: 
+I7-9700K @4.7Ghz
+24GB DDR4 2666Mhz
+MSI RTX 2060 Gaming Z
+------------------------------------------------------------------------------------------
+Upon trying to open this game on the computer I use for Vr it will get to the splash screen and then procede to crash. This happens every single time I open the game. 
+This game opens fine on my other computer but is for the most part unplayable due to it having a GTX 1050 in it which with a quick check is found to be below the minimum spec.
+Also I am well aware that my memory config is weird but I have had no problems playing any other games using this config.",Mar 14 at 10:32 AM,1, 1,"Hello there! Thanks for reaching out, I'll send your feedback to our devs so they can take a closer look into your issue. For a better following up, please send all this information to info@odderslab.com"
+2022-05-28 18:35:31.397913,ChildLifeTech,Great for physical therapy!,"I work at a children's hospital, and we really like using OhShape for physical therapy! We use the OhShape editor to create custom levels so that we can choose songs that the kids like, and so that we can customize the choreography to each patient's needs. It's a fun and motivating way to do physical therapy, and the kids really enjoy it. Thanks for creating this really cool (and useful) game!",Sep 22 at 1:10 AM,5, 5,
+2022-05-28 18:35:31.412873,Ema2210,Great game!,"Caravan Palace DLC is fantastic. Whoever designed the song ""Wonderland"" is a genius and deserves a raise.",Sep 29 at 5:46 AM,5, 4,
+2022-05-28 18:35:31.426835,Aspirine_du_13,I can't open the game,"I bought this game yesterday and it's not opening. I tried to delete it and download it 5 times but nothing worked. 
+Please help me !","Apr 12, 2021 at 7:16 PM",1, 1,"Hello Aspirine_du_13,
+
+We have run a test and we can't reproduce the issue, it works fine for us. To give you further assistance, please send us this information:
+
+-Your VR Headset
+
+-Platform (Oculus Rift, w suppose)
+
+-Your logs (located on C:/Users[UserName]/AppData/LocalLow/Odders)
+
+Please send us all this information to info@odderslab.com"
+2022-05-28 18:35:31.442793,Stump-_-,Quarantine blues? Get this,"This is what I needed to get excited about my Rift again! If you like music, and/or moving, you will like this game. It has great tracks, it's simple, with a range of difficulty, and it really gets you moving in a fun way. I find myself literally laughing out loud. 
+  I just got into loading custom songs, which are also great, and that makes it even more awesome!!! Kudos!","Oct 31, 2020 at 10:54 PM",5, 11,
+2022-05-28 18:35:34.561451,godmiguel,Tracking is off,"The tracking is off.  I use both the Oculus Rift and the Oculus Quest and on both systems several of the barriers don't pick up my movements accurately.  I play several other games like this (Beat Saber, BoxVR, Dance Collider, AudioTrip, etc) on the hardest difficulty settings and never have tracking issues.  Both this will allow me to pass through barriers when my arms are completely wrong and will fail me on barriers where my arms and body are where they are supposed to be.  Very annoying to play when you keep failing out even though the moves are particularly challenging.  Going through on ""practice"" setting doesn't help either because practice setting doesn't tell you if you missed the target or not.  I'm not sure what the point of practice is, if it doesn't provide any sort of feedback.  The game is a good concept and would be fun, if it wasn't so annoying.
+I'm sure developer response will be to blame it on calibration errors, but my floor level is set correctly, I am standing over the ""feet"" during the game, and my controllers are being picked up correctly.  Considering I have been playing so many other similar games for the last several years with no calibration issues, It is a software issue on their end.","Oct 4, 2020 at 6:37 PM",1, 8,"Hello godmiguel,
+
+If you have already tried all the calibration and gameplay tips, there must be another issue. Please send us an email to info@odderslab.com with this information:
+
+-Your VR Headset
+
+-Platform (Steam, Oculus, Viveport…)
+
+-Your logs (located on C:/Users[UserName]/AppData/LocalLow/Odders)"
+2022-05-28 18:35:34.577409,Bergil,Great concept ruined by poor calibration,"I like the concept and enjoy games like Beat Saber and VR Box that get you moving. The idea of moving your entire body is exciting and a great addition to fitness VR. Unfortunately, the game is marred by bad calibration and non-existent feedback. Even when I'm in position with no shadow, the wall often fails, and there is no indicator as to what part of the body the game thinks is in the wrong place.  There isn't a calibration routine where you can match motions and make adjustments, so you're just dumbfounded when you get to the end of the routine and the games says you hit x%, or the routine stops because you failed, but you have no idea why. You also can't adjust the height manually without a calculator, since for some bizarre reason it lists height as decimals instead of feet and inches or just inches. If you lower the accuracy, so that the game plays sensibly, it lowers your score, so you can't fix the game that way either.
+
+If you want to play in no fail mode just for the exercise, it's probably fine. If you want to compete or play for points, trying to get better each time, it's a waste of money. Either just buy it knowing that you have to play no fail and wait for improvements, or just wait until they get it working.","Aug 10, 2020 at 2:17 AM",2, 5,"Hello Bergil,
+
+It seems you are experiencing some calibrations issues. Please make sure the floor of your VR headset is well calibrated as OhShape is more sensitive than other games to this changes. On the other hand, we want to improve the height system so you can choose between decimals or inches (right now it does it automatically depending on the country).
+If you still have issues after checking your floor, please send us an email to info@odderslab.com and we will assist you."
+2022-05-28 18:35:34.592369,citycat60,I loved it!!!,"I tried Ohshape for the first time last night and it was so much fun. I started getting sedentary after teleworking from home this past month.  I have many exercise/dance games for my Wii & Xbox , but I was bored with it and needed something different.  So I decided to give Ohshape a chance after watching a few videos of it on YouTube.  And I am so happy that I did; as I'm a young at heart senior and cannot afford to let myself go.","Jun 9, 2020 at 11:26 PM",5, 7,"Hello citycat!
+
+Thanks for sharing your experience with us! We love people are having fun and staying fit thanks to OhShape. We will add more content and features to the game in future updates, this is just the beginning! :D"
+2022-05-28 18:35:34.606331,gragaselbarbas,I feel like a dancer,"This game surprise me. I thought never feel like a dancer while I playing VR game. I love it. The music content is madness, It has all music styles you can imagine. Have fun!!","Oct 20, 2020 at 6:44 PM",5, 0,
+2022-05-28 18:35:34.621292,Slick1984,First Impression,"I just played my 1st Oh Shape! game. It was the Unicef $1 donation. I played the beginner mode. I have a limited space, so I wasn't sure how to select the ""small space"" setting, as it's not listed in the options menu. It's listed once a song is selected, an odd spot for it, as it should be located in the options.
+
+I did play through the tutorial to start, as it should be. But, the tutorial doesn't allow the selection of the ""small space"" setting. That is why it should be in the options menu. 
+
+The workout was quite good. It was slow enough for me and had a lot of squats and a lot of shoulder work (what I need). I'm sure that I will be feeling this in the morning. Be sure to limber up . 
+
+I'm really curious to try the custom song area, as the song selection is mostly not my taste in music. Although, some songs were good, I prefer my own.
+
+I don't dance, but this is more like working out, than dancing. It would be strange if I saw someone on the dance floor moving like this.
+
+I did give it 4 stars because it makes working out, fun. If I like the custom song area, I'll give it 5 stars. For the little bit that I played, it did make me sweat.
+
+A good work out routine might look something like Box VR, Oh Shape! and then finish off with Beat Saber. Or maybe Beat Saber in the middle to rest the legs from squats. I think the comfort is closer to green than yellow.
+
+And one other thing... when selecting height, why are you mixing measurement types? Why is the height, for instance, 5.43 ft? If it's in feet, use 5ft 5in or metric 165cm. Or better yet, let the user choose which type of measurement to use.","Apr 21, 2020 at 9:45 AM",4, 13,"Hello Slick1984,
+
+Thanks for your feedback! About your concerns, we will think about the small room option location. In future updates we will allow the player to choose the type of measurement they want."
+2022-05-28 18:35:37.725987,bobbyomac,Great workout game,"This gets the blood pumping after a bit and is super fun to play. It's also really easy to jump into and start having a good time, so it's awesome for guests too. Given the low price, I highly recommend the game.","Jun 15, 2020 at 11:04 PM",5, 2,
+2022-05-28 18:35:37.741945,szy33,,"I have to admit it's fun to play. But I have to rest now.. building up some muscles.
+
+Sometimes, I get a sound when matching a wall. Most of the times I don't. Even though i match perfectly the tutorial wall (tested it there) it's weird. First, I thought it's the height setting, thus I tried some different from 185-210. But I couldn't figure out why I only get a sound at about 1/4 of all walls in tutorial. Other songs are similar.
+
+One thing I am really missing is to recalibrate the view. I don't want to have the cable in front of me when playing. Please allow us to recenter the view. Or simply tell me how it's calculated. Maybe the position where I started drawing the guardian?!
+
+And about boxing and collecting the coins.. is there a benefit of making a fist for boxing (triggers pressed)? What about collecting? Open handed, do you have to close them for grabbing the coins?!","Sep 6, 2020 at 6:02 PM",4, 0,"Hello szy33,
+
+Thanks for your feedback. I think the sound you are talking about is the combo meter, it happens every time you sucessfully pass 3 walls in a row (combo x2) or 4 walls in a row (combo x3 and x4). Please bear in mind failing a wall restarts your combo meter.
+
+About the way to recalibrate the view, you can do it from the Oculus Guardian system. We are thinking about ways to do it inside the game but we still don't have the perfect solution.
+
+For the boxing walls: you don't need to push the triggers, although you can do it if you want for the inmersion. The score doesn't change if you hit with the fits or the open hands, but the speed matters: the faster you hit the walls, the higher the score (maximum 1000 points).
+
+Similar for the coins: you don't need to have the hand open, you can grab them with open or closed hands."
+2022-05-28 18:35:37.757902,NV,So far so good,"I only have about 30 mins of playtime in so far
+
+The Good: Super fun, I play it on normal room area, and it requires plenty of space which is fun since I setup my VR area with alot of space and the majority of games just want you to stand still.  I havent tried the small room option, but I'm assuming it would be just as fun.
+
+As for my height adjustment im in the US, and it auto selected ft+inches
+
+I'm a big fan of custom songs, so im excited to start those up. 
+The built in songs have been fun so far, and its not be hard to learn. I can easly play on normal, but I usually choose hard with nofail on cause it keeps me moving :D  I plan on playnig alot more.
+
+What may need some more work:
+For me, I feel like my armspan is wider than the holes. I've tried adjust the height, and that helped with the head position (which was a little too short when I started).  But if I extend my arms both all the way parallel to the ground, they are longer than the holes, this sems to matter most on the full spreadout arm wall i just mentioned, and any one with 1 arm full extended,  if my arms are bent for some of the other poses, It's easier for me to compensate.
+
+If there was an option to calibrate arm width or something I think that would really be helpful for this issue. Who knows, maybe there is and I just couldnt find it. lol
+
+I'm using a standard Rift with 3 sensors
+
+I'm looking forward to all future updates, thanks dev team!","Aug 24, 2020 at 12:35 PM",4, 0,"Hello NV!
+
+Thanks for your feedback! OhShape hit area has an oval form, so even if you feel the silhouette is a bit off, it should work right. The most important setting is height, either if you set this manually or automatically it must be well calibrated (it's very important to calibrate well the floor in your VR headset). If you struggle with some poses, please try with speed adjustments and practice mode so you can train with those especific walls."
+2022-05-28 18:35:37.773859,Plutonium-239,Great game but some issues need fixing,"Can't upload score on sever. Always the same error is displayed. ""Ops something went wrong"". Please fix. Will update review when issues are fixed.","May 24, 2020 at 8:28 PM",1, 1,"Hello!
+
+We are sorry to hear you are experiencing issues with the OhShape scoring system. To help you solve this we will need some more info:
+-What VR headset do you use?
+-Where are you from?
+-Are you using a firewall?
+-What antivirus do you use?
+
+Please send us this data to info@odderslab.com and we will try to resolve your problem."
+2022-05-28 18:35:37.788820,Manydoors,Strike that pose.,"Ohshape is in my personal top five music/dance-to games.  It's different, beautiful and overall fantastic fun.
+The developers are great.  They listen to the feedback and are doing wonderful things with Ohshape.
+If you like music/dance games then this is a must for your library.
+Oh! And playing it is so much better than watching it on you-tube. When you get on that treadmill you are hyped.
+Ohshape is one of the best games of the genre.  There are only a handful of such games, but this is one of them.","Mar 13, 2020 at 3:55 PM",5, 8,
+2022-05-28 18:35:40.913462,madamluck,Gets you moving !!,"Looked like a fun game to me so I bought it.. and sure enough it is a fun game BUT I miss judged the workout I would get from it... after 30mins I’m sweating heaps and I’m feeling the burn all over my body lol but yeah it’s truly a great game that gets you moving and your blood pumping. At first I thought I could handle the higher levels but learned quickly that in fact.. no , no I can’t lol. Starting on the lower levels and working my way up as I learn how to position my body better to get those better scores. Overall I’m happy with my purchase and I look forward to see what more the devs add to the game","Feb 24, 2020 at 5:36 AM",5, 6,
+2022-05-28 18:35:40.929419,dingofoxvrfox,getting better but not quite there,nice job,"Jun 15, 2020 at 12:42 PM",2, 1,"Hello Fox!
+
+Thank you for your review! Have you given it another shot? We've since updated the games quite a few times and added more content and features in process. After analyzing the reviews, we've also tweaked a bit the gameplay and we could say it's much more fun and rewarding now. 
+Please, consider giving it another go and revisiting your review after that with whatever feedback you have.
+Thanks a ton in advance!"
+2022-05-28 18:35:40.945377,PokemonTrainer1313,Amazing with room to grow,"I love this game so much! I love beat saber a ton and have gotten quite good at it (beating cycle hit for those who understand that reference point XD  )  and this is an amazing rhythm game that is very different. Though I love beat saber, I still can get bored after a few hours, but I'll still be wanting to play a rhythm game that moves as much and this game is the perfect addition to satiate that desire. I only got the game a few days ago, but I've been playing so much already and it's really just a great concept that was executed very well.
+
+Some points that I love about it:
+---There's a lot of movement. Unlike beat saber, where at higher levels it's mostly your wrist and occasionally shoulders so that you don't have excess movement, OhShape is constantly making you move your whole body and there's no cheating that. 
+---The songs, though few, have a decent variety. I like pretty much all genres of music, but it was still nice to have songs that didn't sound very similar in the short previews they give you.
+---There's good options to accomodate playstyle. They have 'no fail' so you can play harder songs without the annoyance of stopping the song in the middle. They have small room mode, which I haven't needed myself, but it's nice that it's there. They now have speed and precision settings which are very fun to play with to see where you can work.
+
+Things that aren't negative but I think would still be good to add:
+---Training mode. Similar to beat saber how you can start in different places in a song so you can practice sections near the middle or end without going through the whole thing
+---Harder difficulties. The hard songs are pretty hard and get you to move a lot, but I've already relatively mastered most of them. I've still been playing them, but it'd be nice to eventually have stuff that seems harder than impossible to the average veiwer XD
+---More information. I'd love to see more than the songs length; BPM, if possible, the distance you move, etc.","Dec 31, 2019 at 6:38 PM",5, 20,"Hello!
+
+Thanks for your review! We are happy to know you are enjoying OhShape. About your comments, there is really interesting feedback here.
+
+-A training mode would be cool, it's in our improvemnt list!
+-We are planning new mechanics that could spice up the game and add a better challenge for those who master the hardest difficulty!
+-It's interesting what you said about seeing more stats, so we will add it to our list :)"
+2022-05-28 18:35:40.960337,paquiroElVaqueroRift,Very very funny. I LOVE it,"OhShape is my favorite VR Video Game. It's an amazing game. Worth it to buy it. If you wanna have a good time or do exercise, this is THE GAME. The music is very good, they are always updating the game, with new improvements and new music. The community is awesome and they are creating a lot of custom songs you'll enjoy. The game is so hard but doesn't get frustrated... you're going to pick the mechanics very quickly.
+
+If you like Beat Saber or Pistol Whip, you're going to LOVE OhShape","Apr 6, 2020 at 3:55 PM",5, 2,
+2022-05-28 18:35:40.976294,karen.cusimano,"Love this game, with one exception","Played this via Viveport Infinity initially and left a great review for it there as well, and have been waiting for it to go on sale at the Oculus store so I could actually BUY it here, since games just run better here than anywhere else. 
+
+This is an awesome game, one of my favorites of all my workout games. With three levels to choose from, and the small space option, it's one that anyone can pretty much pick up and play. Thankfully, though, it has the No Fail option, since even though Shadow Me appears to be spot on filling in the shape, a lot of times it is still registering as a miss. :-/ Rather irritating, but at least with the No Fail option, it will let me keep playing and not cut it off mid song.  Hopefully that's something that will be fine tuned as things progress, and it's not SO bothersome that it kept me from actually buying the game.  
+
+I don't leave reviews often, but yeah, I really like this one. And the Christmas theme is a nice touch for the holidays. :)
+
+Also, any chance of this being ported out to the Quest? Just got one of those, and this is another one of those games that would SO benefit from being played cable free!","Dec 15, 2019 at 2:55 AM",5, 5,"Hello Karen!
+
+Thank you for your feedback! We know some walls can be a bit unforgiving at first, but with practice you will get there. Our recommendation: combine the no fail mode with a lower speed setting so you can have more room to practise each pose."
+2022-05-28 18:35:44.081987,goesBang,"Great idea, great implementation","As Beat Saber fan this is great for a diversion.
+The scaling is great, easy is not too easy, medium is challanging and hard is doable but very challanging. The songs are so so...some fine, some strange.
+The good tracking of the different stances is astonishing and after some excercise completely reproducible.
+My room is too small for left and right positions with extended arms...3 meter are not enough for this. There is a ""small room"" switch, didn't try.
+I will play again, high replay value.","Dec 18, 2019 at 4:53 AM",5, 2,
+2022-05-28 18:35:44.096947,taquitobuddy,Updated: Lots of potential but not ready,"Pros
+-The core gameplay is very fun and this could be a fantastic rhythm/workout VR game
+-The devs are continuing to update and improve the game
+-Custom music is now possible
+
+Cons
+-Needs to rework the visual indicators for when you are in the correct shape position.  The current ""shadow"" system is fine on the most easy parts, but during even medium difficulty or higher its impossible to tell if you are in the correct position.  My suggestion would be to have the light blue/green position walls change color when you are positioned correctly.  
+-Although custom maps are available, the included tracklist is still much too small with (IMO) not great music and none of it popular/liscensed stuff.
+
+
+Verdict:  Pass on this for now but add it to your wishlist to keep an eye on it.  When/if they add more options for the walls (they added an accuracy option this last update, but still need more/better visual indicators) and add more music this could certainly be worth it down the road.","Nov 15, 2019 at 4:34 AM",3, 5,"Hi AnnatarRedeemed!
+
+Thanks for your feedback. We are going to add more songs for the final release and the custom song support will provide much more content soon. We are always listening to the comments of our players, so we will keep improving the visual indicators and we will give all the tools necesary to create better experiences for everyone, as we did adding precision and speed settings, small room mode and no fail mode between other features."
+2022-05-28 18:35:44.112905,OddTone,it is crasy!!,"It is so fun, i am really excited for the final version.
+
+My sons spend a lot of time playing, they like the game.","Dec 14, 2019 at 1:15 AM",5, 2,
+2022-05-28 18:35:44.128863,Vulpelux,Please include a no fail mode,"This game is a lot of fun and a good workout but it isn't forgiving and if you miss the hole even slightly it counts it as a miss and after several misses the level fails. It's very frustrating. In Beat Saber I tend to play a song with no fail to see what I'm getting into and get used to it before tackling with full score. I'd give this game five stars if it had those kinds of difficulty mods like in Beat Saber so if you just want a workout or don't want to be failed for twitching when you go through the hole or want to see what the level is like you don't have to worry. Aside from this gripe the game is very well made. Needs more content but what cha gonna do, it is early access right now after all.","Oct 26, 2019 at 10:42 AM",3, 1,"Hi Vulpelux, thanks for your comments! 
+
+We covered all the issues you mentioned: we added precision and speed settings, no fail mode and even a small room mode so you can adjust freely adapt your experience each time you play. There is also custom songs support :)"
+2022-05-28 18:35:44.144819,The_K_Locker,This one is going to be good.,"My verdict is that this is worth buying right now for the obvious potential that it has, it's heaps of fun. Not sure what the point of waiting for the full game is, have a blast with the (limited number of) early access songs now and play the rest when the game is updated.","Oct 3, 2019 at 2:35 PM",5, 9,
+2022-05-28 18:35:47.262481,jaime.pichardogarcia,"Lots of fun, get ready to move!","Game is definitely fun! I haven’t moved so much with any other game so I always make sure to get my workout in with this.
+
+It’s still in Early Access but there’s enough content to already enjoy the game. I look forward to playing more songs once they come!","Sep 29, 2019 at 6:26 AM",5, 8,
+2022-05-28 18:35:47.278438,crotian.rulerz,"Good game, But not ready yet","This game is well made and I have seen no issues. There are no tutorials but it is very easy to figure out. The game is like hole in the wall but with music and dancing.
+
+Cons:
+Very bare-bones, only 4 songs with 3 modes each. Finished the game in about 15 minutes. Alot of fun but not quite in a finished state.","Aug 19, 2019 at 7:52 AM",3, 4,"Hello! We have updated the game, it now has 8 songs (and there are more songs on their way), we have added precision and speed settings, no fail mode and small room mode so you can personalize your experience. Also, we have added custom song support :)"
+2022-05-28 18:35:47.294395,Wargo,Really nice experience,I don't like to dance and yet I had a great time with this game. Highly recommended to spend fun times moving the skeleton!,"Oct 4, 2019 at 2:28 PM",5, 6,
+2022-05-28 18:35:47.309355,GPANEZ,looking forward to next updates..,"Very fun game, since it's a early access I'd like to suggest a few things: what about an ""options menu"" to be able to adjust the game a bit more to the gamers taste like height or scale or maybe the light of the vr room, i bet it'd look great in a dark room..also since this works great as a cardio game, I'd like to be able to speed up the music, I'd  problably spent most of the time if the calorie burnt here were comparable to beat saber's expert + levels (im sure it'd be higher since you have to move not only your arms but your whole body)  Or add higher beat music...and also a bit more data of the current song playing like how long it is or bpm.....So far it's a great concep, im very happy with my purchase, but looking forward to future upgrades...im sure i'd be a calorie killer...thank devs.","Aug 16, 2019 at 12:03 PM",5, 12,
+2022-05-28 18:35:47.325313,PlayerTwoDreamRoom,"Awesome, lots of fun!!!",Love Beat Saber and this is a new concept. Very very funny game. I love it.,"Aug 16, 2019 at 5:03 AM",5, 15,
+2022-05-28 18:35:50.424025,MrFlowerX,very fun!!!,"It is simple and very fun, perfect to play with friends, I hope new songs soon.","Aug 16, 2019 at 2:20 PM",5, 9,
+2022-05-28 18:35:50.438985,JimMiltonVR,Nice game,"This game caught my eye some time ago. I started playing it recently and it's a blast! It's very addictive, the songs are quite good (although there aren't too many right now, but it's an early access and will most likely get a level editor so it's cool for me). The medium difficulty is a good challenge for any player, but the Hard level is definitely only for pro players... I was exhausted after a few tries, but no doubt I'm going to put my name in one of those hard scoreboards!!","Oct 7, 2019 at 7:23 AM",5, 3,
+2022-05-28 18:35:50.454942,McKinze,fun and with potential,"I love music games and I wanted to try something different. I read some comments of people comparing OhShape with Beat Saber, but from my experience it plays different, as you have to move your whole body... My knees were on fire with some songs but it was fun! I'm looking forward for the more songs and it would be amazing if it had some custom songs as well","Oct 8, 2019 at 3:46 AM",5, 2,

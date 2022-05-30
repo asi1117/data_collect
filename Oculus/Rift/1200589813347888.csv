@@ -1,0 +1,30 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 19:49:18.713904,Chadd-Westland,Thank you for something with no violence,"Thank you for something with no violence and lovely music:
+
+This generation thinks that every one wants to listen, to the repetitive racket that goes for music now and shoot everything dead in sight.
+
+God Bless You","Dec 10, 2020 at 6:29 AM",5, 6,"What a lovely review. Thank you! :)
+
+Feel free to join the dedicated server when you play. I routinely play on the server to see who might be out there. You'll see me as Aquila_Dev, normally catching fish..."
+2022-05-28 19:49:18.729862,Thursby,Didn't work,"Both ""start flight"" and ""tutorial"" just go to a light blue blank space. No game, no flight, no tutorial.","Jul 7, 2020 at 7:39 AM",1, 1,"Please email me I could have helped you with this, as I had the same issue here although I thought I had fixed it :( . Hold CTRL as you launch the game from the Oculus Home desktop window and the Unity player settings will be displayed. Drop the settings to one lower, check that the resolution is 1920 x 1080 (to start) and give it another go. You can also try Windowed mode, as that increases the success even more. The issue is with an anti-alias setting in Unity, and the resolution erroneously becomes 0 x 0 which causes the crash. I have the settings set to ""Fantastic"" and it fixed the issue, which is with Unity and is awaiting a fix. There is little practical difference between the ""Fantastic"" setting and the top level, ""Everything"", except the anti-alias. Please get in touch on scottgj@gmail.com and we'll get this resolved so you are able to play. :)"
+2022-05-28 19:49:18.744822,ScrewLoose,,"This may eventually be a good thing but I cannot for the life of me figure out the controls.  Turning feels backward and no matter what I do, I crash.","Dec 29, 2018 at 5:35 AM",2, 1,The controls are unusual due to the way that they are working.  Drop us a line at scottgj@gmail.com and I'll do my best to help.  A new version is coming along soon. All the best. :)
+2022-05-28 19:49:18.759782,LanceManyLances,A VR bird sim that does real-world good,"One of the easiest purchases for me not just because it is a rare flight simulator which allows you to fly as a bird using bird flight physics, and not just because it supports Oculus Touch in a unique way but because even at it's reasonable price it benefits real-world raptor conservation. 
+
+Though it is being improved it works quite well as it is as a peaceful getaway to be able to literally spread your wings with your Touch controllers and soar as one of three species of eagle over Scotland, Columbia SA or Canada (BC) currently. 
+
+Clearly a labor of love to its author, what a cool idea giving purchasers a peek into the secret world of what it is like to fly as a bird in order to fund a charity to aid them.
+
+Plus if you get the Oculus version you have the option to get a Steam key for the new OpenGL version he is working on there. It's a win-win.
+
+I am very prone to VR sickness issues, lately I had issues with a VR art museum experience just walking around yet I have had no issues whatsoever with Aquila so far.
+
+You have many choices of gallery apps to give you a unique VR experience, this one stands out in my opinion.","Apr 30, 2017 at 12:33 PM",5, 9,
+2022-05-28 19:49:18.775739,StevieCQ,Getting Better,"I may be the worst case scenerio for any game since I have the minimal system required, plus I don't like to tweak any settings.  I've gotten used to things just working automatically.  Then again, if it works for me then anyone should be able to use it.  The latest update has really improved the comfort level so that I did not feel excessive dizziness unless I looked straight up while turning, which I did in trying to figure out how to soar and catch the thermals.  The game is much more playable now and quite challenging, but I would still not recommend it to someone like myself who wants an easy play and no nausea.","Feb 11, 2017 at 4:51 AM",2, 4,"Thank you for the feedback.  I have made numerous changes, including a few that may affect performance, so I would be interested to hear how it works for you now.  There isn't much I can do about the nausea looking upwards... however with the default options you get the 'bullseye' to allow you to center in a thermal, so you shouldn't need to now.  If you are nausea prone, I'd recommend soaring on the ridges only and not in the thermals."
+2022-05-28 19:49:21.891031,cdroulers,"Hard to control, not enough content.",Congrats for the effort. I think the bird is too hard to control.,"May 21, 2017 at 10:06 PM",2, 2,"Drop us a line on scottgj@gmail.com and let me know your control method, and if there's anything specific I can direct my attention to.  I understand about the content, but there's very little point me putting time into that when the foundation still requires work.  Thank you for your support. In time I'll make Aquila as good as I'm able."
+2022-05-28 19:49:21.905991,Greyman,Comfort Mode brings real improvement,"If you ever wanted to know what moved the Wright brothers to risk life and limb, then this will provide you with a very good idea.
+
+I've tried out the comfort mode and have not experienced any VR sickness, so that appears to work, for me at least.
+
+If you have any specific issues with the software, then i'd recommend letting Graeme know about it.  I have found his commitment, to making this program the best it can be, to be of the highest order.  
+
+By the way, i tend to use the 'headset' control method, which basically means you tilt your head to the left or right, look up or look down, to move in that direction.  I wouldn't have a clue whether that is how real eagles do it, but it does seem fairly intuitive.","Feb 7, 2017 at 3:28 AM",5, 4,

@@ -1,0 +1,46 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 20:10:36.137132,definitemaybe,It's great for what its supposed to be,"I'll start off by saying that this isn't something you should expect to visit more than once or twice. But it's free and worth checking out. It's a great demo for showing off their work. Had I not read the developer's comment to another review, I might not have enjoyed it as much. But knowing those things made it more enjoyable. I explored the apartment, outside, even the tower. its interesting to unbuild the tower while standing on it. Using the grip buttons is the only way to reach some locations, but its worth cycling through all of them. Oh, if you're curious which building is the tower, its the tall, mostly black/dark grey building, NOT the white and blue building with the crane next to it.
+
+i'm giving this 5 starts because it hits the mark for what it is. it's got a lot of detailed little things that show off what they intended to show off, and it does it well. i would not pay for this, but they aren't selling it. it's a neat little collection of their work. work they should be proud of.",Nov 10 at 11:35 AM,5, 31,"Thank you very much for your generous rating and kind review.
+
+- We hope you found the red Utah teapot. (it is not kept where teapots usually are, and is a homage to computer graphics).
+- And that you realized the time on the watch is the actual current time.
+- You could take a leap from atop the building and while doing so, turn back to look at it. (It is beautiful to watch the glass and steel whizz by.)
+- The multicolor livery on the car is based off Mr. Jeff Koons' BMW Art Car project, which we find lovely. We took care and effort to maintain accuracy. (We hope he likes it if he ever sees it.)
+- Also, we hope you enjoyed the vast gardens, which were landscaped with a lot of love.  
+
+The furniture, the car, the watch, the tower are all based on real-world objects that we love and are inspired by. Due to potential copyright issues, all the names, logos and descriptions had to be taken out. This was mildly heart-breaking as it dulls the relatability and immersion.
+
+You are right, renderB is good for just about one or two visits. And we hope everyone visits it at least once.
+
+With all that said, Yes! we are quite proud of what we achieved with renderB.
+
+Once again, thank you very much, for your kind review and rating.
+
+-thomas"
+2022-05-28 20:10:36.153088,airyn79,crashed 20 seconds in to it1,"loading in, pressed a few buttons seeme dot jum to varios rooms, then i pressed the right trigger and the entire game frozae, couldtn even bring up the dashboard so had to remove the heradset go to my pc and shut down the application. any game that forces you to remove the headset for me is deal breaking immersion killing. never went back on after than uninstalled the app. I am using a high end PC with RTX 2080 Super so there is no reason why this should be freezing due to hardware",Nov 12 at 6:50 AM,1, 2,"""But..but it works on my machine.""
+
+Just replicated your use case with ""right-trigger-press"" on a GTX-1060 with 6GB VRAM and have no issues to report. 
+
+I can only think of two scenarios which could cause it to crash.
+
+-1. low VRAM. (But the RTX 2080 should come with more than 6GB of VRAM, so this is ruled out)
+-2. a slow spinning HDD. (At its worst, this should not cause a crash, but a choppy experience as textures get resident. And as Boromir once said ""One does not simply pair an RTX with a mechanical-disk-drive."", I am ruling this one out too)
+
+Therefore, I am at a loss as to why it crashed, but I am sorry it did. 
+
+Thank you for trying and am sorry for your troubles.
+
+-thomas"
+2022-05-28 20:10:36.184006,Bee_3D,A bit buggy,"I really love how it looks and I could wander around for hours, but for some reason the height of my character is extremely broken and I get glitched in the floor when pressing down the joystick. Also in some areas it is extremely easy to fall off the map.",Nov 28 at 3:55 AM,5, 1,
+2022-05-28 20:10:36.198966,Valdovino,Colliders.,"You have some colliders problems on the pond bridge railing. The character is able to go throught it and fall into the water and then into the center of the ""World"".",Nov 27 at 11:34 PM,3, 2,
+2022-05-28 20:10:36.214923,FaigA,Nice App,"I was a poor man until I played this game , now I m rich",Nov 10 at 8:58 PM,4, 7,"Yes!  :)
+
+We did try to fill the apartment with various gadgets and nicknacks.
+
+""All of renderB'ase are belong to you""
+
+-thomas"
+2022-05-28 20:10:39.325181,Andr0ss987,"Good idea, just need a bit of dev.","the project is good, just need some fix in prices that ""blinking"" while moving around and dosesn't pop up in the right moment.
+standing up position is bugged for me, i need to use the sit down with a standup height to solve the issue.
+running on a amd 5600x +  nitro+ 6900xt 16GB",Jan 3 at 5:51 AM,4, 0,

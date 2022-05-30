@@ -1,0 +1,68 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 19:31:15.894129,CaesarexitoVR,Oculus Link?,"The program does not work with my Quest connected with Link, it starts but I can't move the hands inside the program becoming very difficult to make something at all. Is there any way to fix this issue?","Jul 4, 2020 at 9:12 PM",2, 3,"Thanks for the head's up! I believe we just figured out what the issue is so we should have a fix in our next bug fix update later this month.
+
+Update: The fix is out so it should work with Quest via Link now. Let us know if you still have any trouble with it!"
+2022-05-28 19:31:15.911083,Rowena151,Very good with a lot of errors,Program crashes several times and things like teleprompter and slide shows dont work. Other than that everything is fantastic.,"May 27, 2020 at 1:55 AM",4, 3,"Thanks for the review! If you're running into crashes, try the version on the Beta channel - it has a release candidate for our new stable version that ought to improve things for you :)"
+2022-05-28 19:31:15.927041,ChickenPangus,Such junk,junk,"Jul 3, 2020 at 11:14 AM",1, 1,
+2022-05-28 19:31:15.941509,Unyunz,Fun,Fun in a box for free! A little glitchy but very capable. Massive watermark.,"Nov 16, 2019 at 10:56 PM",4, 2,
+2022-05-28 19:31:15.957465,JudeVR,Good but a bit of a learning curve,this game is very fun once you learn how to use it but can be very hard to learn how to use.,"Oct 29, 2019 at 9:02 AM",4, 4,
+2022-05-28 19:31:19.068763,arqisac,Be the Puppet MAsteR!!!,"sincerely, flipside is those kind of things, you would like to know its exist before, or those you wish to exist and you even know... it amazing !!!!!","Mar 21, 2019 at 11:55 PM",5, 0,
+2022-05-28 19:31:19.083723,mattsinger,um...,"could you... make this multiplayer, so i can find somebody to animate, or mess around with plz? also i dont want to see my body just through the menu, i want to see my body in my pov.","Jan 22, 2019 at 1:34 PM",4, 2,"We have a multiplayer beta out right now!  You can sign up for it here - https://campfireunion.us9.list-manage.com/subscribe?u=f40f46d827631ee7693cb4f9f&id=0d6fff1258
+
+We're also working on an option to show users their bodies, so stay tuned for that!"
+2022-05-28 19:31:19.098683,pm48,Nice!,"As a 3D animator... I had a lot of fun with this app!
+
+Note to Developer: I would love it if there was way to export your animation (just the movement part of it) so that I can remap it too my own characters; so that I can add lighting and more advanced facial controls. :)","Sep 15, 2018 at 5:02 AM",4, 16,
+2022-05-28 19:31:19.114641,nightcat.mau,Great For Novices!,"I’m loving this software! Even if the most complicated animation you ever did before was stick figures (that would be me) this studio works really well. I haven’t done anything near the level a professional could, but I’m really happy with the sets, characters and animations. I wasn’t happy with how OBS recorded the entire screen, work panel included, so I switched to Bandicam and that records just fine. I just need more practice as I can feel close to the character but a recording will come out in a zoomed out shot. So it’s a lot to ask and maybe it is already there, but is there a way to see the mirror image we get for character selection while filming? I think it would show how close the camera is and it would be easier not to look off camera. But five stars for a studio even a novice can figure out.","Oct 22, 2018 at 3:02 AM",5, 2,"Thanks for the feedback! The OBS screen selection UI can be frustrating, but it is possible to select just the output without the switcher UI (but Bandicam works too!). You can also click the full-screen button on the bottom of the screen to hide the camera switcher - the camera switcher will then appear inside VR instead :)
+
+It sounds like from your mirror question that you're looking for our preview monitor. You can find it in the Set Builder under the Show Tools category. You should be able to grab as many preview monitors as you need and place them anywhere in the scene. Cheers!"
+2022-05-28 19:31:19.129600,SMAVR1,Does not work on our school Rift Station,We purcahsed this for our students and it stops at load up with an hourglass symbol. Very disappointed.,"Nov 13, 2018 at 5:13 AM",2, 2,"We're sorry to hear Flipside didn't load for you! If you try again and it still doesn't work, please email your output log to support@flipsidexr.com and we'll see what's up. The steps to find it are here: http://bit.ly/2TbyAYF"
+2022-05-28 19:31:22.262361,VanHoculus,Amazing!,"The fact that this is free is just unbelieveable. Although this is meant to make your own little movies in VR, it's also fun to just mess around with the models they have. I reccomend giving this game a try. This game has great potential!","Jul 31, 2018 at 12:50 PM",5, 2,
+2022-05-28 19:31:22.277321,grahamslam,"Wow! Fun, useful, just great!","This is my first review and I have lots of games and applications that I have tried extensively by now.  This is one of my favorites, very useful for recording animations and scenes. My daughter also loves to act out in it. You can become a character and act out a scene (which more seem to be added all the time - keep it up) or use puppet mode to control. Very unique and exactly the type of thing VR is made for. I haven't encountered any bugs, seems very polished to me. You can also add your own content, which I may try next. Thanks for this software!","Jul 17, 2018 at 11:40 AM",5, 2,
+2022-05-28 19:31:22.292281,emmi-la-floof,a little help?,so iv been trying to download this additional content that it apparintaly needs but nothing works,"Aug 15, 2018 at 11:05 PM",1, 0,Hi sir-parzival.  How can we help?  You can join our Discord or email us directly with the email that's provided on https://flipsidexr.com.  We would like to know what your challenges have been.
+2022-05-28 19:31:22.308238,dcm250451,Hmmm,"I really do understand that this is in development and we shouldn't expect a finished product, or even anything near that. Even so, it's hard to believe the previous reviewers have had the same experience as I have: I suspect they are friends of the developers!
+
+The tutorial says ""watch the video"" and eventually I worked out it was the little animation above the ""help"" text. Whilst it's useful to be shown how to choose / move / select / record / etc. there is absolutely no help in suggesting how doing these tasks would be used in actually making an animation. For example, there is a good range of predesigned sets, but absolutely no help in how to use one. The same goes for characters: we can admire some nifty humans / animals / creatures etc., but how to actually use one in an animation?
+
+In general terms, this criticism applies to all aspects of the program that I've managed to access.
+
+As I said, I really DO appreciate this is a work in prgress and I think (and hope) it may be an excellent program in time, but at the moment - judging by my experience - it's nowhere near ready to be put into the public domain, even as an early test version. In the meantime, I'll stick to 2D and Muvizu. But I will watch this space...
+
+Edit: I've now seen one or two YouTube videos and they help - slightly - but it still seems too flaky, quirky and clumsy to release even as an early version. Having said that, I still believe there's potential and wish the developers well.","Jun 27, 2018 at 3:59 AM",2, 1,"Thanks for putting the time to review our app. It sounds like our tutorial is still too confusing and/or not applicable to what you were trying to get out of it. Maybe we can help there. There are two types of recordings you can make in Flipside:
+
+1) Motion capture recordings, which are done via the Recordings tab on the palette menu (there's a floating red Record button above the palette, which could definitely be made clearer).
+
+2) Video recordings, which are done through integration with an open source app called OBS Studio. The reason we rely on OBS is because it's familiar to many YouTube and Twitch users already, and gives a ton of functionality like live streaming. We're working on improving our integration in a number of ways soon that will make the process of capturing video much clearer and more streamlined for our users.
+
+We encourage you to check out our Discord chat (https://discord.gg/q3n9ppA) where other users can help you out. This is definitely early days for Flipside so users will experience all the warts of an unfinished product, but we've made a dozen updates since releasing in early access already so it's improving all the time. We also have no idea who any of these reviews are from, except one name we recognize because she's an active member of our community. So believe it or not, they are honest user reviews and the positive response has actually surprised us too because we're acutely aware of where the product needs improvements :)
+
+Hope that helps, and thanks again for the feedback!"
+2022-05-28 19:31:22.324196,vinegarshots,Amazing Potential...Cant wait for more,"This has the potential to be game changing for animation. The ability to import assets is awesome. The interface is pretty glitchy right now (i couldnt get my hands to show up until i restarted the app 3 times, and deleting takes didnt work at first either), and the character loses sync with the audio for some reason. But with some fine tuning, this could be amazing.","Apr 25, 2018 at 3:30 AM",4, 8,"Thanks for the positive words! Sorry you experienced some glitches, we're working fast to improve things and fix any glitchiness (early access after all :) so soon those should be a thing of the past. Cheers!"
+2022-05-28 19:31:25.400569,DreamerO,Every Review Is True,"This app friggen rocks! 10/10
+-Super intuitive
+-Fun to play with even if you don't do anything with the videos
+-Can build complex scenes (and if you have more than one person it works great with multiple puppets)
+-Offers a GREEN SCREEN on top of everything else. Endless capabilities. 
+-Developers actively updating the game (more meme characters plz!!)","May 31, 2018 at 10:34 AM",5, 2,
+2022-05-28 19:31:25.416526,Roly_Poly,Epic!,"0 - Super duper advanced character creator wil keep you hapy and busy and leurning for long time! its truly spectacular!
+
+1 - Very Profesional High qaulity setup of everything, clear site, above average easyily, extremly high recomanded. Very grateful for this awsome adition the the oculus store.
+
+2 - should be alot of fun to for unity users of al skill levels, and it has the best scriped guides i have seen, and i have seen quite abit on unity
+
+3 - i keep finding more stuf! didnet even hit record yet :-) ow wait it has muticam, how cool is that!
+Realy like the idea of unity character creator, cant wait to try it out!
+
+this my character il be using :-)!
+https://sketchfab.com/models/7e2df9605044435db429ddc64f7bd8cf
+
+Huge Fan. Keep up the amazing work!
+
+it even has blendshape suport.how frigging awsome! was writing to request that in revieuw and 10 mins later i found out it has it already! WOOT!
+
+Kind Regards
+Daniel the furry Friend!","Apr 28, 2018 at 7:01 PM",5, 5,
+2022-05-28 19:31:25.431486,M1cH3LL,Awesome Animation Fun,"I really like this Thing and looking forward to whats coming next. Its like Mindshow, but better. It has a Puppet Mode that is really Fun, also the fact that you can import own objects and characters makes it perfect for own creation. I wish there would be an option to rework the animation of the bones in the replay frame by frame, for a really good shot.","Apr 27, 2018 at 11:34 PM",5, 4,"Thanks, reading this made our day! We've talked quite a bit about frame-by-frame editing, so I think I can safely say it's coming, but it'll be a little ways down the line (lots of things to fix and finish up in the meantime!)."
+2022-05-28 19:31:25.447443,DigitalJ3D1,This is going to be BIG! Try it out NOW!,"I was cruising the oculus store and was pleased to find this early access gem.  I was up and running  in a matter of minutes setting up my scene with my character, props etc.  Ezpz to add and remove objects in the scene.  I had a blast recording and watching the playback in VR! A feature not yet available down the road is a way to connect with friends to collaborate and create which would be awesome. While its still early and it does have some quirky issues the future looks very bright for this title and I look forward to additional content and updates.  See you all on the FLIPSIDE!","Apr 25, 2018 at 12:11 PM",5, 8,"Thanks for the positive review! We're so glad you're having fun making shows, and we'll definitely catch you on the Flipside! ;)"
+2022-05-28 19:31:25.463400,Astralirish,Really cool,"Great fun, really see the future of this vr stuff now","Apr 25, 2018 at 11:14 AM",5, 5,Thanks!
+2022-05-28 19:31:28.541299,the vr girl,THIS IS FREAKIN AWESOME,THIS IS THE VR APP MY DREAMS ARE MADE OUT OF. I WOULD GIVE IT 100 STARS IF I COULD,"May 1, 2018 at 1:57 AM",5, 4,

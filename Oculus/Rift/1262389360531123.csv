@@ -1,0 +1,51 @@
+﻿scrapping_date,review_author,review_title,one_reviews_text,review_date,review_rating,review_helpful,review_feedback
+2022-05-28 16:01:08.401533,Codexus,Relaxing puzzle game,"It's a pretty nice game, the puzzles are not too difficult and the simple but cute graphics make this game ideal for some relaxing VR.
+
+I would have liked some extra polish to iron out some minor glitches (I had to restart a level or two) and a bit more content.
+
+I hope to see more games like this one.","Apr 5, 2020 at 7:47 PM",4, 4,
+2022-05-28 16:01:08.415496,tacticalenuke02,Fun little puzzle game,"The game is fun to play, the puzzle are generally easy to solve, if you know how the objects in the environnement interact (you have to try a couple of times to find out, after it come easy). The graphics are good for that type of game and didnt encountered major graphic glitch. If it's on sale, don't hesitate, specially if you love puzzle game.","May 26, 2019 at 6:01 AM",5, 5,
+2022-05-28 16:01:08.429459,GreenSquid772,,Nice little hidden gem. Charming presentation with some fun puzzles.,"May 12, 2019 at 11:25 AM",5, 2,
+2022-05-28 16:01:08.444418,Death_Magnetic,fun! i played along with my 4 year old,This is my 1st review here and this game is such a delight. simple yet immersive. my son and i took turns at different levels and the fact that it only uses 1 touch controller meant my son could use 1 hand to hold the VR in place (his face is too small) while the other hand held the controller to guide the game character on his cute journey to find his puppy. the puzzles are just the right amount of tricky so didn't at all give any frustration to both of us. well done!,"Mar 30, 2019 at 7:27 AM",4, 4,
+2022-05-28 16:01:08.459378,StoneThorne,A fun game to play!,"The graphics aren't pristine, but they fit the game perfectly.  The puzzles are fun to solve and doable!  Hope they make a sequel.","May 1, 2019 at 6:11 AM",4, 1,
+2022-05-28 16:01:11.576043,audtoo,SO enjoyed this game!,"Made you think and figure things out. For me, it's replayable to get all the treasures and just to have fun! Have to figure out puzzles to get your kid and dog to move around. There were a couple where I did need help, but most of the puzzles were fun! Recommended.","Mar 7, 2019 at 1:29 PM",5, 0,
+2022-05-28 16:01:11.590005,rh_galaxy,I love it,"A great platform/puzzle game without hard enemies you have too beat. A game where you can take it slow, and just play. Playable by people with no gaming experience. You can choose how to play - by point and guide the kid forward, or with the joystick. Not as colorful or as much happening as in Lucky's Tale but a real nice game that too few have discovered. Also - Where have I seen that snow man? Liked that game too.
+
+I would buy a sequal or more levels if it came out!","Dec 15, 2018 at 2:14 AM",5, 6,
+2022-05-28 16:01:11.604965,cScottD,Cute and Enjoyable,"This is a cute and enjoyable little puzzle game. For the most part, the puzzles strike a nice balance between being too simple and being so difficult as to be frustrating. There are a few that had me scratching my head for a while (and a few that were super simple), but taken all together, they made for an enjoyable experience. I also like the added touch of the little trophies that you can pick up, which are added to the main starting room.
+
+If the developers ever make a sequel or an add-on, I would definitely grab it!","Mar 9, 2019 at 7:53 PM",4, 0,
+2022-05-28 16:01:11.619925,vdwtanner,10/10 Would high five again,"Very cute little platformer, runs great on my min spec rig. Was very pleasantly surprised to see the world expand. My only complaint is that the controls felt a bit weird at times (particularly in the menu, idk what's up with that laser pointer, doesn't behave the way I would expect), but nothing that actually gets in the way of enjoying the game. Thanks for the fun time Turbo Button!","Nov 20, 2018 at 12:04 PM",5, 1,
+2022-05-28 16:01:11.633888,cyclop3000,"Extremely bugged, cannot even play","This game is veeeery slow to load, every screen is super laggy, so much that it is not playable.  I've quit after a few minutes it's unbeareable.  On top of this Oculus won't give me a refund as I ''exceeded the 2-week refund period'' by a whole 2 days.  Thank you Oculus for this crappy client service experience.
+
+DEVs, please fix your bugs so we can play the game we paid you money for.","Nov 3, 2018 at 5:53 AM",1, 2,"Sorry to hear that the game isn't working on your setup. We'd suggest trying the following:
+
+- make sure you have updated your graphics drivers recently
+- if using a third party tool to force supersampling (such as the Oculus Tray Tool), please turn it off. Along Together already runs at a supersampled resolution and those tools will multiply it even further.
+
+If it still runs poorly after trying those steps, please reach out to us at hello@turbo-button.com and we'll see what we can do. Thousands of players are playing the game without this issue, but if this is caused by a problem on our end, we'd like to fix it."
+2022-05-28 16:01:14.716642,LazarusG,Cute bit of fun,"The main menu and stage select menus don't seem to work properly for some reason and the controls can be a little clunky. Aside from that, it was a cute puzzle game with a tad bit of a story. It doesn't have multi-player and I don't really see much replay value. If there's a sequel, I'll probably play it.","Aug 27, 2018 at 4:47 AM",4, 2,
+2022-05-28 16:01:14.733597,RuneSR2,Adaptive super-sampling causing issues?,"Ok, I may have solved some of the mystery - why Along Together may be unplayable on some high-end Rift PC rigs. Many users use Oculus Tray Tool (OTT) to change the global setting for super-sampling (ss). Unfortunately, Along Together seems to react to the global ss - but in strange ways.
+
+Selecting global ss 1.5 gives me ss 1.95 - 2.10 in game (2.10 when the game starts) - and changing global ss from 2.0 to 1.5 the game worked perfectly for the first time - that is, I got solid 90 fps using ss 2.10! That's cool! :-) (I'm using an oc'ed GTX 1080 and i7 7700K 4.5 GHz)
+
+But back to my usual global ss 2.0 (yes, I know that's pretty high but it works great in most of my games) - now the game starts in ss 2.60!  - And that didn't go well, sigh.  
+
+It seems that Along Together is using adaptive ss (or multiplies the global ss by 1.3 to 1.4), and if you're not using global ss of 0 (=1.0) this may lead to all sorts of errors. 
+
+My advice to the devs is to use non-adaptive ss of 1.0 in-game, then the game should be working perfectly on the Rift - for all users. Otherwise OTT users may create a profile, but shouldn't set ss higher than 1.5 - unless you're running a RTX 2080 Ti ;-)
+
+Also kind of a deal breaker - I'm left-handed, but it seems that I can't change primary hand from the right hand to my left hand?? Both my sons are left-handed too, so you get the idea. Please fix the game so users can choose between left or right handed controls!","Sep 10, 2018 at 5:01 AM",4, 2,"Thank you for this very detailed report! We have some supersampling enabled by default and it seems that it may be getting multiplied with the OTT setting rather than overridden.
+
+Regarding handedness swapping - you should be able to change handedness by pressing a button on the other controller if you're in the point-and-click controls. We don't currently have support for swapping handedness with the platformer controls but we'll look into that too."
+2022-05-28 16:01:14.748557,Dragonstryder,Unplayable,"It takes about 10 minutes to load the menu and select a Kid, then i saw 2 photos that took about 10 minutes as well, after that i already quit, can't play like this","Sep 1, 2018 at 6:28 AM",1, 1,"Sorry about that! There is an audio driver bug that causes performance issues for a small number of players. Until it's fixed, please try setting your PC's primary audio output to use the Rift's headphones, or if that doesn't work, you can change your Rift's audio to ""Rift Only"" (No Mirror). That should work around the issue and let the game run as intended.
+
+ Update: We've uploaded a new build that may address the problem (but we weren't able to reproduce it here in the first place). Please update to v1.3.3 or newer and let us know at hello@turbo-button.com if you're still having trouble."
+2022-05-28 16:01:14.763517,Doum76,Great Game,"Cute and fun, even for an old 42 yrs old guy, just the relaxing stuff i need in between those many first person shooters. :)","Sep 8, 2018 at 9:00 AM",5, 1,
+2022-05-28 16:01:14.779474,crazymurdock77,A great puzzle game,A really charmimg and fun puzzle game.  Gorgeous graphics.  The only thing that gives it away as a mobile port is the controls when using slingshot (the fact it is 1 handed).  Its always great to see some more 3rd person games in the store.,"Jun 3, 2018 at 8:28 AM",5, 13,
+2022-05-28 16:01:17.878186,ParadiseDecay,1st Impressions Video with Commentary!,"https://www.youtube.com/watch?v=MJekdHohLzM
+
+A cool graphically pleasing platform puzzle game in the style of 'Lucky's Tale'
+The puzzles start out simple but soon ramp up in difficulty and the game features Intelligent character designs and clever AI making you feel like you are always in control. 
+
+Throughout the whole experience you always feel like you are helping the main character find her missing dog. - Superb!","Jun 6, 2018 at 11:09 PM",5, 10,
