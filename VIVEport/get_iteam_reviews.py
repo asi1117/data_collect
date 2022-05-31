@@ -106,7 +106,7 @@ while (id<len(id2_list)):#第一次循环进行传递id
                     review_title = ''
                     print('提取評論標題出異常')
                 try:
-                    review_rating = soup.find('span', attrs={'class': 'ratingValue'}).text
+                    review_rating = soup.find('span', attrs={'itemprop': 'ratingValue'}).text
                     print(review_rating)
                 except:
                     review_rating = ''
@@ -146,34 +146,40 @@ while (id<len(id2_list)):#第一次循环进行传递id
 
                     dataframe.to_csv(str(id2_list[id])+".csv", index=False, sep=',', encoding='utf_8_sig')
                     print(str(id2_list[id])+".csv")
-                    time.sleep(2)
                 except:
                     print(id2_list[id],'评论有问题')
+            # try:
+            #     # page_count = driver.find_element(value='app-review-pager__number app-review-pager__number--current',
+            #     #                                  by=By.CLASS_NAME).text
+            #     #page_count =driver.find_element_by_class_name('app-review-pager__number app-review-pager__number--current').text
+            #     page_count = driver.find_element(by=By.XPATH, value='//li[@class ="item current"]').text.split(' ')[-1].replace('Page','').replace(' ','')[-1]
+            #     print(page_count)
+            #     #soup.find()
+            #     print('页数提取', page_count)
+            #     if int(page_count) != reviews_count:
+            #         print(page_count, '游戏评论页数')
+            #         print(reviews_count, '评论页数')
+            #         break
+            # except:
+            #     print('页面提取有问题')
+            # print('评论页数', reviews_count)
+            # reviews_count = reviews_count + 1
+            #driver.find_element(by=By.XPATH, value='a[@class="action  next"]').click()
             try:
-                # page_count = driver.find_element(value='app-review-pager__number app-review-pager__number--current',
-                #                                  by=By.CLASS_NAME).text
-                #page_count =driver.find_element_by_class_name('app-review-pager__number app-review-pager__number--current').text
-                page_count = driver.find_element(by=By.XPATH, value='//div[@class ="item current"]').span[-1].text
-                print(page_count)
-                #soup.find()
-                print('页数提取', page_count)
-                if int(page_count) != reviews_count:
-                    print(page_count, '游戏评论页数')
-                    print(reviews_count, '评论页数')
+                before = driver.page_source
+                driver.find_element(by=By.XPATH,value='//li[@calss="item pages-item-next"]').click()
+                after = driver.page_source
+                if before == after:
+                    print(id_list)
+                    print(len(id_list))
                     break
-            except:
-                print('页面提取有问题')
-            print('评论页数', reviews_count)
-            reviews_count = reviews_count + 1
-            try:
-                driver.find_element(by=By.XPATH, value='//li[@class="item pages-item-next"]').click()
-                time.sleep(2)
+                else:
+                    time.sleep(1)
             except:
                 print("这个游戏评论已爬完")
                 break
     except:
         print('这个游戏有问题', id)
-        worry_list.append(id2_list[id])
         print(worry_list)
         id = id+1
         break
