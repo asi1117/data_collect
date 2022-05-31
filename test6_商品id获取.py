@@ -30,7 +30,7 @@ from bs4 import BeautifulSoup
 import  traceback
 # %%% relevent website
 
-website = 'https://www.oculus.com/experiences/quest/section/391914765228253/'
+website = 'https://www.oculus.com/experiences/gear-vr/section/174868819587665/'
 
 # %%% initialize chrome
 # open website
@@ -45,7 +45,7 @@ condition_to_continue = True
 dataframe = pd.DataFrame()
 count =0
 js = driver.find_element(by=By.XPATH,value='//*[@id="footer-ssr"]/div/div[1]')
-for i in range(200):
+for i in range(300):
     driver.execute_script("arguments[0].scrollIntoView()",js)
     time.sleep(3)
     print(i)
@@ -56,7 +56,6 @@ for n in range(len(iteam_list)):
     soup = BeautifulSoup(iteam_list[n].get_attribute('innerHTML'), "html.parser")
     id1 = soup.find('a',attrs={'class': 'store-section-item-tile'}).get('data-testid')
     id_list.append(id1)
-    print(id1)
 print(id_list)
 print(len(id_list))
     # id = driver.find_element(by=By.XPATH, value='//a[@class="store-section-item-tile"]').get_attribute('data-testid')
