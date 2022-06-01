@@ -17,27 +17,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\4020038261419508.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\4220006248051477.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\4988470131168299.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\Astria_Reviews\HTC\viveCosmos\Amazon_Astria_HTC_Cosmos_reviews.csv">
           <value>
             <Attribute>
@@ -136,6 +115,48 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Oculus\Quest\3890197214406211.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oculus\Quest\4020038261419508.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oculus\Quest\4046879905345967.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oculus\Quest\4220006248051477.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oculus\Quest\4988470131168299.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oculus\Quest\5437449896288644.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Oculus\Quest\Quest_gameMessage.csv">
           <value>
             <Attribute>
@@ -144,13 +165,6 @@
           </value>
         </entry>
         <entry key="\Oculus\Rift\Iteam_message.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Oculus\Rift\Item_message3.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -214,6 +228,13 @@
           </value>
         </entry>
         <entry key="\US_Reviews\Oculus\Quest\Amazon_US_Oculus_Quest_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\VIVEport\viveProt_iteam_message.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
