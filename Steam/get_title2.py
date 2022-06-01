@@ -49,10 +49,9 @@ if __name__ == '__main__':
             dataframe = dataframe.append(pd.DataFrame({
                         'title': title,
                         'id': game_id,
-                        'href': j["href"].split('?')[0],
-                        'VR required': vr_required},
+                        'href': j["href"].split('?')[0]},
                         index=[count]))
-                    count += 1
+            count += 1
         dataframe.to_csv("VR_Only_titles.csv", index=False, sep=',', encoding='utf_8_sig')
         print(count)
         # for j in link:
