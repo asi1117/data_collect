@@ -59,20 +59,23 @@ if __name__ == '__main__':
                 vr_required = j.find('span', attrs={"class": "vr_required"}).text
                 try:
                     if vr_required == 'VR Only':
-
+                        #删除重复的
                         print(vr_required)
                         print("game title:", title)
                         game_id = j["href"].split('/')[4]
-                        vrOnly_list.append(game_id)
-                        dataframe = dataframe.append(pd.DataFrame({
-                            'title': title,
-                            'id': game_id,
-                            'vr_type': vr_required,
-                            'href': j["href"].split('?')[0]},
-                            index=[count1]))
-                        count1 += 1
-                    dataframe.to_csv("VR_Only_titles.csv", index=False, sep=',', encoding='utf_8_sig')
-                    print(count1)
+                        if game_id in vrOnly_list:
+                            print('有重复的id',game_id)
+                        else:
+                            vrOnly_list.append(game_id)
+                            dataframe = dataframe.append(pd.DataFrame({
+                                'title': title,
+                                'id': game_id,
+                                'vr_type': vr_required,
+                                'href': j["href"].split('?')[0]},
+                                index=[count1]))
+                            count1 += 1
+                        dataframe.to_csv("2VR_Only_titles.csv", index=False, sep=',', encoding='utf_8_sig')
+                        print(count1)
 
                 except:
                     print("vr_only写错误")
@@ -84,15 +87,19 @@ if __name__ == '__main__':
                     if vr_support == 'VR Supported':
                         print("game title:", title)
                         game_id = j["href"].split('/')[4]
-                        dataframe2 = dataframe2.append(pd.DataFrame({
-                            'title': title,
-                            'id': game_id,
-                            'vr_type': vr_support,
-                            'href': j["href"].split('?')[0]},
-                            index=[count2]))
-                        count2 += 1
-                    dataframe2.to_csv("VR_Support_titles.csv", index=False, sep=',', encoding='utf_8_sig')
-                    print(count2)
+                        if game_id in support_list:
+                            print('support_VR有重复的',game_id)
+                        else:
+                            support_list.append(game_id)
+                            dataframe2 = dataframe2.append(pd.DataFrame({
+                                'title': title,
+                                'id': game_id,
+                                'vr_type': vr_support,
+                                'href': j["href"].split('?')[0]},
+                                index=[count2]))
+                            count2 += 1
+                        dataframe2.to_csv("2VR_Support_titles.csv", index=False, sep=',', encoding='utf_8_sig')
+                        print(count2)
                 except:
                     print("vr_support写错误")
             except:
