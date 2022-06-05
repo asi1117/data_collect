@@ -80,7 +80,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Cannda_Reviews\Pimax\8K\Amazon_Canada_Pimax_8K_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oculus\GO\1279952315376503.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Oculus\Game_BestSaber.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Oculus\GeaVr\540612449397326.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -157,6 +178,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Oculus\Quest\705576999566582.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Oculus\Quest\Quest_gameMessage.csv">
           <value>
             <Attribute>
@@ -165,6 +193,90 @@
           </value>
         </entry>
         <entry key="\Oculus\Rift\Iteam_message.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\2VR_Only_Game_Inf.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\2VR_Only_titles.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\2VR_Support_Game_Inf.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\2VR_Support_titles.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\3VR_Support_Game_Inf.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\546560.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\555160.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\620980.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\VR_Only_Game_Inf.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\VR_Only_titles.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\VR_Support_Game_Inf.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Steam\VR_Support_titles.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -221,6 +333,13 @@
           </value>
         </entry>
         <entry key="\US_Reviews\HTC\vivepro\Amazon_US_HTC_VivePro_reviews.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\US_Reviews\Oculus\Quest2\Amazon_US_Oculus_Quest2_reviews.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
