@@ -4,7 +4,7 @@ All Reviews, Release date, developer, publisher, support headsets, input, play a
 ganer, system requirements
 '''
 import requests
-import row as row
+
 from bs4 import BeautifulSoup
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)

@@ -7,7 +7,6 @@ import time
 from webbrowser import Chrome
 
 import requests
-import row as row
 from bs4 import BeautifulSoup
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)

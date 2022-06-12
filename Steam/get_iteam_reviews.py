@@ -2,7 +2,7 @@ import csv
 import steamreviews
 import pandas as  pd
 #打开一个csv文件
-with open("VR_Only_Game_Inf.csv",'rt',encoding='utf-8_sig') as f:
+with open("VR_Support_Game_Inf.csv",'rt',encoding='utf-8_sig') as f:
     reader = csv.DictReader(f)
     game_list = [row['Game_id'] for row in reader]
 
