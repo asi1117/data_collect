@@ -29,12 +29,13 @@ id_list = ['2734683026604050', '1081190428622821', '2031736060288351', '24723749
 print(len(id_list))
 n = 0
 k = 0
+worry_list = []
 #得到商品的所有共同标签，将标签内容传到soup中
 #循环打开游戏的页面，获取上面的信息
-while(n<len(id_list)) :
+for id in id_list:
 
     # 得到商品id，通过访问url将商品信息输进去
-    url = 'https://www.oculus.com/experiences/rift/' + str(id_list[n])
+    url = 'https://www.oculus.com/experiences/rift/' + id
     n = n+1
     k = k+1
     driver.get(url)
@@ -75,17 +76,7 @@ while(n<len(id_list)) :
         iteam_price = ''
         print('价格失败')
     try:
-        # print(len(app_details))
-        # print(app_details[0].text)
-        # print(app_details[1].text)
-        # print(app_details[2].text)
-        # print(app_details[3].text)
-        # print(app_details[4].text)
-        # print(app_details[5].text)
-        # print(app_details[6].text)
-        # print(app_details[7].text)
-        # print(app_details[8].text)
-        # print(app_details[9].text)
+
         print(app_details[10].text)
         print(app_details[11].text)
         print(app_details[12].text)
@@ -93,7 +84,7 @@ while(n<len(id_list)) :
         print(len(app_details))
         print('到这一步了')
         dataframe = dataframe.append(pd.DataFrame({
-            'Game_Id': id_list[n-1],
+            'Game_Id': id,
             'Game_Name': iteam_name,
             'Game_price': iteam_price,
             'Game_description': iteam_description,
@@ -111,22 +102,16 @@ while(n<len(id_list)) :
             'Game_Website': app_details[11].text,
             'Game_ReleaseDate': app_details[12].text,
             'Game_Policy': app_details[13].text,
-            'Game_RecommrndedCPU':app_details[16].text,
-            'Game_RecommrndedGraphics':app_details[17].text,
         },
             index=[count]))
         count += 1
         print(count)
-        print(id_list[n-1]+'.csv')
-
-        dataframe.to_csv("Item_message4.csv", index=False, sep=',', encoding='utf_8_sig')
+        dataframe.to_csv("Item_messages.csv", index=False, sep=',', encoding='utf_8_sig')
         time.sleep(2)
 
     except:
-        print(id_list[n-1] ,"写文件出错")
-        n = k
-        continue
-
+        print(id ,"写文件出错")
+        worry_list.append(id)
 
 
 
