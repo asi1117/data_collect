@@ -48,19 +48,3 @@ while condition_to_continue:
         break
     else:
         time.sleep(4)
-# js = driver.find_element(by=By.XPATH,value='//*[@id="footer-ssr"]/div/div[1]')
-# for i in range():
-#     driver.execute_script("arguments[0].scrollIntoView()",js)
-#     time.sleep(3)
-#     print(i)
-# iteam_list = driver.find_elements(by=By.XPATH, value='//div[@class="section__items-cell"]')
-# print(len(iteam_list))
-# id_list = []
-# for n in range(len(iteam_list)):
-#     soup = BeautifulSoup(iteam_list[n].get_attribute('innerHTML'), "html.parser")
-#     id1 = soup.find('a',attrs={'class': 'store-section-item-tile'}).get('data-testid')
-#     id_list.append(id1)
-#     print(id1)
-# print(id_list)
-# print(len(id_list))
-    # id = driver.find
