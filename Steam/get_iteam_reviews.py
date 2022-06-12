@@ -1,3 +1,5 @@
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
 import csv
 import steamreviews
 import pandas as  pd
@@ -13,13 +15,18 @@ print(app_ids)
 #app_id = 573170
 #steamreviews.download_reviews_for_app_id_batch(app_ids)
 df_English = pd.DataFrame()
+
 for app_id in app_ids:
     review_dict,query_count = steamreviews.download_reviews_for_app_id(app_id)
     print(query_count)
+    print(app_id)
     #review_dict = steamreviews.load_review_dict(app_id)
     reviews = review_dict.get('reviews')
     cnt_English = 0
+    review_id = 1
     for recommendation_id in reviews:
+        print(review_id)
+        review_id = review_id+1
         inf = reviews.get(recommendation_id)
         language = inf.get('language')
         try:
@@ -51,4 +58,3 @@ for app_id in app_ids:
         except:
             print('这个评论不是英文')
     print(app_id,'这个游戏已爬完评论')
-    #print(query_count)
