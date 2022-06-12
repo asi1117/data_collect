@@ -4,7 +4,7 @@ import csv
 import steamreviews
 import pandas as  pd
 #打开一个csv文件
-with open("VR_Only_Game_Inf.csv",'rt',encoding='utf-8_sig') as f:
+with open("VR_only_Game_Inf(4).csv", 'rt', encoding='utf-8_sig') as f:
     reader = csv.DictReader(f)
     game_list = [row['Game_id'] for row in reader]
 
@@ -14,9 +14,11 @@ app_ids = game_list
 print(app_ids)
 #app_id = 573170
 #steamreviews.download_reviews_for_app_id_batch(app_ids)
-df_English = pd.DataFrame()
+
 
 for app_id in app_ids:
+    df_English = pd.DataFrame()
+
     review_dict,query_count = steamreviews.download_reviews_for_app_id(app_id)
     print(query_count)
     print(app_id)
@@ -54,7 +56,7 @@ for app_id in app_ids:
                     'written_during_early_access': inf.get('written_during_early_access')},
                     index=[cnt_English]))
                 cnt_English += 1
-            df_English.to_csv(app_id+'.csv',index=False, sep=',', encoding='utf_8_sig')
+            df_English.to_csv('D:/Pycharm/data_collect/Steam/reviews/'+app_id+'.csv',index=False, sep=',', encoding='utf_8_sig')
         except:
             print('这个评论不是英文')
     print(app_id,'这个游戏已爬完评论')

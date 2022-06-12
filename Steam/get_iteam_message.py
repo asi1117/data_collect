@@ -4,7 +4,6 @@ All Reviews, Release date, developer, publisher, support headsets, input, play a
 ganer, system requirements
 '''
 import requests
-import row as row
 from bs4 import BeautifulSoup
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
@@ -38,11 +37,11 @@ def get_html(url):
 if __name__ == '__main__':
     worry_list = []
     game_id = []
-    with open('2VR_Support_titles.csv', 'rt',encoding='utf-8_sig') as f:
-        reader = csv.DictReader(f)
-        game_list = [row['id'] for row in reader]
+    # with open('2VR_Support_titles.csv', 'rt',encoding='utf-8_sig') as f:
+    #     reader = csv.DictReader(f)
+    #     game_list = [row['id'] for row in reader]
 
-    id_list =game_list
+    id_list =['620980', '751440', '611670', '555160']
     print(id_list)
     gameCount = 0
     df = pd.DataFrame()
@@ -179,7 +178,7 @@ if __name__ == '__main__':
             print(worry_list)
             print(len(worry_list))
     # 将DataFrame存储为csv,index表示是否显示行名，default=True
-    df.to_csv("VR_Support_Game_Inf.csv", index=False, sep=',', mode='w+', encoding='utf_8_sig')
+    df.to_csv("VR_only_Game_Inf(4).csv", index=False, sep=',', mode='w+', encoding='utf_8_sig')
     print("Game count: ", len(game_id))
 
 
