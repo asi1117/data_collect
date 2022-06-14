@@ -58,7 +58,10 @@ for id in id2_list:
         print(worry_list)
         print("首页有个小问题")
         continue
-
+    try:
+        driver.find_element(by=By.XPATH,value='//button[@class="button special-category-modal__dismiss"]').click()
+    except:
+        print('不是特殊的游戏')
     try:
         review_page = driver.find_elements(by=By.XPATH,value='//div[@class="app-review-pager__number"]')[1].text.strip()
         print(review_page,'评论页数总共')
