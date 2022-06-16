@@ -37,12 +37,14 @@ id2_list =['4020038261419508', '4220006248051477', '4988470131168299', '28215091
 print(len(id2_list))
 driver = Chrome()
 worry_list = []
+little_list =[]
 condition_to_continue = True
 for id in id2_list:
     url = 'https://www.oculus.com/experiences/quest/' +id
     driver.get(url)
+    print(id)
     driver.maximize_window()
-    time.sleep(3)
+    time.sleep(5)
     pf = pd.DataFrame()
     count = 0
     try:
@@ -50,14 +52,25 @@ for id in id2_list:
             # 爬取一頁的所有的相關數據
             EC.visibility_of_element_located((By.XPATH, '//div[@class="app-review"]')))
     except:
+        worry_list.append(id)
+        print(worry_list)
         print("首页有个小问题")
-
+        continue
+    try:
+        driver.find_element(by=By.XPATH,value='//button[@class="button special-category-modal__dismiss"]').click()
+    except:
+        print('不是特殊的游戏')
     try:
         review_page = driver.find_elements(by=By.XPATH,value='//div[@class="app-review-pager__number"]')[1].text.strip()
         print(review_page,'评论页数总共')
     except:
-        review_page =''
-        print('没找到页数')
+        try:
+            review_page = driver.find_element(by=By.XPATH, value='//div[@class="app-review-pager__number"]').text.strip()
+            print(review_page, '评论页数总共')
+        except:
+            review_page = '0'
+            print("第二次找页面也失败")
+        print('第一次没找到页数')
     reviews_count = 0
     while condition_to_continue:
         try:
@@ -91,7 +104,7 @@ for id in id2_list:
                 review_data = soup.find('div', attrs={'class': 'app-review__date'}).text
                 #print(review_data)
             except:
-                review_data = ' '
+                review_data = '0'
             try:
                 review_title = soup.find('h1', attrs={'class': 'bxHeading bxHeading--level-5 app-review__title'}).text
                 print(review_title)
@@ -139,27 +152,33 @@ for id in id2_list:
                 count += 1
                 print(count)
 
-                pf.to_csv('C:/Users/ENeS/PycharmProjects/data_collect/Oculus/Quest/review/'+id+".csv", index=False, sep=',', encoding='utf_8_sig')
+                pf.to_csv('C:/Users/ENeS/PycharmProjects/data_collect/Oculus/Quest/review2/'+id+".csv", index=False, sep=',', encoding='utf_8_sig')
+
             except:
                 print(id,'评论有问题')
-                worry_list.append(id)
-                print('错误的列表', worry_list)
+        time.sleep(1)
         try:
-            now_reiewpage = driver.find_element(by=By.XPATH ,value='//div[@class="app-review-pager__number app-review-pager__number--current"]' ).text.strip()
-            print(now_reiewpage,'现在的评论页面')
+            try:
+                now_reiewpage = driver.find_element(by=By.XPATH ,value='//div[@class="app-review-pager__number app-review-pager__number--current"]' ).text.strip()
+                print(now_reiewpage,'现在的评论页面')
+            except:
+                print(id, '就一页')
+                break
             if int(now_reiewpage) == int(review_page):
                 print('这个游戏已爬完')
                 break
             else:
-                driver.find_elements(by=By.XPATH, value='//button[@data-testid="store:pdp:review-pager:next"]')[1].click()
-                time.sleep(2)
-        except:
+                try:
+                    driver.find_elements(by=By.XPATH, value='//button[@data-testid="store:pdp:review-pager:next"]')[1].click()
+                    time.sleep(5)
+                except:
 
+                    break
+        except:
             print("这个游戏评有问题", id)
             worry_list.append(id)
             print(worry_list)
             break
-
 # while (id<len(id2_list)):#第一次循环进行传递id
 #     website = 'https://www.oculus.com/experiences/quest/'+str(id2_list[id])
 #
