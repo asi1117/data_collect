@@ -21,26 +21,22 @@ import csv
 #         'Accept': '*/*',
 #         'Accept-Language': 'en-US,en;q=0.8',
 #         'Cache-Control': 'max-age=0',
-#         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36',
+#         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41',
 #         'Connection': 'keep-alive'
 #         # 'Referer': 'https://store.steampowered.com/'
 #     }
-#     try:
-#         r = requests.get(url, headers=headers, timeout=2000)
-#         r.raise_for_status()
-#         r.encoding = r.apparent_encoding
-#         return BeautifulSoup(r.text, "html.parser")
-#
-#     except:
-#         return ""
 
 
 if __name__ == '__main__':
         dataframe = pd.DataFrame()
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36',
-
-        }
+                    'Accept': '*/*',
+                    'Accept-Language': 'en-US,en;q=0.8',
+                    'Cache-Control': 'max-age=0',
+                    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41',
+                    'Connection': 'keep-alive'
+                    # 'Referer': 'https://store.steampowered.com/'
+                }
         count = 0
         for i in range(1,18):
             url = 'https://www.amazon.co.uk/Samsung-SM-R324NZAABTU-Galaxy-Controller-Version/product-reviews/B07142L1V6/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber='+str(i)
