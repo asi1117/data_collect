@@ -23,7 +23,7 @@ def analysis(file):
                 if sent[0] == 0:
                     neu += 1
                 if sent[0] <= 0:
-                    neu += 1
+                    neg += 1
                 if sent[0] >=0:
                     pos += 1
                 # neu = 0
